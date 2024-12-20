@@ -9,10 +9,7 @@
 
 # AN INDEX
 
-_Create a site or blog from your GitHub repositories with GitHub Pages._
-
 </header>
-
 <!--
   <<< Author notes: Step 1 >>>
   Choose 3-5 steps for your course.
