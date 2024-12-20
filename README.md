@@ -24,7 +24,7 @@ Welcome to _An index for Conlan_
 
 This is a website alpha version for recording some Conlan, created by a bunch of students in Linguistic. 
 
-### CONTENT
+## CONTENT
 
 1. An index for conlan
 2. Interesting world create content and fantastic imaginational creatures.
