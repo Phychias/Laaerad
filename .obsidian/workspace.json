@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛语.md",
-                "mode": "source",
+                "file": "docs/拉埃拉德/咕洛/咕洛神话草稿.md",
+                "mode": "preview",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "咕洛语"
+              "title": "咕洛神话草稿"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛语.md",
+                "file": "docs/拉埃拉德/laaerad 简介.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "咕洛语 的反向链接列表"
+              "title": "laaerad 简介 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛语.md",
+                "file": "docs/拉埃拉德/laaerad 简介.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "咕洛语 的出链列表"
+              "title": "laaerad 简介 的出链列表"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛语.md"
+                "file": "docs/拉埃拉德/laaerad 简介.md"
               },
               "icon": "lucide-list",
-              "title": "咕洛语 的大纲"
+              "title": "laaerad 简介 的大纲"
             }
           }
         ],
@@ -180,11 +180,11 @@
   },
   "active": "0e213f094e0ca70c",
   "lastOpenFiles": [
+    "docs/拉埃拉德/咕洛/咕洛族.md",
     "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/咕洛/咕洛语.md",
     "docs/拉埃拉德/咕洛/咕洛神话草稿.md",
-    "docs/拉埃拉德/咕洛/咕洛族.md",
     "docs/index.md",
     "README.md",
     "2021-11-22-22-54-02.png",
