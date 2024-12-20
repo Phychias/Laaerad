@@ -1,5 +1,5 @@
 
-# AN INDEX
+# 目录
 <header>
 
 <!--
@@ -12,19 +12,19 @@
 
 </header>
 
-## INTRO
+## 简介
 
-Welcome to _An index for Conlan_
+欢迎来到 _An index for Conlan_
 
-This is a website alpha version for recording some Conlan, created by a bunch of students in Linguistic. 
+这是一个人造语言目录的测试版本。
 
-## CONTENT
+## 内容
 
-1. An index for conlan
-2. Interesting world create content and fantastic imaginational creatures.
+1. 一个人造语言的目录。
+2. 这些人造语相关的世界观。
 
-### LAAERAD
-- Laaerad is a virtual world created in 2024. [[laaerad 简介]]
+### 拉埃拉德
+- 2024年一群志同道合的朋友创造了拉埃拉德原始语，以及相关的世界观. [[laaerad 简介]]
 
 <footer>
 
