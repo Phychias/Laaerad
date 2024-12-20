@@ -1,124 +1,60 @@
----
-title: Configuration
----
+# Publish your Obsidian Notes
 
-- [Obsidian Plugin](https://github.com/ObsidianPublisher/obsidian-github-publisher)
-- [Template](https://github.com/ObsidianPublisher/mkdocs-publisher-template)
-- [Documentation](https://obsidian-publisher.netlify.app/)
-- [Github Discussion](https://github.com/ObsidianPublisher/obsidian-github-publisher/discussions)
+MkDocs template [![Built with Material for MkDocs](https://img.shields.io/badge/Material_for_MkDocs-526CFE?style=for-the-badge&logo=MaterialForMkDocs&logoColor=white)](https://squidfunk.github.io/mkdocs-material/)
 
-## Repository configuration
+Would you like to take _some_ of your notes in [Obsidian](https://obsidian.md/) and make it public?
 
-The repository and the template rely on [GitHub Actions](https://obsidian-publisher.netlify.app/template/actions/) to generate the website. You need to configure the repository to allow the actions to work properly.
+This template gives you an easy (and automated) way to publish your Obsidian notes (or blog!) on your Github pages.
 
-[Carefully follow this links to understand which keys you need to create](https://obsidian-publisher.netlify.app/template/actions/#secrets)
+With this template, you get these **out-of-the-box**:
 
+- an awesome website based on Material theme, complete with a search bar (Checkout this template repo published [here](https://jobindjohn.github.io/obsidian-publish-mkdocs/))
+![](2021-11-22-22-49-26.png)
+- get the Obsidian/Roam style `[[wikilinks]]` from your vault in your published notes
+- Toggle between light and dark mode
+- Blog folder
 
-## Mkdocs configuration
+## Quick start
 
-You need to configure the plugin and the `mkdocs` configuration for it to work properly.
+1. Create a **new github repository using this template**. Click the green button at the top or use [this link](https://github.com/jobindjohn/obsidian-publish-mkdocs/generate). 
 
-You can find more information about creating the site using the [Material Mkdocs Documentation](https://squidfunk.github.io/mkdocs-material/creating-your-site/#advanced-configuration).
+![](2021-11-22-22-54-02.png)
 
-> [!Warning]
-> Configuration is mandatory. Do not configure the template will lead to crash during build and errors.
+2.  **Give a name** to your repository. By default your notes will be published at `<https://username.github.io/repo-name/>`
+     - Copy only the `main` branch while creating the repo from the template
+3. **Clone** the repository you generated **into your Obsidian folder/vault.**
+4. **Move your notes** that you would like to make public to the `repo-name/docs` folder.
+    - Easiest way to do this would be using drag and drop within Obsidian
+5. Commit and **push** the changes. Github actions will take care of the rest, publishing your notes using [MkDocs](https://www.mkdocs.org/), with the [Material theme](https://squidfunk.github.io/mkdocs-material/). 
+6. Go to `Settings > Pages` and select the select the **Source** as your `gh-pages` branch.
 
-There is two way to edit the template for creating the website :
-- Manually, with editing `mkdocs.yml` and creating appropriate workflows files,
-- Automatically, through a Github Action.
+![](2021-11-22-22-52-49.png)
 
-### Automatic configuration
+**Not working for you?** Open an [issue](https://github.com/jobindjohn/obsidian-publish-mkdocs/issues/new/choose) and let me know what went wrong.
 
-1. First go into SETTINGS
-  - In `Pages` : If you want to use the template with Github Pages, you need to activate the GitHub Pages in your repository settings, and use **action** to trigger the page build.
-  ![](https://i.imgur.com/VHPLooc.png)
-  - In `Actions` -> `General` : Allow Github Actions to read and write, and allow GitHub Actions to create and approve pull requests, as follows:
-  ![](https://i.imgur.com/w79NrA8.png)
-  Don't forget to save the changes!
-  - Create a [personal access token](https://github.com/settings/tokens/new?description=PUBLISHER%20TEMPLATE&scopes=repo,workflow), copy it and register it as a secrets :
-  ![](https://i.imgur.com/CW7YTms.png)
-  ![](https://i.imgur.com/9SCSooJ.png)
-  This key will also be used by the update workflows.
-  - If you choose to rely on netlify or vercel, [you need to configure the keys](https://obsidian-publisher.netlify.app/template/advanced_workflow/).
-2. Go into the Actions tabs
-3. Click on the Generate website workflow and `Run workflow`. A popup will appear, and fill the informations.
-  ![](https://i.imgur.com/QZj8bk0.png)
-  ![](https://i.imgur.com/n8wyvSp.png)
-  Each informations corresponding to the [mkdocs.yml configuration file](https://www.mkdocs.org/user-guide/configuration/).
-  By default, the workflows will send you a pull requests, so you can review the generation before the merging. You can automatically merge with the last options.
-  ![](https://i.imgur.com/SvPPyHc.png)
-4. Go into the pull-request tab. Verify all files, and if it's okay for you, you can merge the PR.
-  ![](https://i.imgur.com/zKtGagJ.png)
+## Configuring your website
 
-### Manual configuration
+### How do I arrange notes as sections and pages?
 
-[The configuration of mkdocs.yml is explained here](https://www.mkdocs.org/user-guide/configuration/).
+By default, the sections and pages will follow the folder structure within `/docs`. The folders and sub-folders will show up as sections. Try not to have white spaces in your folder and file names, as these will be converted to HTML links. The webpage heading will be the same as the first-level heading in the markdown note.
 
-1. First, edit the `mkdocs.yml` files with editing:
-- `site_name` : The name of your website
-- `site_description` : The description of your website
-- `site_author` : The author of your website
-- `site_url` : The url of your website
-- `language` : [The language of your website](https://squidfunk.github.io/mkdocs-material/setup/changing-the-language/)
-- In extra:
-    - `comments` : If you want to enable comments, you need to set it to `true` and [configure the comments](https://obsidian-publisher.netlify.app/advanced/customization/?h=comments#comments)
-    - `generate_graph` : Set it to `true` if **you use GitHub Pages** and you want to generate the graph view. Set it to `false` if you use Netlify or Vercel. [See here on how to configure the graph with Netlify/vercel](https://obsidian-publisher.netlify.app/template/advanced_workflow/)
-    - `auto_h1` : Disable the automatic generation of h1 if no h1 is found
-2. Create [keys if you use Vercel /Netlify](https://obsidian-publisher.netlify.app/template/advanced_workflow/).
-3. [Grab the `.env` and `deploy.yml` corresponding to your methods of deployment](https://github.com/ObsidianPublisher/actions/tree/main/template):
-    - `.env` must be placed at `.github/`
-    - `deploy.yml` must be placed at `.github/workflows/`
-4. For **Vercel** or **Netlify** ONLY, create a `requirements_actions.txt` file at the root of your repository, and add the following lines:
-    ```
-    obsidiantools==0.10.0
-    pyvis==0.3.1
-    ```
-5. **For Netlify ONLY** : Create a `runtime.txt` file with `3.8` in it.
-6. Create the [Github Personal Access Token](https://github.com/settings/tokens/new?description=PUBLISHER%20TEMPLATE&scopes=repo,workflow) and register it as a secrets (see the automatic configuration for this).
+- If you would like to arrange the pages manually, then use the `nav` option in the `mkdocs.yml` [configuration file](https://www.mkdocs.org/#adding-pages) at the root of this repo  to set custom page navigation.
+    - For example, see the setup for [the Blue Book](https://lyz-code.github.io/blue-book/) at [github](https://github.com/lyz-code/blue-book/blob/master/mkdocs.yml). Managing each page using `nav` can become cumbersome as the number of notes increase though!
+- The Materials theme provides multiple options to arrange [sections](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-sections), use [navigation tabs](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/#navigation-tabs), and many other helpful [navigation setups](https://squidfunk.github.io/mkdocs-material/setup/setting-up-navigation/)
 
-### Optional configuration
+## Alternatives
 
-To edit the logo and favicon, first put the chosen files in the `assets/logo` directory, and then change `logo` and `favicon`:
+- [binyamin/eleventy-garden: :seedling: A starter site for building a mind garden with eleventy](https://github.com/binyamin/eleventy-garden)
+- [datopian/obsidian-flowershow](https://github.com/datopian/obsidian-flowershow): plugin for publishing with flowershow direct from your obsidian vault.
+- [kmaasrud/oboe](https://github.com/kmaasrud/oboe): tool to convert an Obsidian vault into a static directory of HTML files.
+- [Jackiexiao/foam-mkdocs-template](https://github.com/Jackiexiao/foam-mkdocs-template): template for Obsidian/Foam using mkdocs/mkdocs-material/mkdocs-roamlinks-plugin
+- [foambubble/foam-template](https://github.com/foambubble/foam-template): Foam workpace template
+- [ObsidianPublisher/obsidian-mkdocs-publisher-template](https://github.com/ObsidianPublisher/obsidian-mkdocs-publisher-template): Obsidian Mkdocs Publisher, a free obsidian publish alternative throught Mkdocs
+- [KosmosisDire/obsidian-webpage-export](https://github.com/KosmosisDire/obsidian-webpage-export): Webpage HTML Export lets you export single files or whole vaults as HTML websites or documents. It is similar to publish, but you get direct access to the exported HTML.
+- [Enveloppe/obsidian-enveloppe: publish your notes on a GitHub repository from Obsidian Vault](https://github.com/Enveloppe/obsidian-enveloppe)
 
-1. `logo: assets/meta/logo_name.png`
-2. `favicon: assets/meta/favicon.png`
-3. To properly work with SEO, also edit the `extra` with `SEO: 'assets/meta/LOGO_SEO.png'`
+## Other interesting projects
 
-You can also customize:
+- [mathieudutour/gatsby-digital-garden: digital garden with Gatsby](https://github.com/mathieudutour/gatsby-digital-garden)
+- [TuanManhCao/digital-garden: Free Obisidian Publish alternative](https://github.com/TuanManhCao/digital-garden)
 
-- Font
-- Color scheme, palette, and icons
-- Language
-
-[Check the documentation for more information](https://squidfunk.github.io/mkdocs-material/setup/changing-the-colors/)
-
-You don't need to touch anything in `features` or `markdown_extensions`.
-
-#### Extra configuration
-
-The last part of the `mkdocs.yml` is a configuration for the `hooks` and the template Jinja displaying the list of articles (`blog_list.html`).
-
-There are also :
-
-- `SEO` (_`string`_): Link to your default image displayed by the SEO.
-- `comments` (_`boolean`_) : Allow the comments block at the end of the page
-- `generate_graph` (_`boolean`_): Generate the [[customization#Graph view|graph view]]
-- `attachments` (_`boolean`_): For [[configuration#Blog list (article listing)]] and image in SEO. Change it according to your Obsidian Plugin settings.
-
-##### Blog list (article listing)
-
-The list of articles is configured by the key `blog_list` and can take the following parameters :
-
-- `pagination` (_`boolean, default: True`_): Display a pagination if the list is too long.
-- `pagination_message` (_`boolean, default: True`_): Display a message with the number of posts (article/file) in the folder.
-- `pagination_translation` (`string, default: 'posts in'`): Translation of the pagination's message.
-- `no_page_found` (`string, default: "No pages found!"`): The text to display if no pages were found.
-
-##### Hooks
-
-This part contains the configuration of `hooks`, short python scripts that allow to patch some Obsidian parts incompatible with Mkdocs.
-
-You can configure :
-
-- The suppression of the Obsidian's comments (`%% comments %%`): `strip_comments: true`
-- A fix for headings, which adds a `#` to all headings (except the 6th one) because the Mkdocs TOC considers that the H1 is the main heading/title of the file: `fix_heading: true`

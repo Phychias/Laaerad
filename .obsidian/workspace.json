@@ -11,14 +11,10 @@
             "id": "9c2d1592cc6d7da5",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "README.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "README"
+              "title": "新标签页"
             }
           }
         ]
@@ -93,7 +89,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "README.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +98,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "README 的反向链接列表"
+              "title": "反向链接"
             }
           },
           {
@@ -112,12 +107,11 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "README.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "README 的出链列表"
+              "title": "出链"
             }
           },
           {
@@ -138,11 +132,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "README.md"
-              },
+              "state": {},
               "icon": "lucide-list",
-              "title": "README 的大纲"
+              "title": "大纲"
             }
           }
         ]
@@ -163,31 +155,36 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "9c2d1592cc6d7da5",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
-    "docs/拉埃拉德/咕洛语.md",
     "docs/拉埃拉德/咕洛神话草稿.md",
-    "docs/拉埃拉德/原始语.md",
+    "docs/拉埃拉德/咕洛语.md",
     "docs/拉埃拉德/Note 1.md",
+    "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德",
-    "docs/javascripts/mathjax.js",
-    "docs/javascripts",
+    "docs/notes",
+    "docs/hidden",
+    "docs/assets/css/customization.css",
+    "docs/assets/css/custom_attributes.css",
+    "docs/assets/css/admonition.css",
+    "docs/assets/meta",
+    "docs/assets/js",
+    "docs/assets/img",
+    "docs/assets/css",
+    "docs/tags.md",
+    "README.md",
+    "2021-11-22-22-54-02.png",
+    "2021-11-22-22-52-49.png",
+    "2021-11-22-22-49-26.png",
+    "docs/blog/posts/hello-world.md",
+    "docs/blog/index.md",
+    "docs/Topic 1/Note 2.md",
+    "docs/Topic 1/Note 1.md",
     "docs/Features/Text Formatting.md",
     "docs/Features/Mermaid Diagrams.md",
     "docs/Features/LaTeX Math Support.md",
-    "docs/Features",
-    "docs/blog/posts/hello-world.md",
-    "docs/blog/posts",
-    "docs/blog/index.md",
-    "docs/blog",
     "docs/index.md",
-    "generate_template.py",
-    "find_unused_media.py",
-    "overrides/partials/source-file.html",
-    "overrides/partials/post-list.html",
-    "docs/tags.md",
-    "README.md",
     "docs/拉埃拉德/Note 2.md"
   ]
 }
