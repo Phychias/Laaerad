@@ -1,12 +1,4 @@
 {
-  "github-sync:github-sync-command": [
-    {
-      "modifiers": [
-        "Mod"
-      ],
-      "key": "S"
-    }
-  ],
   "editor:set-heading-2": [
     {
       "modifiers": [
