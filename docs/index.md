@@ -35,7 +35,7 @@ This is a website alpha version for recording some Conlan, created by a bunch of
 
 ---
 
-&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlan that's not created by Phychias is owned by its creator. &copy;
+&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlan that's not created by Phychias is owned by its creator. &copy; ---
 
 </footer>
 

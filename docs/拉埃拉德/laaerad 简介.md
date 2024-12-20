@@ -7,10 +7,8 @@ Status: todo🌱
 Description: 
 Citations: 
 tags:
-  - 笔记note
-  - 素材matr
-  - 设定bckg
-  - "#异界lerd"
+  - Laaerad
+  - 设定
 share: "true"
 ---
 # 拉埃拉德 Laaerad 简介
