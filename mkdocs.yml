@@ -59,13 +59,7 @@ plugins:
       categories:
         - categories
         - tags
-  - ruby:
-      global_enable: true
-      title_enable: true
-      outer_begin: '{'
-      outer_end: '}'
-      inter_begin: '('
-      inter_end: ')
+
 
 extra_javascript:
   - javascripts/mathjax.js
