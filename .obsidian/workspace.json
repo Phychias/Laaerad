@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/laaerad 简介.md",
+                "file": "docs/拉埃拉德/原始语.md",
                 "mode": "source",
                 "source": true
               },
               "icon": "lucide-file",
-              "title": "laaerad 简介"
+              "title": "原始语"
             }
           }
         ],
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/拉埃拉德/laaerad 简介.md",
+                "file": "docs/拉埃拉德/原始语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "laaerad 简介 的反向链接列表"
+              "title": "原始语 的反向链接列表"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/拉埃拉德/laaerad 简介.md",
+                "file": "docs/拉埃拉德/原始语.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "laaerad 简介 的出链列表"
+              "title": "原始语 的出链列表"
             }
           },
           {
@@ -154,10 +154,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/laaerad 简介.md"
+                "file": "docs/拉埃拉德/原始语.md"
               },
               "icon": "lucide-list",
-              "title": "laaerad 简介 的大纲"
+              "title": "原始语 的大纲"
             }
           }
         ]
@@ -180,6 +180,7 @@
   },
   "active": "9c2d1592cc6d7da5",
   "lastOpenFiles": [
+    "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/咕洛语.md",
     "docs/拉埃拉德/咕洛神话草稿.md",
     "docs/index.md",
@@ -189,7 +190,6 @@
     "requirements_actions.txt",
     "requirements.txt",
     "exclude.yml",
-    "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/Note 1.md",
     "docs/拉埃拉德/Note 2.md"
