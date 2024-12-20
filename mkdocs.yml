@@ -1,4 +1,4 @@
-site_name: obsidian-mkdocs template
+site_name: An-index
 
 theme:
     name: 'material'
@@ -7,7 +7,7 @@ theme:
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default
-      primary: pink
+      primary: grey
       accent: indigo
       toggle:
         icon: material/toggle-switch-off-outline
@@ -16,7 +16,7 @@ theme:
     # Dark mode
     - media: "(prefers-color-scheme: dark)"
       scheme: slate
-      primary: pink
+      primary: grey
       accent: blue
       toggle:
         icon: material/toggle-switch
@@ -59,6 +59,13 @@ plugins:
       categories:
         - categories
         - tags
+  - ruby:
+      global_enable: true
+      title_enable: true
+      outer_begin: '{'
+      outer_end: '}'
+      inter_begin: '('
+      inter_end: ')
 
 extra_javascript:
   - javascripts/mathjax.js
