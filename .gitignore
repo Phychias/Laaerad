@@ -1,2 +1,6 @@
 .vscode/settings.json
-.obsidian/*
+desktop.ini
+Pipfile
+Pipfile.lock
+test-env.yml
+payload.json
