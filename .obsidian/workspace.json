@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/拉埃拉德/咕洛/咕洛神话草稿.md",
+                "mode": "preview",
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "图斯克"
+              "title": "咕洛神话草稿"
             }
           }
         ]
@@ -160,19 +160,20 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "github-sync:Sync with Remote": false
+      "github-sync:Sync with Remote": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "9c2d1592cc6d7da5",
   "lastOpenFiles": [
-    "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
+    "docs/拉埃拉德/咕洛/咕洛语.md",
     "docs/拉埃拉德/咕洛/咕洛神话草稿.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/拉埃拉德/laaerad 简介.md",
+    "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
     "docs/拉埃拉德/图斯克",
     "docs/拉埃拉德/新建文件夹",
-    "docs/拉埃拉德/咕洛/咕洛语.md",
     "docs/拉埃拉德/原始语.md",
-    "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/咕洛/咕洛族.md",
     "docs/sytlesheets/extra.css",
     "docs/sytlesheets/新建 文本文档.txt",
