@@ -61,6 +61,20 @@ share: "true"
 ---
 ## 文化基础
 ### 历史
+
+```mermaid
+%%{init: { 'logLevel': 'debug', 'theme': 'dark' } }%%
+timeline
+    title 拉埃拉德时间线
+    section 神话时代
+	    BC 20 : 拉埃拉德原始语的记录
+    section 灾变时代
+        早期 : 冰川迁徙
+        晚期 : 地质活动趋于稳定
+	section 中古时代
+		早期 : 城邦时代
+		晚期 : 早期帝国时代
+```
 #### 神话（石器）[porur]
 ##### 概况
 
