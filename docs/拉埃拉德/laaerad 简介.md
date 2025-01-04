@@ -1,15 +1,11 @@
 ---
-Topic: 
-Type: 即刻笔记
+Type: 词条
 date created: 2024-06-18 00:31
 date modified: 2024-06-18 00:31
-Status: todo🌱
-Description: 
-Citations: 
+Status: 草稿
 tags:
   - Laaerad
   - 设定
-share: "true"
 ---
 # 拉埃拉德 Laaerad 简介
 ## 天文基础

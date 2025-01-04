@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛语.md",
+                "file": "docs/拉埃拉德/咕洛/咕洛族.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "咕洛语"
+              "title": "咕洛族"
             }
           }
         ]
@@ -66,7 +66,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#概念/种族",
+                "query": "[\"cssclasses\"]",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -78,7 +78,7 @@
             }
           },
           {
-            "id": "ef762eb92c5aea18",
+            "id": "961eb7650f896acb",
             "type": "leaf",
             "state": {
               "type": "bookmarks",
@@ -107,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/拉埃拉德/laaerad 简介.md",
+                "file": "docs/拉埃拉德/图斯克/图斯克.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -117,7 +117,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "laaerad 简介 的反向链接列表"
+              "title": "图斯克 的反向链接列表"
             }
           },
           {
@@ -126,12 +126,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "docs/拉埃拉德/laaerad 简介.md",
+                "file": "docs/拉埃拉德/图斯克/图斯克.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "laaerad 简介 的出链列表"
+              "title": "图斯克 的出链列表"
             }
           },
           {
@@ -158,13 +158,27 @@
               "icon": "lucide-list",
               "title": "图斯克 的大纲"
             }
+          },
+          {
+            "id": "782436657ea9fe0c",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
           }
         ],
         "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 487.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -180,16 +194,16 @@
   },
   "active": "87a92b8f73bf076d",
   "lastOpenFiles": [
-    "docs/拉埃拉德/原始语.md",
+    "docs/拉埃拉德/咕洛/咕洛族.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/拉埃拉德/图斯克/图斯克疆域图.png",
     "docs/拉埃拉德/咕洛/咕洛语.md",
+    "docs/拉埃拉德/咕洛/咕洛传说.md",
+    "docs/拉埃拉德/laaerad 简介.md",
+    "docs/拉埃拉德/原始语.md",
+    "docs/拉埃拉德/图斯克/图斯克疆域图.png",
     "README.md",
     "docs/index.md",
-    "docs/拉埃拉德/咕洛/咕洛族.md",
     "docs/tags.md",
-    "docs/拉埃拉德/laaerad 简介.md",
-    "docs/拉埃拉德/咕洛/咕洛传说.md",
     "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
     "docs/拉埃拉德/图斯克",
     "docs/拉埃拉德/新建文件夹",
