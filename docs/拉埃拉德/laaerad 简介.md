@@ -117,17 +117,31 @@ timeline
 ### 语言
 ```mermaid
 graph TD
-  A[拉埃拉德原始语] --> B[东北拉埃拉德语];
-  B --> C[古<ruby>咕洛<rt>Glöme</rt></ruby>语];
-  B --> D[拉普里奥语];
-  B --> E[古<ruby>图斯克<rt>Trusk</rt></ruby>语];
-  D --> F;
-  E --> F[中古<ruby>图斯克<rt>Trusk</rt></ruby>语];
-  C --> K[中古<ruby>咕洛<rt>Glöme</rt></ruby>语];
-  J[古北境语] --> C;
-  A --> G[阔台语];
-  A --> H[依荧语];
-  A --> I[<ruby>洛斯<rt>Loos</rt></ruby>语];
+	A[拉埃拉德原始语]
+	J[古北境语]
+	subgraph 东北语系
+		B[东北拉埃拉德语]
+		C[古<ruby>咕洛<rt>Glöme</rt></ruby>语]
+		D[拉普里奥语]
+		E[古<ruby>图斯克<rt>Trusk</rt></ruby>语]
+		F[中古<ruby>图斯克<rt>Trusk</rt></ruby>语]
+		K[中古<ruby>咕洛<rt>Glöme</rt></ruby>语]
+		J -.-> C
+	end
+	H[依荧语]
+	I[<ruby>洛斯<rt>Loos</rt></ruby>语]
+	G[阔台语]
+	D -.-> F
+	E --> F
+	C --> K
+	A --> H
+	A --> I   
+	A --> G
+	C -.-> F
+	B --> C
+	B --> D
+	B --> E
+	A --> B
 ```
 ### 列表
 - [原始语](%E5%8E%9F%E5%A7%8B%E8%AF%AD.md)
