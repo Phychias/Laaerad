@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/拉埃拉德/咕洛/咕洛.md",
-                "mode": "preview",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -35,8 +35,7 @@
               "title": "咕洛语"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -154,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛语.md"
+                "file": "docs/拉埃拉德/咕洛/咕洛.md"
               },
               "icon": "lucide-list",
-              "title": "咕洛语 的大纲"
+              "title": "咕洛 的大纲"
             }
           },
           {
@@ -193,11 +192,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c2a4f626722fd56",
+  "active": "87a92b8f73bf076d",
   "lastOpenFiles": [
+    "docs/拉埃拉德/咕洛/咕洛语.md",
     "docs/拉埃拉德/咕洛/咕洛.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/拉埃拉德/咕洛/咕洛语.md",
     "docs/拉埃拉德/咕洛/咕洛传说.md",
     "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/laaerad 简介.md",
