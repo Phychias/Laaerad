@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛传说.md",
+                "file": "docs/拉埃拉德/咕洛/咕洛.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "咕洛传说"
+              "title": "咕洛"
             }
           },
           {
@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛语.md",
-                "mode": "source",
+                "file": "docs/拉埃拉德/咕洛/咕洛.md",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "咕洛语"
+              "title": "咕洛"
             }
           }
         ]
@@ -153,10 +153,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/咕洛/咕洛传说.md"
+                "file": "docs/拉埃拉德/咕洛/咕洛.md"
               },
               "icon": "lucide-list",
-              "title": "咕洛传说 的大纲"
+              "title": "咕洛 的大纲"
             }
           },
           {
