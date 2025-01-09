@@ -1,5 +1,5 @@
 {
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false
+  "readableLineLength": true
 }
