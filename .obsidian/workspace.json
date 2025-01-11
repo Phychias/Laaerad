@@ -26,7 +26,7 @@
               "type": "markdown",
               "state": {
                 "file": "docs/拉埃拉德/图斯克/图斯克.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 299.5026054382324
   },
   "right": {
     "id": "6078100c999914ca",
@@ -207,20 +207,24 @@
   },
   "active": "3c618ffd98e8d1af",
   "lastOpenFiles": [
+    "docs/拉埃拉德/laaerad 简介.md",
+    "docs/拉埃拉德/图斯克/图斯克.md",
+    "0efa79265f1490a7559e5bcc0c283881 1.html",
+    "0efa79265f1490a7559e5bcc0c283881.html",
+    "docs/拉埃拉德/咕洛/咕洛.md",
+    "Pasted image 20250111183508.png",
+    "docs/拉埃拉德/咕洛/咕洛语.md",
+    "世界地图4高清.png",
+    "docs/拉埃拉德/图斯克/Pasted image 20250104213621.png",
+    "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
     "docs/拉埃拉德/图斯克/三王国图.png",
     "docs/拉埃拉德/图斯克/图斯克疆域图.png",
-    "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/拉埃拉德/咕洛/咕洛.md",
-    "docs/拉埃拉德/咕洛/咕洛语.md",
     "docs/拉埃拉德/咕洛/咕洛传说.md",
     "docs/拉埃拉德/原始语.md",
-    "docs/拉埃拉德/laaerad 简介.md",
-    "Pasted image 20250104213621.png",
     "Pasted image 20250104213424.png",
     "README.md",
     "docs/index.md",
     "docs/tags.md",
-    "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
     "docs/拉埃拉德/图斯克",
     "docs/拉埃拉德/新建文件夹",
     "docs/sytlesheets/extra.css",
@@ -235,8 +239,6 @@
     "docs/拉埃拉德/咕洛",
     "docs/拉埃拉德/Note 1.md",
     "docs/拉埃拉德",
-    "docs/notes",
-    "docs/hidden",
     "docs/Topic 1/Note 2.md",
     "docs/Topic 1/Note 1.md",
     "docs/Features/Text Formatting.md",
