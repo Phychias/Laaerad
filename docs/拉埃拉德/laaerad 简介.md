@@ -148,3 +148,22 @@ graph TD
 ### 列表
 - [原始语](%E5%8E%9F%E5%A7%8B%E8%AF%AD.md)
 - [咕洛语](%E5%92%95%E6%B4%9B%E8%AF%AD.md)
+
+
+<footer>
+
+<!--
+  <<< Author notes: Footer >>>
+  Add a link to get support, GitHub status page, code of conduct, license link.
+-->
+
+---
+
+&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlan that's not created by Phychias is owned by its creator. &copy;
+
+世界观交流群QQ：150665831
+
+---
+
+</footer>
+
