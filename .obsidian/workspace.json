@@ -40,7 +40,21 @@
               "type": "markdown",
               "state": {
                 "file": "docs/拉埃拉德/图斯克/图斯克.md",
-                "mode": "preview",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "图斯克"
+            }
+          },
+          {
+            "id": "840b1cb42d69831a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/拉埃拉德/图斯克/图斯克.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
@@ -48,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -205,7 +219,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "7c2a4f626722fd56",
+  "active": "840b1cb42d69831a",
   "lastOpenFiles": [
     "docs/拉埃拉德/咕洛/咕洛.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
