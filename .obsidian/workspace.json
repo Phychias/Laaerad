@@ -53,12 +53,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克.md",
+                "file": "docs/拉埃拉德/图斯克/德卓黑往事.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "图斯克"
+              "title": "德卓黑往事"
             }
           }
         ],
@@ -180,10 +180,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克.md"
+                "file": "docs/拉埃拉德/图斯克/德卓黑往事.md"
               },
               "icon": "lucide-list",
-              "title": "图斯克 的大纲"
+              "title": "德卓黑往事 的大纲"
             }
           },
           {
@@ -221,14 +221,15 @@
   },
   "active": "840b1cb42d69831a",
   "lastOpenFiles": [
-    "docs/拉埃拉德/laaerad 简介.md",
-    "docs/index.md",
+    "docs/拉埃拉德/咕洛/咕洛语.md",
+    "docs/拉埃拉德/图斯克/德卓黑往事.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
     "docs/拉埃拉德/咕洛/咕洛.md",
+    "docs/拉埃拉德/laaerad 简介.md",
+    "docs/index.md",
     "0efa79265f1490a7559e5bcc0c283881 1.html",
     "0efa79265f1490a7559e5bcc0c283881.html",
     "Pasted image 20250111183508.png",
-    "docs/拉埃拉德/咕洛/咕洛语.md",
     "世界地图4高清.png",
     "docs/拉埃拉德/图斯克/Pasted image 20250104213621.png",
     "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
