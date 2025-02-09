@@ -37,12 +37,14 @@
             "id": "e417fecb2bf6a630",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克疆域图.png"
+                "file": "docs/拉埃拉德/图斯克/图斯克语.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "图斯克疆域图"
+              "icon": "lucide-file",
+              "title": "图斯克语"
             }
           },
           {
@@ -193,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克疆域图.png",
+                "file": "docs/拉埃拉德/图斯克/图斯克语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图斯克疆域图 的大纲"
+              "title": "图斯克语 的大纲"
             }
           },
           {
@@ -235,12 +237,13 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "e417fecb2bf6a630",
   "lastOpenFiles": [
     "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/拉埃拉德/图斯克/图斯克语.md",
-    "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/咕洛/咕洛语.md",
+    "docs/拉埃拉德/图斯克/图斯克语.md",
+    "docs/拉埃拉德/图斯克/图斯克疆域图.png",
+    "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/咕洛/咕洛.md",
     "docs/拉埃拉德/图斯克/德卓黑往事.md",
     "docs/拉埃拉德/laaerad 简介.md",
@@ -254,7 +257,6 @@
     "docs/拉埃拉德/图斯克/Pasted image 20250104213621.png",
     "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
     "docs/拉埃拉德/图斯克/三王国图.png",
-    "docs/拉埃拉德/图斯克/图斯克疆域图.png",
     "docs/拉埃拉德/咕洛/咕洛传说.md",
     "Pasted image 20250104213424.png",
     "README.md",
