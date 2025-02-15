@@ -4,70 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "5953fea0f4d466ce",
+        "id": "90ccd005b2c7e7e8",
         "type": "tabs",
         "children": [
           {
-            "id": "87a92b8f73bf076d",
-            "type": "leaf",
-            "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/拉埃拉德/图斯克/三王国图.png"
-              },
-              "icon": "lucide-image",
-              "title": "三王国图"
-            }
-          },
-          {
-            "id": "7c2a4f626722fd56",
+            "id": "da87f68781b87c59",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "图斯克"
-            }
-          },
-          {
-            "id": "e417fecb2bf6a630",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克语.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "图斯克语"
-            }
-          },
-          {
-            "id": "840b1cb42d69831a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/拉埃拉德/原始语.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "原始语"
-            }
-          },
-          {
-            "id": "fe7638b7a4cb934d",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克语.md",
+                "file": "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
                 "mode": "source",
                 "source": false
               },
@@ -75,8 +21,7 @@
               "title": "图斯克语"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -195,7 +140,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克语.md",
+                "file": "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -223,7 +168,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5
+    "width": 302.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -237,15 +183,19 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e417fecb2bf6a630",
+  "active": "da87f68781b87c59",
   "lastOpenFiles": [
-    "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/拉埃拉德/咕洛/咕洛语.md",
-    "docs/拉埃拉德/图斯克/图斯克语.md",
-    "docs/拉埃拉德/图斯克/图斯克疆域图.png",
+    "未命名.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
     "docs/拉埃拉德/原始语.md",
-    "docs/拉埃拉德/咕洛/咕洛.md",
-    "docs/拉埃拉德/图斯克/德卓黑往事.md",
+    "图斯克语语法.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/图斯克/德卓黑往事.md",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛传说.md",
+    "docs/拉埃拉德/图斯克/图斯克",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛语.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克疆域图.png",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛.md",
     "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/Index.md",
     "docs/index.md",
@@ -254,10 +204,9 @@
     "0efa79265f1490a7559e5bcc0c283881.html",
     "Pasted image 20250111183508.png",
     "世界地图4高清.png",
-    "docs/拉埃拉德/图斯克/Pasted image 20250104213621.png",
-    "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
-    "docs/拉埃拉德/图斯克/三王国图.png",
-    "docs/拉埃拉德/咕洛/咕洛传说.md",
+    "docs/拉埃拉德/图斯克/图斯克/Pasted image 20250104213621.png",
+    "docs/拉埃拉德/图斯克/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
+    "docs/拉埃拉德/图斯克/图斯克/三王国图.png",
     "Pasted image 20250104213424.png",
     "README.md",
     "docs/tags.md",
@@ -272,7 +221,6 @@
     "2021-11-22-22-49-26.png",
     "docs/blog/posts/hello-world.md",
     "docs/blog/index.md",
-    "docs/拉埃拉德/咕洛",
     "docs/拉埃拉德/Note 1.md",
     "docs/Topic 1/Note 2.md",
     "docs/Topic 1/Note 1.md",
