@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克/德卓黑往事.md",
+                "file": "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "德卓黑往事 的大纲"
+              "title": "图斯克 的大纲"
             }
           },
           {
@@ -183,8 +183,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
-    "collapsed": true
+    "width": 302.5
   },
   "left-ribbon": {
     "hiddenItems": {
