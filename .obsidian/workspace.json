@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
+                "file": "docs/没有星星的夜/第六章 离开.md",
                 "mode": "source",
-                "source": false
+                "source": true
               },
               "icon": "lucide-file",
-              "title": "图斯克"
+              "title": "第六章 离开"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
+                "file": "docs/没有星星的夜/第六章 离开.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图斯克 的大纲"
+              "title": "第六章 离开 的大纲"
             }
           },
           {
@@ -199,12 +199,27 @@
   },
   "active": "4f73c7418c0265db",
   "lastOpenFiles": [
+    "docs/没有星星的夜/第三章 闲话.md",
+    "docs/没有星星的夜/第四章 闷.md",
+    "docs/没有星星的夜/第五章 雨夜.md",
+    "docs/没有星星的夜/第一章 分别.md",
+    "docs/index.md",
+    "docs/没有星星的夜/第六章 离开.md",
+    "docs/没有星星的夜/第二章 重逢.md",
+    "docs/没有星星的夜/序.md",
+    "docs/没有星星的夜/陈榷篇 第一幕 雨夜.md",
+    "docs/没有星星的夜/第二幕 离开.md",
+    "docs/没有星星的夜/第三幕 严翎.md",
+    "docs/没有星星的夜/第二幕 重逢.md",
+    "docs/没有星星的夜/第一幕 分别.md",
+    "docs/没有星星的夜/第四幕 电话.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
+    "docs/没有星星的夜",
     "0A4DA4B1 1.png",
     "0A4DA4B1.png",
     "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/咕洛/咕洛.md",
     "docs/拉埃拉德/图斯克/图斯克/德卓黑往事.md",
-    "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克疆域图.png",
     "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/世界地图4高清.png",
@@ -219,30 +234,16 @@
     "坐落在三大湖东侧和南侧的拉提尔王国，坐拥富饶的土地和强盛的文化，是大湖州最重要的政权之一。作为席兰王国的”长子“，拉提尔继承了席兰帝国以拉提尔公国为核心的中部领土，也继承了席兰王国最主要的政治遗产。在拉提尔图瓦的带领下，从腐败的席兰帝国脱胎而出的拉提尔，秉承着开放、自由的理念，大力发展以冒险者产业为特色的商业、工业、旅游业.md",
     "docs/拉埃拉德/图斯克/咕洛/咕洛传说.md",
     "docs/拉埃拉德/图斯克/图斯克",
-    "docs/index.md",
     "docs/拉埃拉德/拉埃拉德",
     "0efa79265f1490a7559e5bcc0c283881 1.html",
     "0efa79265f1490a7559e5bcc0c283881.html",
     "docs/拉埃拉德/图斯克/图斯克/三王国图.png",
     "Pasted image 20250104213424.png",
-    "README.md",
-    "docs/tags.md",
     "docs/拉埃拉德/图斯克",
     "docs/拉埃拉德/新建文件夹",
     "docs/sytlesheets/extra.css",
     "docs/sytlesheets/新建 文本文档.txt",
     "docs/sytlesheets/extra.cs",
-    "docs/sytlesheets",
-    "2021-11-22-22-54-02.png",
-    "2021-11-22-22-52-49.png",
-    "docs/blog/posts/hello-world.md",
-    "docs/blog/index.md",
-    "docs/拉埃拉德/Note 1.md",
-    "docs/Topic 1/Note 2.md",
-    "docs/Topic 1/Note 1.md",
-    "docs/Features/Text Formatting.md",
-    "docs/Features/Mermaid Diagrams.md",
-    "docs/Features/LaTeX Math Support.md",
-    "docs/拉埃拉德/Note 2.md"
+    "2021-11-22-22-54-02.png"
   ]
 }

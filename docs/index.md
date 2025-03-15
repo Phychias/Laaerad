@@ -14,16 +14,18 @@
 
 ## 简介
 
-欢迎来到 _An index for Conlan_
+欢迎来到 _An index for Phychias_
 
-这是一个人造语言目录的测试版本。
+目前是Phychias骆以川的个人博客，记录一些我的个人创作。
 
 ## 内容
 
-1. 一个人造语言的目录。
-2. 这些人造语相关的世界观。
+当前博客的主要内容有：
+1. 一个世界观以及相应的人造语目录。
+2. 一篇未完成的中篇小说。
 
 ### 拉埃拉德
+
 - 2024年一群志同道合的朋友创造了拉埃拉德原始语，以及相关的世界观. [[laaerad 简介]]
 
 <footer>
@@ -35,7 +37,7 @@
 
 ---
 
-&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlan that's not created by Phychias is owned by its creator. &copy; ---
+&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlans that's not created by Phychias is owned by its creator. &copy; ---
 
 </footer>
 
