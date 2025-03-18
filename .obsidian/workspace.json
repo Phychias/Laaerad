@@ -55,8 +55,8 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": true
               },
               "icon": "lucide-folder-closed",
               "title": "文件列表"
@@ -197,7 +197,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f73c7418c0265db",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
     "docs/没有星星的夜/第三章 闲话.md",
     "docs/没有星星的夜/第四章 闷.md",
