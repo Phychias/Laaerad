@@ -25,14 +25,12 @@
             "id": "4f73c7418c0265db",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/没有星星的夜/第二章 重逢.md",
-                "mode": "source",
-                "source": false
+                "file": "0A4DA4B1 1.png"
               },
-              "icon": "lucide-file",
-              "title": "第二章 重逢"
+              "icon": "lucide-image",
+              "title": "0A4DA4B1 1"
             }
           }
         ],
@@ -155,13 +153,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/没有星星的夜/第二章 重逢.md",
+                "file": "0A4DA4B1 1.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第二章 重逢 的大纲"
+              "title": "0A4DA4B1 1 的大纲"
             }
           },
           {
@@ -198,8 +196,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "4f73c7418c0265db",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
+    "0A4DA4B1.png",
+    "0A4DA4B1 1.png",
+    "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/第六章 离开.md",
     "docs/没有星星的夜/第三章 闲话.md",
     "docs/没有星星的夜/第四章 闷.md",
@@ -211,7 +212,6 @@
     "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克疆域图.png",
     "docs/index.md",
-    "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/陈榷篇 第一幕 雨夜.md",
     "docs/没有星星的夜/第二幕 离开.md",
     "docs/没有星星的夜/第三幕 严翎.md",
@@ -219,8 +219,6 @@
     "docs/没有星星的夜/第一幕 分别.md",
     "docs/没有星星的夜/第四幕 电话.md",
     "docs/没有星星的夜",
-    "0A4DA4B1 1.png",
-    "0A4DA4B1.png",
     "docs/拉埃拉德/图斯克/咕洛/咕洛.md",
     "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/世界地图4高清.png",
