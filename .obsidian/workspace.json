@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/没有星星的夜/第六章 离开.md",
+                "file": "docs/没有星星的夜/第二章 重逢.md",
                 "mode": "source",
-                "source": true
+                "source": false
               },
               "icon": "lucide-file",
-              "title": "第六章 离开"
+              "title": "第二章 重逢"
             }
           }
         ],
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/没有星星的夜/第六章 离开.md",
+                "file": "docs/没有星星的夜/第二章 重逢.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "第六章 离开 的大纲"
+              "title": "第二章 重逢 的大纲"
             }
           },
           {
@@ -187,6 +187,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
       "canvas:新建白板": false,
@@ -197,30 +198,30 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "4f73c7418c0265db",
   "lastOpenFiles": [
+    "docs/没有星星的夜/第六章 离开.md",
     "docs/没有星星的夜/第三章 闲话.md",
     "docs/没有星星的夜/第四章 闷.md",
     "docs/没有星星的夜/第五章 雨夜.md",
     "docs/没有星星的夜/第一章 分别.md",
-    "docs/index.md",
-    "docs/没有星星的夜/第六章 离开.md",
-    "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/序.md",
+    "docs/拉埃拉德/图斯克/图斯克/德卓黑往事.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克疆域图.png",
+    "docs/index.md",
+    "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/陈榷篇 第一幕 雨夜.md",
     "docs/没有星星的夜/第二幕 离开.md",
     "docs/没有星星的夜/第三幕 严翎.md",
     "docs/没有星星的夜/第二幕 重逢.md",
     "docs/没有星星的夜/第一幕 分别.md",
     "docs/没有星星的夜/第四幕 电话.md",
-    "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
     "docs/没有星星的夜",
     "0A4DA4B1 1.png",
     "0A4DA4B1.png",
-    "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/咕洛/咕洛.md",
-    "docs/拉埃拉德/图斯克/图斯克/德卓黑往事.md",
-    "docs/拉埃拉德/图斯克/图斯克/图斯克疆域图.png",
     "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/世界地图4高清.png",
     "docs/拉埃拉德/图斯克/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
@@ -232,7 +233,6 @@
     "图斯克语语法.md",
     "未命名.md",
     "坐落在三大湖东侧和南侧的拉提尔王国，坐拥富饶的土地和强盛的文化，是大湖州最重要的政权之一。作为席兰王国的”长子“，拉提尔继承了席兰帝国以拉提尔公国为核心的中部领土，也继承了席兰王国最主要的政治遗产。在拉提尔图瓦的带领下，从腐败的席兰帝国脱胎而出的拉提尔，秉承着开放、自由的理念，大力发展以冒险者产业为特色的商业、工业、旅游业.md",
-    "docs/拉埃拉德/图斯克/咕洛/咕洛传说.md",
     "docs/拉埃拉德/图斯克/图斯克",
     "docs/拉埃拉德/拉埃拉德",
     "0efa79265f1490a7559e5bcc0c283881 1.html",
