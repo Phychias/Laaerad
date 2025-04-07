@@ -6,7 +6,7 @@
       {
         "id": "90ccd005b2c7e7e8",
         "type": "tabs",
-        "dimension": 49.82206405693951,
+        "dimension": 33.45195729537367,
         "children": [
           {
             "id": "da87f68781b87c59",
@@ -27,7 +27,7 @@
       {
         "id": "dfdc57cac35c93bc",
         "type": "tabs",
-        "dimension": 50.17793594306049,
+        "dimension": 66.54804270462633,
         "children": [
           {
             "id": "bf95827c91813a70",
@@ -162,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
+                "file": "Trusk.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图斯克 的大纲"
+              "title": "Trusk 的大纲"
             }
           },
           {
@@ -190,7 +190,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 302.5,
+    "width": 200,
     "collapsed": true
   },
   "left-ribbon": {
@@ -206,10 +206,11 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "da87f68781b87c59",
+  "active": "bf95827c91813a70",
   "lastOpenFiles": [
-    "Trusk.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
+    "Trusk.md",
     "laaerad Introduction.md",
     "docs/拉埃拉德/图斯克/图斯克/德卓黑往事.md",
     "0A4DA4B1 1.png",
@@ -221,7 +222,6 @@
     "docs/没有星星的夜/第五章 雨夜.md",
     "docs/没有星星的夜/第一章 分别.md",
     "docs/没有星星的夜/序.md",
-    "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克疆域图.png",
     "docs/index.md",
     "docs/没有星星的夜/陈榷篇 第一幕 雨夜.md",

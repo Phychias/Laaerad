@@ -8,7 +8,7 @@ The word “Trusk” originates from the official language of the Trusk nation. 
 
 The vast area called Trusk has high mountains in the west, humid jungles in the south, and large swamps and jungles in the northeast as its natural borders. The territories once owned by the Empire are also not limited to this, and the Imperial Fleet once established many bases in Long Island, the southernmost tip of the East Continent.
 
-#### Terrain: Trusk Basin, Novaya Sea, and grasslands along the Gulomer River
+#### Terrain: Trusk Basin, Nowaja Sea, and grasslands along the Gulomer River
 
 The terrain of Trusk is mainly coastal plains. There is a large basin in the western origin of Trusk, also known as the Trusk Basin. The corridor between the two oceans in the east connects to the Gulomer territory in the north and the large jungle on the border of Yiying in the south. The Laporio Strait is on the other side of the Novaya Sea. There are two large lakes on the west side of the Laporio territory, and on the east side there are river deltas formed by the erosion of several rivers flowing into the sea.
 
