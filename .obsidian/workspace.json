@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/MAP.md",
+                "file": "docs/Laaerad/Trusk/Trusk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAP"
+              "title": "Trusk"
             }
           }
         ],
@@ -212,6 +212,7 @@
   "lastOpenFiles": [
     "docs/assets/img/Trusk/trusk_render.png",
     "docs/assets/img/Trusk/trusk_eco.png",
+    "docs/Laaerad/MAP.md",
     "docs/assets/img/Trusk/trusk_district.png",
     "docs/Laaerad/Trusk/Trusk.md",
     "docs/拉埃拉德/原始语.md",
@@ -241,7 +242,6 @@
     "docs/Laaerad/PrimitiveLanguage.md",
     "docs/Laaerad/Laaerad.md",
     "docs/assets/img/World_HD_v4.png",
-    "docs/Laaerad/MAP.md",
     "docs/assets/map_viewer.html",
     "docs/assets/img/Trusk",
     "docs/assets/img/新建文件夹",
