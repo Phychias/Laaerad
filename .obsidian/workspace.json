@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/Trusk.md",
+                "file": "docs/Laaerad/Trusk/ZherirTruskal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trusk"
+              "title": "ZherirTruskal"
             }
           }
         ],
@@ -210,11 +210,11 @@
   },
   "active": "9632c584072dc64e",
   "lastOpenFiles": [
+    "docs/Laaerad/Trusk/Trusk.md",
     "docs/assets/img/Trusk/trusk_render.png",
     "docs/assets/img/Trusk/trusk_eco.png",
     "docs/Laaerad/MAP.md",
     "docs/assets/img/Trusk/trusk_district.png",
-    "docs/Laaerad/Trusk/Trusk.md",
     "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/Index.md",
     "docs/拉埃拉德/世界地图4高清.png",
