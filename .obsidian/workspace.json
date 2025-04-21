@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "90ccd005b2c7e7e8",
+        "id": "c1482376fdeb2320",
         "type": "tabs",
         "children": [
           {
-            "id": "da87f68781b87c59",
+            "id": "6aafb70a9067cbdf",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -173,6 +173,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "github-sync:Sync with Remote": false,
+      "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
       "switcher:打开快速切换": false,
       "graph:查看关系图谱": false,
@@ -180,17 +182,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "github-sync:Sync with Remote": false,
-      "templater-obsidian:Templater": false
+      "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "da87f68781b87c59",
+  "active": "6aafb70a9067cbdf",
   "lastOpenFiles": [
+    "docs/拉埃拉德/图斯克/图斯克.md",
     "docs/拉埃拉德/图斯克/Trusk v3.2 生态 中文.png",
     "Trusk.md",
     "laaerad Introduction.md",
     "docs/拉埃拉德/图斯克/德卓黑往事.md",
-    "docs/拉埃拉德/图斯克/图斯克.md",
     "docs/拉埃拉德/图斯克/Trusk v3 生态 中文 04130516.png",
     "docs/拉埃拉德/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/咕洛/咕洛语.md",
