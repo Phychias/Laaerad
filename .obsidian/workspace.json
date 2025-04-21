@@ -35,18 +35,16 @@
             "id": "660a91dd20e7f0c7",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/Laaerad/Trusk/Trusk.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/assets/img/Trusk/Trusk_Eco.png"
               },
-              "icon": "lucide-file",
-              "title": "Trusk"
+              "icon": "lucide-image",
+              "title": "Trusk_Eco"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -210,19 +208,19 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "2ac6d04360f379c0",
   "lastOpenFiles": [
+    "docs/assets/img/Trusk/Trusk_Eco.png",
+    "docs/assets/img/Trusk/Trusk_District.png",
+    "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/Trusk/Gulomer/GloemeriZherci.md",
     "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
     "docs/Laaerad/Trusk/Gulomer/Gloemer.md",
-    "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/Trusk/Decoheim.md",
     "docs/Laaerad/PrimitiveLanguage.md",
     "docs/Laaerad/Laaerad.md",
     "docs/assets/img/World_HD_v4.png",
-    "docs/assets/img/Trusk/Trusk_Eco.png",
-    "docs/assets/img/Trusk/Trusk_District.png",
     "docs/assets/img/Trusk/Trusk_Render.png",
     "docs/Laaerad/MAP.md",
     "docs/assets/map_viewer.html",
