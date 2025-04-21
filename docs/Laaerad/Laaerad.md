@@ -148,8 +148,8 @@ graph TD
 	A --> B
 ```
 ### 列表
-- [PrimitiveLanguage](docs/拉埃拉德/PrimitiveLanguage.md)
-- [Gloemezher](docs/拉埃拉德/Trusk/Gulomer/Gloemezher.md)
+- [PrimitiveLanguage](docs/Laaerad/PrimitiveLanguage.md)
+- [Gloemezher](docs/Laaerad/Trusk/Gulomer/Gloemezher.md)
 
 
 <footer>
