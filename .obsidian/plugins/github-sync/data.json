@@ -1,6 +1,7 @@
 {
-  "remoteURL": "https://github.com/PhychiasLokDansk/An-Index.git",
+  "remoteURL": "https://github.com/PhychiasLokDansk/Laaerad.git",
   "gitLocation": "",
   "syncinterval": 0,
-  "isSyncOnLoad": false
+  "isSyncOnLoad": false,
+  "checkStatusOnLoad": true
 }
