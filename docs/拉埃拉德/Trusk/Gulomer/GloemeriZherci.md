@@ -8,7 +8,7 @@ tags:
 
 咕洛语与汉语版本的对照。
 
-具体词汇、语法参见文档[[咕洛语]]
+具体词汇、语法参见文档[[docs/拉埃拉德/Trusk/Gulomer/Gloemezher]]
 ## Piyomat Sajera - 世界之初
 
 - Lashurchimat, nayuko omlaa Valasali. Samen sora hafokimuj Valamat, Johuzaca greyadij omsamenmat.

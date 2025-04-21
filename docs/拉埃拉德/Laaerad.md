@@ -9,7 +9,7 @@ tags:
 ---
 # <ruby>拉埃拉德<rt>Laaerad</rt></ruby> 简介
 
-![世界地图](docs/assets/img/世界地图4高清.png)
+![世界地图](docs/assets/img/World_HD_v4.png)
 ## 天文基础
 ##### 星系
 - 星系构成与太阳系相仿
@@ -148,8 +148,8 @@ graph TD
 	A --> B
 ```
 ### 列表
-- [原始语](%E5%8E%9F%E5%A7%8B%E8%AF%AD.md)
-- [咕洛语](%E5%92%95%E6%B4%9B%E8%AF%AD.md)
+- [PrimitiveLanguage](docs/拉埃拉德/PrimitiveLanguage.md)
+- [Gloemezher](docs/拉埃拉德/Trusk/Gulomer/Gloemezher.md)
 
 
 <footer>
