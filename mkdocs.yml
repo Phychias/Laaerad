@@ -70,5 +70,4 @@ extra_javascript:
   - assets/js/map.js
 
 extra_css:
-  - stylesheets/extra.css
   - https://unpkg.com/leaflet/dist/leaflet.css

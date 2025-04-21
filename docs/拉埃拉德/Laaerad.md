@@ -9,7 +9,7 @@ tags:
 ---
 # <ruby>拉埃拉德<rt>Laaerad</rt></ruby> 简介
 
-![世界地图](docs/assets/img/World_HD_v4.png)
+![](docs/assets/img/World_HD_v4.png)
 ## 天文基础
 ##### 星系
 - 星系构成与太阳系相仿

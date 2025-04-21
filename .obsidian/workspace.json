@@ -37,12 +37,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/Trusk/Gulomer/Gloemer.md",
+                "file": "docs/拉埃拉德/Trusk/Trusk.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Gloemer"
+              "title": "Trusk"
             }
           }
         ],
@@ -212,15 +212,17 @@
   },
   "active": "660a91dd20e7f0c7",
   "lastOpenFiles": [
+    "docs/拉埃拉德/Trusk/ZherirTruskal.md",
     "docs/拉埃拉德/Trusk/Gulomer/GloemeriZherci.md",
     "docs/拉埃拉德/Trusk/Gulomer/Gloemezher.md",
+    "docs/拉埃拉德/Trusk/Gulomer/Gloemer.md",
+    "docs/拉埃拉德/Trusk/Trusk.md",
+    "docs/拉埃拉德/Trusk/Decoheim.md",
     "docs/拉埃拉德/PrimitiveLanguage.md",
     "docs/拉埃拉德/Laaerad.md",
-    "docs/拉埃拉德/Trusk/Trusk.md",
-    "docs/拉埃拉德/Trusk/ZherirTruskal.md",
-    "docs/拉埃拉德/Trusk/Decoheim.md",
-    "docs/assets/img/Trusk/Trusk_District.png",
+    "docs/assets/img/World_HD_v4.png",
     "docs/assets/img/Trusk/Trusk_Eco.png",
+    "docs/assets/img/Trusk/Trusk_District.png",
     "docs/assets/img/Trusk/Trusk_Render.png",
     "docs/拉埃拉德/MAP.md",
     "docs/assets/map_viewer.html",
@@ -235,13 +237,11 @@
     "docs/拉埃拉德/图斯克/三王国图.png",
     "docs/assets/img/Trusk v3 render.png",
     "docs/assets/js/map.js",
-    "docs/assets/img/Trusk/Trusk v3 render 0421.png",
     "docs/assets/img/psA18C.tmp",
     "docs/assets/img/ps43F1.tmp",
     "docs/assets/js/新建 文本文档.txt",
     "Trusk.md",
     "laaerad Introduction.md",
-    "docs/拉埃拉德/Trusk/Gulomer/Gloemer.md",
     "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/第六章 离开.md",
     "docs/没有星星的夜/第三章 闲话.md",
@@ -254,7 +254,6 @@
     "docs/没有星星的夜/第二幕 离开.md",
     "docs/没有星星的夜/第三幕 严翎.md",
     "docs/没有星星的夜/第二幕 重逢.md",
-    "docs/没有星星的夜/第一幕 分别.md",
     "docs/没有星星的夜",
     "docs/拉埃拉德/图斯克/图斯克",
     "docs/拉埃拉德/拉埃拉德"
