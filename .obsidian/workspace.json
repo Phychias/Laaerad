@@ -35,12 +35,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/Laaerad/MAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "MAP"
             }
           }
         ],
@@ -210,10 +210,11 @@
   },
   "active": "9632c584072dc64e",
   "lastOpenFiles": [
+    "docs/index.md",
+    "docs/Laaerad/Trusk/map_viewer.html",
     "docs/Laaerad/Laaerad.md",
     "Trusk.md",
     "laaerad Introduction.md",
-    "docs/index.md",
     "docs/Laaerad/Trusk/Trusk.md",
     "docs/assets/adjustment_s3.png",
     "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
@@ -252,7 +253,6 @@
     "docs/assets/js/map.js",
     "docs/assets/img/psA18C.tmp",
     "docs/assets/img/ps43F1.tmp",
-    "docs/assets/js/新建 文本文档.txt",
     "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/第六章 离开.md"
   ]

@@ -6,57 +6,26 @@ document.addEventListener("DOMContentLoaded", function () {
     maxZoom: 2
   });
 
-  // 图片尺寸
-  var w = 2000, h = 1000;
-  var bounds = [[0, 0], [h, w]];
+  var w = 4800, h = 2700;
+  var bounds = [[0,0], [h,w]];
 
-  // 加载 PNG 图片为底图
-  var image = L.imageOverlay('./docs/Laaerad/Trusk/trusk_render.png', bounds).addTo(map);
+  // 添加多图层（生态图、疆域图）
+  // var ecoLayer = L.imageOverlay('img/Trusk/Trusk v3.2 生态 中文.png', bounds);
+  // var regionLayer = L.imageOverlay('img/Trusk/图斯克疆域图v2.png', bounds);
+  var baseLayer = L.imageOverlay('trusk_render.png', bounds);
 
+  baseLayer.addTo(map);
   map.fitBounds(bounds);
 
-  // -----------------------
-  // 生态区划图层 (多边形)
-  var ecoLayer = L.layerGroup();
-
-  L.polygon([
-    [300, 400],
-    [500, 450],
-    [480, 600],
-    [320, 620]
-  ], {color: 'green', fillOpacity: 0.3}).bindPopup("森林生态区").addTo(ecoLayer);
-
-  // -----------------------
-  // 行政区划图层 (边界线)
-  var adminLayer = L.layerGroup();
-
-  L.polyline([
-    [100, 200],
-    [100, 800],
-    [900, 800],
-    [900, 200],
-    [100, 200]
-  ], {color: 'blue'}).bindPopup("首都行政区边界").addTo(adminLayer);
-
-  // -----------------------
-  // 重要地名标记
-  var markerLayer = L.layerGroup();
-
-  L.marker([600, 700]).bindPopup("帝都").addTo(markerLayer);
-  L.marker([350, 500]).bindPopup("绿谷").addTo(markerLayer);
-
-  // -----------------------
-  // 图层控制器
-  var overlays = {
-    "🌿 生态区": ecoLayer,
-    "📏 行政区": adminLayer,
-    "📍 地名标记": markerLayer
+  // 添加图层切换
+  var baseMaps = {
+    "基础图": baseLayer,
+    //"生态图": ecoLayer,
+    //"疆域图": regionLayer
   };
+  L.control.layers(baseMaps).addTo(map);
 
-  L.control.layers(null, overlays).addTo(map);
-
-  // 默认启用所有图层
-  ecoLayer.addTo(map);
-  adminLayer.addTo(map);
-  markerLayer.addTo(map);
+  // 添加标记
+  L.marker([500, 1200]).bindPopup("图斯克都城").addTo(map);
+  L.marker([300, 200]).bindPopup("边境哨所").addTo(map);
 });
