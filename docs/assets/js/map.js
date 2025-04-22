@@ -15,8 +15,18 @@ document.addEventListener("DOMContentLoaded", function () {
   var baseLayer = L.imageOverlay('../../assets/img/trusk_render.png', bounds);
 
   //疆域图
-  var regionBounds = [[2250, 1884.00000], [200, 3400]];
+  var regionBounds = [[2200, 1900], [200, 3400]];
   var regionLayer = L.imageOverlay('../../assets/img/region.png', regionBounds);
+  var regiontextBounds = [[2100, 1900], [300, 3300]];
+  var regiontextLayer = L.imageOverlay('../../assets/img/region_text_ZH.png', regiontextBounds);
+
+  //生态图
+  var ecoBounds = [[2600, 1180], [100, 3670]];
+  var ecoLayer = L.imageOverlay('../../assets/img/eco.png', ecoBounds);
+
+  //地理名称
+  var geotextBounds = [[2500, 1500], [200, 3600]];
+  var geotextLayer = L.imageOverlay('../../assets/img/geo_text_ZH.png', geotextBounds);
 
   baseLayer.addTo(map);
   map.fitBounds(bounds);
@@ -27,8 +37,10 @@ document.addEventListener("DOMContentLoaded", function () {
   };
 
   var overlayMaps = {
-    //"生态图": ecoLayer,
-    "疆域图": regionLayer
+    "生态图": ecoLayer,
+    "疆域图": regionLayer,
+    "区域名称": regiontextLayer,
+    "地理名称": geotextLayer
   };
 
   L.control.layers(baseMaps, overlayMaps).addTo(map);
@@ -42,5 +54,10 @@ document.addEventListener("DOMContentLoaded", function () {
         .bindPopup("坐标: " + latlng.lat.toFixed(5) + ", " + latlng.lng.toFixed(5))
         .openPopup();
   });
+
+
+  // 添加标记
+  L.marker([500, 1200]).bindPopup("图斯克都城").addTo(map);
+  L.marker([300, 200]).bindPopup("边境哨所").addTo(map);
 
 });
