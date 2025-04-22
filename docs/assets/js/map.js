@@ -15,7 +15,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var baseLayer = L.imageOverlay('../../assets/img/trusk_render.png', bounds);
 
   //疆域图
-  var regionBounds = [[2200, 1884.00000], [200, 3400]];
+  var regionBounds = [[2250, 1884.00000], [200, 3400]];
   var regionLayer = L.imageOverlay('../../assets/img/region.png', regionBounds);
 
   baseLayer.addTo(map);
