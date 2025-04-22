@@ -4,33 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "c1482376fdeb2320",
+        "id": "a8a2576c870fc941",
         "type": "tabs",
         "children": [
           {
-            "id": "6aafb70a9067cbdf",
+            "id": "63acbbf5721657bc",
             "type": "leaf",
             "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "插件不再活动"
-            }
-          },
-          {
-            "id": "2ac6d04360f379c0",
-            "type": "leaf",
-            "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/assets/img/trusk_render.png"
+                "file": "docs/Laaerad/Trusk/Trusk.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "trusk_render"
+              "icon": "lucide-file",
+              "title": "Trusk"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -194,8 +185,10 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "2ac6d04360f379c0",
+  "active": "63acbbf5721657bc",
   "lastOpenFiles": [
+    "docs/Laaerad/MAP.md",
+    "docs/assets/img/trusk_render.png",
     "docs/assets/img/region_text_ZH.png",
     "docs/assets/img/geo_text_ZH.png",
     "docs/assets/img/eco.png",
@@ -205,9 +198,6 @@
     "docs/assets/img/文字.png",
     "docs/assets/img/region.png",
     "docs/assets/img/region(1).png",
-    "docs/assets/img/行政区颜色.png",
-    "docs/Laaerad/MAP.md",
-    "docs/assets/img/trusk_render.png",
     "docs/assets/js/map.js",
     "docs/Laaerad/map.js",
     "docs/index.md",
