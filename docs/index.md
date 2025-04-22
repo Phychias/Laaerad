@@ -25,7 +25,7 @@
 
 ### 拉埃拉德
 
-- 2024年一群志同道合的朋友创造了拉埃拉德原始语。[[docs/Laaerad/Laaerad]]
+- 2024年一群志同道合的朋友开启了拉埃拉德原始语的创作。[[docs/Laaerad/Laaerad]]
 - 2024-2025年，拉埃拉德的世界观由骆以川创作
 
 <footer>
@@ -36,8 +36,11 @@
 -->
 
 ---
+目前本站所收录的所有内容均为Phychias骆以川本人个人创作，如有异议请联系本人邮箱phychiaslok@gmail.com
 
-&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlans that's not created by Phychias is owned by its creator. &copy; ---
+&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlans that's not created by Phychias is owned by its creator. &copy;
+
+---
 
 </footer>
 
