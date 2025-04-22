@@ -21,10 +21,12 @@
             "id": "2ac6d04360f379c0",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
-              "icon": "lucide-file",
-              "title": "新标签页"
+              "type": "image",
+              "state": {
+                "file": "docs/assets/img/trusk_render.png"
+              },
+              "icon": "lucide-image",
+              "title": "trusk_render"
             }
           }
         ],
