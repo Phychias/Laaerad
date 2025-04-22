@@ -33,12 +33,14 @@
             "id": "9632c584072dc64e",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/assets/adjustment_s3.png"
+                "file": "docs/index.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "adjustment_s3"
+              "icon": "lucide-file",
+              "title": "index"
             }
           }
         ],
@@ -208,16 +210,18 @@
   },
   "active": "9632c584072dc64e",
   "lastOpenFiles": [
+    "docs/Laaerad/Laaerad.md",
+    "Trusk.md",
+    "laaerad Introduction.md",
+    "docs/index.md",
+    "docs/Laaerad/Trusk/Trusk.md",
+    "docs/assets/adjustment_s3.png",
     "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
     "docs/assets/img/World_HD_v4.png",
     "docs/Laaerad/Trusk/trusk_render.png",
-    "docs/Laaerad/Laaerad.md",
-    "docs/assets/adjustment_s3.png",
     "docs/Laaerad/MAP.md",
-    "docs/index.md",
     "docs/Laaerad/Trusk/Gulomer/GloemeriZherci.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
-    "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/Trusk/trusk_eco.png",
     "docs/Laaerad/Trusk/trusk_district.png",
     "docs/拉埃拉德/原始语.md",
@@ -249,8 +253,6 @@
     "docs/assets/img/psA18C.tmp",
     "docs/assets/img/ps43F1.tmp",
     "docs/assets/js/新建 文本文档.txt",
-    "Trusk.md",
-    "laaerad Introduction.md",
     "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/第六章 离开.md"
   ]

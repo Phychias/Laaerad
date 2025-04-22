@@ -11,7 +11,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var bounds = [[0, 0], [h, w]];
 
   // 加载 PNG 图片为底图
-  var image = L.imageOverlay('./docs/assets/Trusk/Trusk v3 render.png', bounds).addTo(map);
+  var image = L.imageOverlay('./docs/Laaerad/Trusk/trusk_render.png', bounds).addTo(map);
 
   map.fitBounds(bounds);
 
