@@ -21,30 +21,14 @@
             "id": "2ac6d04360f379c0",
             "type": "leaf",
             "state": {
-              "type": "image",
-              "state": {
-                "file": "docs/assets/img/Trusk/trusk_render.png"
-              },
-              "icon": "lucide-image",
-              "title": "trusk_render"
-            }
-          },
-          {
-            "id": "9632c584072dc64e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/Laaerad/MAP.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "MAP"
+              "title": "新标签页"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -208,8 +192,9 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "9632c584072dc64e",
+  "active": "2ac6d04360f379c0",
   "lastOpenFiles": [
+    "docs/Laaerad/MAP.md",
     "docs/assets/img/trusk_render.png",
     "docs/assets/js/trusk_render.png",
     "docs/assets/js/map.js",
@@ -218,7 +203,6 @@
     "docs/Laaerad/Index.md",
     "Trusk.md",
     "laaerad Introduction.md",
-    "docs/Laaerad/MAP.md",
     "docs/Laaerad/Trusk/map_viewer.html",
     "docs/Laaerad/Laaerad.md",
     "docs/Laaerad/Trusk/Trusk.md",
@@ -243,7 +227,6 @@
     "docs/拉埃拉德/laaerad 简介.md",
     "docs/拉埃拉德/图斯克/咕洛/咕洛传说.md",
     "docs/拉埃拉德/图斯克/图斯克疆域图v2.png",
-    "docs/拉埃拉德/图斯克/laaerad24mainlandv0.1.1 Bitmap Output 4096.png",
     "docs/拉埃拉德/图斯克/咕洛",
     "docs/拉埃拉德/图斯克",
     "docs/拉埃拉德",
