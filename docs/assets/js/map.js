@@ -46,7 +46,8 @@ document.addEventListener("DOMContentLoaded", function () {
   L.control.layers(baseMaps, overlayMaps).addTo(map);
   
   // 监听地图点击事件
-  map.on('click', function(e) {
+  /*
+   map.on('click', function(e) {
     var latlng = e.latlng; // 获取点击的坐标
 
     // 创建一个标记并添加到地图
@@ -54,10 +55,10 @@ document.addEventListener("DOMContentLoaded", function () {
         .bindPopup("坐标: " + latlng.lat.toFixed(5) + ", " + latlng.lng.toFixed(5))
         .openPopup();
   });
-
+  */
 
   // 添加标记
-  L.marker([500, 1200]).bindPopup("图斯克都城").addTo(map);
-  L.marker([300, 200]).bindPopup("边境哨所").addTo(map);
+  L.marker([1000.59896, 2775.75173]).bindPopup("<br><a href='./Trusk.md' target='_blank'>图斯克</a>").addTo(map);
+
 
 });
