@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/Trusk.md",
+                "file": "docs/Laaerad/MAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Trusk"
+              "title": "MAP"
             }
           }
         ],
@@ -202,8 +202,9 @@
   },
   "active": "f67259d10f41d4f9",
   "lastOpenFiles": [
-    "docs/assets/js/map_viewer.html",
+    "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
+    "docs/assets/js/map_viewer.html",
     "docs/assets/img/trusk_render_white.png",
     "docs/assets/img/未命名.png",
     "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
@@ -224,7 +225,6 @@
     "laaerad Introduction.md",
     "docs/Laaerad/Trusk/map_viewer.html",
     "docs/Laaerad/Laaerad.md",
-    "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/Trusk/Gulomer/GloemeriZherci.md",
     "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/Index.md",
@@ -245,7 +245,6 @@
     "docs/assets/map_viewer.html",
     "docs/assets/img/Trusk",
     "docs/assets/img/新建文件夹",
-    "docs/assets/img/psA18C.tmp",
     "docs/没有星星的夜/第二章 重逢.md",
     "docs/没有星星的夜/第六章 离开.md"
   ]
