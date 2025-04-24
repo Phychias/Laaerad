@@ -12,22 +12,22 @@ document.addEventListener("DOMContentLoaded", function () {
   // ------------------------添加多图层（生态图、疆域图）------------------------------------------------------
   // var ecoLayer = L.imageOverlay('img/Trusk/Trusk v3.2 生态 中文.png', bounds);
   // var regionLayer = L.imageOverlay('img/Trusk/图斯克疆域图v2.png', bounds);
-  var baseLayer = L.imageOverlay('./trusk_render.png', bounds);
-  var baseLayer_white = L.imageOverlay('./trusk_render_white.png', bounds);
+  var baseLayer = L.imageOverlay('../../assets/img/trusk_render.png', bounds);
+  var baseLayer_white = L.imageOverlay('../../assets/img/trusk_render_white.png', bounds);
 
   //疆域图
   var regionBounds = [[2200, 1900], [200, 3400]];
-  var regionLayer = L.imageOverlay('./region.png', regionBounds);
+  var regionLayer = L.imageOverlay('../../assets/img/region.png', regionBounds);
   var regiontextBounds = [[2100, 1900], [300, 3300]];
-  var regiontextLayer = L.imageOverlay('./region_text_ZH.png', regiontextBounds);
+  var regiontextLayer = L.imageOverlay('../../assets/img/region_text_ZH.png', regiontextBounds);
 
   //生态图
   var ecoBounds = [[2600, 1180], [100, 3670]];
-  var ecoLayer = L.imageOverlay('./eco.png', ecoBounds);
+  var ecoLayer = L.imageOverlay('../../assets/img/eco.png', ecoBounds);
 
   //地理名称
   var geotextBounds = [[2500, 1500], [200, 3600]];
-  var geotextLayer = L.imageOverlay('./geo_text_ZH.png', geotextBounds);
+  var geotextLayer = L.imageOverlay('../../assets/img/geo_text_ZH.png', geotextBounds);
 
   baseLayer_white.addTo(map);
   map.fitBounds(bounds);
@@ -60,7 +60,7 @@ document.addEventListener("DOMContentLoaded", function () {
   */
 
   // 添加标记
-  L.marker([1000.59896, 2775.75173]).bindPopup("<br><a href='.Trusk.md' target='_blank'>图斯克介绍</a>").addTo(map);
+  L.marker([1000.59896, 2775.75173]).bindPopup("<br><a href='../../../Laaerad/Trusk/Trusk.md' target='_blank'>图斯克介绍</a>").addTo(map);
 
 
 });
