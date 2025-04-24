@@ -13,6 +13,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // var ecoLayer = L.imageOverlay('img/Trusk/Trusk v3.2 生态 中文.png', bounds);
   // var regionLayer = L.imageOverlay('img/Trusk/图斯克疆域图v2.png', bounds);
   var baseLayer = L.imageOverlay('../../assets/img/trusk_render.png', bounds);
+  var baseLayer_white = L.imageOverlay('../../assets/img/trusk_render_white.png', bounds);
 
   //疆域图
   var regionBounds = [[2200, 1900], [200, 3400]];
@@ -34,6 +35,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // -------------------------------添加图层切换--------------------------
   var baseMaps = {
     "地形": baseLayer,
+    "白膜": baseLayer_white,
   };
 
   var overlayMaps = {
