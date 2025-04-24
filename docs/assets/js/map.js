@@ -58,7 +58,7 @@ document.addEventListener("DOMContentLoaded", function () {
   */
 
   // 添加标记
-  L.marker([1000.59896, 2775.75173]).bindPopup("<br><a href='./Trusk.md' target='_blank'>图斯克</a>").addTo(map);
+  L.marker([1000.59896, 2775.75173]).bindPopup("<br><a href='../../../Laaerad/Trusk/Trusk.md' target='_blank'>图斯克介绍</a>").addTo(map);
 
 
 });
