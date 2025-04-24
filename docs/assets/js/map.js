@@ -30,6 +30,8 @@ document.addEventListener("DOMContentLoaded", function () {
   var geotextLayer = L.imageOverlay('../../assets/img/geo_text_ZH.png', geotextBounds);
 
   baseLayer_white.addTo(map);
+  regionLayer.addTo(map);
+  regiontextLayer.addTo(map);
   map.fitBounds(bounds);
 
   // -------------------------------添加图层切换--------------------------
