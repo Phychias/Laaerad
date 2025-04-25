@@ -1,7 +1,7 @@
 {
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
-  "readableLineLength": false,
+  "readableLineLength": true,
   "newLinkFormat": "shortest",
   "useMarkdownLinks": true,
   "attachmentFolderPath": "docs/assets"

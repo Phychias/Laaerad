@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/MAP.md",
+                "file": "docs/Laaerad/Trusk/ZherirTruskal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAP"
+              "title": "ZherirTruskal"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.504695892334
+    "width": 258.504695892334,
+    "collapsed": true
   },
   "right": {
     "id": "6078100c999914ca",
@@ -203,14 +204,16 @@
   "active": "f67259d10f41d4f9",
   "lastOpenFiles": [
     "docs/Laaerad/Trusk/Trusk.md",
+    "docs/Laaerad/PrimitiveLanguage.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
+    "docs/Laaerad/Laaerad.md",
+    "docs/Laaerad/MAP.md",
     "docs/assets/js/map_viewer.html",
     "docs/assets/img/trusk_render_white.png",
     "docs/assets/img/未命名.png",
     "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
     "Trusk.md",
     "docs/Laaerad/Index.md",
-    "docs/Laaerad/MAP.md",
     "docs/assets/img/trusk_render.png",
     "docs/assets/img/region_text_ZH.png",
     "docs/assets/img/geo_text_ZH.png",
@@ -224,7 +227,6 @@
     "docs/index.md",
     "laaerad Introduction.md",
     "docs/Laaerad/Trusk/map_viewer.html",
-    "docs/Laaerad/Laaerad.md",
     "docs/Laaerad/Trusk/Gulomer/GloemeriZherci.md",
     "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/Index.md",
@@ -241,7 +243,6 @@
     "docs/拉埃拉德",
     "docs/Laaerad/Trusk/Gulomer/Gloemer.md",
     "docs/Laaerad/Trusk/Decoheim.md",
-    "docs/Laaerad/PrimitiveLanguage.md",
     "docs/assets/map_viewer.html",
     "docs/assets/img/Trusk",
     "docs/assets/img/新建文件夹",
