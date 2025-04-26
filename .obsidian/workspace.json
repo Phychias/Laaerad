@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/ZherirTruskal.md",
+                "file": "docs/Laaerad/MAP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ZherirTruskal"
+              "title": "MAP"
             }
           }
         ],
@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 258.504695892334,
-    "collapsed": true
+    "width": 258.504695892334
   },
   "right": {
     "id": "6078100c999914ca",
@@ -203,9 +202,10 @@
   },
   "active": "f67259d10f41d4f9",
   "lastOpenFiles": [
+    "docs/assets/img/trusk_white_1080p.png",
+    "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/PrimitiveLanguage.md",
-    "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/Laaerad.md",
     "docs/Laaerad/MAP.md",
     "docs/assets/js/map_viewer.html",
