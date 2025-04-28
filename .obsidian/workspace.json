@@ -13,20 +13,6 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/Trusk.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Trusk"
-            }
-          },
-          {
-            "id": "f67259d10f41d4f9",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
                 "file": "docs/Laaerad/Trusk/ZherirTruskal.md",
                 "mode": "source",
                 "source": false
@@ -35,8 +21,7 @@
               "title": "ZherirTruskal"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -200,8 +185,11 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "f67259d10f41d4f9",
+  "active": "63acbbf5721657bc",
   "lastOpenFiles": [
+    "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
+    "docs/Laaerad/Trusk/Gulomer/GloemeriZherci.md",
+    "Trusk.md",
     "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/MAP.md",
@@ -211,8 +199,6 @@
     "docs/assets/js/map_viewer.html",
     "docs/assets/img/trusk_render_white.png",
     "docs/assets/img/未命名.png",
-    "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
-    "Trusk.md",
     "docs/Laaerad/Index.md",
     "docs/assets/img/trusk_render.png",
     "docs/assets/img/region_text_ZH.png",
@@ -226,7 +212,6 @@
     "docs/index.md",
     "laaerad Introduction.md",
     "docs/Laaerad/Trusk/map_viewer.html",
-    "docs/Laaerad/Trusk/Gulomer/GloemeriZherci.md",
     "docs/拉埃拉德/原始语.md",
     "docs/拉埃拉德/Index.md",
     "docs/拉埃拉德/图斯克/图斯克.md",

@@ -103,7 +103,7 @@ The **Trusk Empire** is composed of three major kingdoms:
 
 ### Trusk: Homeland of Kings
 
-> Today, everyone within the bounds of the Trusk Empire identifies as a Trusk. Drawing from chronicles, legends, and other sources, it is widely believed that the tribe known as the <ruby>Trusk<rt>图斯克</rt></ruby> first originated from a settlement nestled in the mountains west of the Strait. It is said they were called <ruby>tʰroko<rt>特洛扣</rt></ruby>—“makers” or “craftsmen”—by neighboring tribes, due to their superior skill in crafting. This word is thought to have gradually evolved into “Trusk” in the Trusk language. *—Latroda Kuileot, Trusk: A People, A Nation, A Dream*
+> Today, everyone within the bounds of the Trusk Empire identifies as a Trusk. Drawing from chronicles, legends, and other sources, it is widely believed that the tribe known as the Trusk first originated from a settlement nestled in the mountains west of the Strait. It is said they were called tʰroko特洛扣—“makers” or “craftsmen”—by neighboring tribes, due to their superior skill in crafting. This word is thought to have gradually evolved into “Trusk” in the Trusk language. *—Latroda Kuileot, Trusk: A People, A Nation, A Dream*
 
 The Trusk were once an unremarkable tribe in the western highlands of what is now the Empire. After the Bronze Age, they rose swiftly, annexing neighboring tribes and eventually establishing a full-fledged city-state. The prevailing theory attributes their rise to the discovery of a large iron deposit nearby, which gave them an early technological advantage in metallurgy.
 
