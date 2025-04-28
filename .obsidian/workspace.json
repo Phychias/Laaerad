@@ -11,14 +11,12 @@
             "id": "63acbbf5721657bc",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/Laaerad/Trusk/ZherirTruskal.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/assets/img/eco.png"
               },
-              "icon": "lucide-file",
-              "title": "ZherirTruskal"
+              "icon": "lucide-image",
+              "title": "eco"
             }
           }
         ]
@@ -187,11 +185,13 @@
   },
   "active": "63acbbf5721657bc",
   "lastOpenFiles": [
+    "docs/Laaerad/Trusk/trusk_eco.png",
+    "docs/Laaerad/Trusk/trusk_district.png",
+    "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
     "docs/Laaerad/Trusk/Gulomer/GloemeriZherci.md",
     "Trusk.md",
     "docs/Laaerad/Trusk/Trusk.md",
-    "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/MAP.md",
     "docs/assets/img/trusk_white_1080p.png",
     "docs/Laaerad/PrimitiveLanguage.md",
@@ -206,7 +206,6 @@
     "docs/assets/img/eco.png",
     "docs/assets/img/Trusk v3 生态 底图.png",
     "docs/assets/img/eco_text_ZH.png",
-    "docs/assets/img/region_text.png",
     "docs/assets/js/map.js",
     "docs/Laaerad/map.js",
     "docs/index.md",
