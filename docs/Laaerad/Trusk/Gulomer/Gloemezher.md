@@ -7,6 +7,7 @@ tags:
   - Laaerad
   - 语言
   - 咕洛
+  - 创作/设定
 ---
 # 咕洛语 Glömezher
 

@@ -13,17 +13,21 @@ document.addEventListener("DOMContentLoaded", function () {
   // var ecoLayer = L.imageOverlay('img/Trusk/Trusk v3.2 生态 中文.png', bounds);
   // var regionLayer = L.imageOverlay('img/Trusk/图斯克疆域图v2.png', bounds);
   var baseLayer = L.imageOverlay('../../assets/img/trusk_render.png', bounds);
-  var baseLayer_white = L.imageOverlay('../../assets/img/trusk_white_1080p.png', bounds);
+  var baseLayer_white = L.imageOverlay('../../assets/img/trusk_render_white.png', bounds);
 
-  //疆域图
+  //行政区图
   var regionBounds = [[2200, 1900], [200, 3400]];
   var regionLayer = L.imageOverlay('../../assets/img/region.png', regionBounds);
   var regiontextBounds = [[2100, 1900], [300, 3300]];
   var regiontextLayer = L.imageOverlay('../../assets/img/region_text_ZH.png', regiontextBounds);
 
   //生态图
-  var ecoBounds = [[2600, 1180], [100, 3670]];
+  var ecoBounds = [[2700, 0], [0, 4800]];
   var ecoLayer = L.imageOverlay('../../assets/img/eco.png', ecoBounds);
+
+  //疆界图
+  var borderBounds = [[2150, 1140], [50, 4750]];
+  var borderLayer = L.imageOverlay('../../assets/img/border_trusk.png', borderBounds);
 
   //地理名称
   var geotextBounds = [[2500, 1500], [200, 3600]];
@@ -42,9 +46,10 @@ document.addEventListener("DOMContentLoaded", function () {
 
   var overlayMaps = {
     "生态图": ecoLayer,
-    "疆域图": regionLayer,
+    "区划图": regionLayer,
+    "疆界图": borderLayer,
     "区域名称": regiontextLayer,
-    "地理名称": geotextLayer
+    "地理名称": geotextLayer,
   };
 
   L.control.layers(baseMaps, overlayMaps).addTo(map);
@@ -62,7 +67,6 @@ document.addEventListener("DOMContentLoaded", function () {
   */
 
   // 添加标记
-  L.marker([1000.59896, 2775.75173]).bindPopup("<br><a href='../../../Laaerad/Trusk/Trusk/' target='_blank'>图斯克介绍</a>").addTo(map);
-
+  L.marker([1000.59896, 2775.75173]).bindPopup("黑蔑特城").addTo(map);
 
 });

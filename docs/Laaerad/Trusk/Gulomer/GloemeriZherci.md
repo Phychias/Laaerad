@@ -3,6 +3,7 @@ tags:
   - Laaerad
   - 语言
   - 咕洛
+  - "#传说"
 ---
 # <ruby>咕洛传说<rt>Glömeri Zherci</rt></ruby> 
 
