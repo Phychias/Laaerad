@@ -35,7 +35,8 @@
               "title": "Decoheim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "dfb4cc4fa798e4fb",
@@ -221,10 +222,10 @@
   },
   "active": "0aa56222c889d6b7",
   "lastOpenFiles": [
-    "docs/Laaerad/Trusk/ZherirTruskal.md",
-    "docs/Laaerad/Trusk/ashurwortruskal.md",
-    "docs/Laaerad/Trusk/Trusk.md",
     "docs/Laaerad/Trusk/Decoheim.md",
+    "docs/Laaerad/Trusk/ashurwortruskal.md",
+    "docs/Laaerad/Trusk/ZherirTruskal.md",
+    "docs/Laaerad/Trusk/Trusk.md",
     "docs/assets/img/trusk_render.png",
     "docs/Laaerad/Matasioksamem.md",
     "docs/Laaerad/Trusk/Gulomer/Gloemezher.md",
