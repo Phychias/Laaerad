@@ -6,7 +6,7 @@
       {
         "id": "a8a2576c870fc941",
         "type": "tabs",
-        "dimension": 60.68580542264753,
+        "dimension": 80.4739336492891,
         "children": [
           {
             "id": "c9b0a1bd7ab8b4b9",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/trusk.md",
+                "file": "docs/Laaerad/Trusk/ashurwortruskal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trusk"
+              "title": "ashurwortruskal"
             }
           },
           {
@@ -41,7 +41,7 @@
       {
         "id": "dfb4cc4fa798e4fb",
         "type": "tabs",
-        "dimension": 39.314194577352474,
+        "dimension": 19.5260663507109,
         "children": [
           {
             "id": "73db90c3e54ef44c",
@@ -219,6 +219,9 @@
   },
   "active": "c9b0a1bd7ab8b4b9",
   "lastOpenFiles": [
+    "docs/Laaerad/Trusk/trusk.md",
+    "docs/Laaerad/Trusk/trusk_district.png",
+    "docs/Laaerad/Trusk/trusk_eco.png",
     "docs/Laaerad/Trusk/Gulomer/gloemer.md",
     "docs/Laaerad/Trusk/Gulomer/gloemeriZherci.md",
     "docs/Laaerad/Trusk/Gulomer/gloemezher.md",
@@ -229,7 +232,6 @@
     "docs/Laaerad/MAP.md",
     "docs/Laaerad/matasioksamem.md",
     "docs/Laaerad/primitiveLanguage.md",
-    "docs/Laaerad/Trusk/trusk.md",
     "docs/Laaerad/Trusk/decoheim.md",
     "docs/Laaerad/Trusk/ashurwortruskal.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
@@ -242,8 +244,6 @@
     "docs/assets/img/eco.png",
     "docs/assets/img/geo_text_ZH.png",
     "docs/assets/img/region_text_ZH.png",
-    "docs/assets/img/trusk_render.png",
-    "docs/assets/adjustment_s3.png",
     "未命名.md",
     "图斯克.md",
     "docs/Laaerad/Trusk/ZherirTruskal.synctex(busy)",
