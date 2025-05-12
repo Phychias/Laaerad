@@ -9,7 +9,7 @@ tags:
 
 咕洛语与汉语版本的对照。
 
-具体词汇、语法参见文档[[docs/Laaerad/Trusk/Gulomer/Gloemezher]]
+具体词汇、语法参见文档[[gloemezher]]
 
 这篇文档还在维护中。
 ## Piyomat Sajera - 世界之初

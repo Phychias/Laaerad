@@ -1,6 +1,7 @@
+# Trusk
 ## Intro
 
-Trusk is a kingdom that lies at the crossroads between the eastern and western continents, located in the northeastern part of planet Laaerad. It has always played an important role throughout history.
+Trusk is a kingdom that lies at the crossroads between the eastern and western continents, located in the northeastern part of planet Laaerad. It has always played an important role throughout the history of Laaerad.
 
 The word “Trusk” originates from the official language of the Trusk nation. Its etymology can be traced back to the ancestral tongue of the Laaerad peoples, specifically to the word “tʰro,” which means “to make.” This name may have been adopted due to Trusk's relatively advanced manufacturing capabilities at the time, reflecting a culture strongly associated with craftsmanship and production.
 

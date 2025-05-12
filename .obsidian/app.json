@@ -4,5 +4,6 @@
   "readableLineLength": false,
   "newLinkFormat": "relative",
   "useMarkdownLinks": true,
-  "attachmentFolderPath": "docs/assets"
+  "attachmentFolderPath": "docs/assets",
+  "showLineNumber": true
 }
