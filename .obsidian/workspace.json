@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/trusk.md",
+                "file": "docs/Laaerad/Trusk/decoheim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "trusk"
+              "title": "decoheim"
             }
           }
         ]
@@ -187,16 +187,17 @@
   },
   "active": "c9b0a1bd7ab8b4b9",
   "lastOpenFiles": [
+    "docs/Laaerad/Trusk/matasioksamem.md",
+    "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/Trusk/trusk_eco.png",
-    "docs/Laaerad/MAP.md",
+    "docs/Laaerad/Trusk/trusk_district.png",
     "docs/Laaerad/Trusk/trusk.md",
+    "docs/Laaerad/MAP.md",
     "docs/Laaerad/Trusk/Gulomer/gloemezher.md",
     "docs/Laaerad/图斯克神话.md",
     "trusk_eng.md",
-    "docs/Laaerad/Trusk/trusk_district.png",
     "docs/Laaerad/Laaerad.md",
     "Laaerad Introduction eng.md",
-    "docs/Laaerad/Trusk/matasioksamem.md",
     "docs/Laaerad/Trusk/ashurwortruskal.md",
     "docs/Laaerad/Index.md",
     "docs/Laaerad/PrimitiveLanguage.md",
@@ -206,7 +207,6 @@
     "docs/Laaerad/Trusk/Gulomer/gloemeriZherci.md",
     "docs/index.md",
     "docs/Laaerad/Trusk/decoheim.md",
-    "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/assets/img/trusk_render_white.png",
     "docs/assets/img/Trusk/生态图例 文字 中文.png",
     "docs/assets/img/trusk_white_1080p.png",
