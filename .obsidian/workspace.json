@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "496dda00291ac009",
+        "id": "6d8f41d3fea4e175",
         "type": "tabs",
         "children": [
           {
-            "id": "c9b0a1bd7ab8b4b9",
+            "id": "46d2fcf84aebd48a",
             "type": "leaf",
             "state": {
-              "type": "obsidian-leaflet-map-view",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/Laaerad.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Leaflet 地图"
+              "title": "Laaerad"
             }
           }
         ]
@@ -181,14 +185,15 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "c9b0a1bd7ab8b4b9",
+  "active": "46d2fcf84aebd48a",
   "lastOpenFiles": [
+    "docs/Laaerad/PrimitiveLanguage.md",
+    "docs/Laaerad/Trusk/trusk.md",
     "docs/Laaerad/Trusk/decoheim.md",
     "docs/Laaerad/Trusk/matasioksamem.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/Laaerad/Trusk/trusk_eco.png",
     "docs/Laaerad/Trusk/trusk_district.png",
-    "docs/Laaerad/Trusk/trusk.md",
     "docs/Laaerad/MAP.md",
     "docs/Laaerad/Trusk/Gulomer/gloemezher.md",
     "docs/Laaerad/图斯克神话.md",
@@ -197,7 +202,6 @@
     "Laaerad Introduction eng.md",
     "docs/Laaerad/Trusk/ashurwortruskal.md",
     "docs/Laaerad/Index.md",
-    "docs/Laaerad/PrimitiveLanguage.md",
     "docs/assets/img/Trusk/Trusk v3 生态 底图.png",
     "docs/assets/img/trusk_render.png",
     "docs/Laaerad/Trusk/Gulomer/gloemer.md",
