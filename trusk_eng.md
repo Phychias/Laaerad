@@ -3,11 +3,11 @@
 
 Trusk is a kingdom that lies at the crossroads between the eastern and western continents, located in the northeastern part of planet Laaerad. It has always played an important role throughout the history of Laaerad.
 
-The word “Trusk” originates from the official language of the Trusk nation. Its etymology can be traced back to the ancestral tongue of the Laaerad peoples, specifically to the word “tʰro,” which means “to make.” This name may have been adopted due to Trusk's relatively advanced manufacturing capabilities at the time, reflecting a culture strongly associated with craftsmanship and production.
+The word “Trusk” originates from the official language of the Trusk nation. Its etymology can be traced back to the ancestral tongue of the Laaerad peoples, specifically to the word “thro,” which means “to make.” This name may have been adopted due to Trusk's relatively advanced manufacturing capabilities at the time, reflecting a culture strongly associated with craftsmanship and production.
 
 ## Geography 
 
-The vast area called Trusk has high mountains in the west, humid jungles in the south, and large swamps and jungles in the northeast as its natural borders. The territories once owned by the Empire are also not limited to this, and the Imperial Fleet once established many bases in Long Island, the southernmost tip of the East Continent.
+The Trusk Empire's territory is located in the central part of the eastern continent of Laaeard, extending from Mistnatila in the north to the Guduke-Asesa Mountains in the south. It owns the most fertile arable land along the coast of the Novaja Sea on the continent. It also controls the passages between the Novaya Sea and the North Sea and the South Sea - the Heimet Strait and the Laporio Strait, controlling the most core transportation hub of this continent.
 
 #### Terrain: Trusk Basin, Nowaja Sea, and grasslands along the Gulomer River
 

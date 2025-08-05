@@ -1,0 +1,13 @@
+
+# Introduction of Laaerad
+
+## Astrology
+
+### The Star System
+
+The star system of Laaerad is similar to the solar system that we have in the real world. The planet of Laaerad has one moon. 
+
+### The Planet
+
+The planet of Laaerad has a mass and a volume similar to the earth.
+
