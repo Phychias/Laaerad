@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/MAP.md",
+                "file": "laaerad Introduction.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "MAP"
+              "title": "laaerad Introduction"
             }
           },
           {
@@ -211,16 +211,16 @@
       "daily-notes:打开/创建今天的日记": false,
       "templates:插入模板": false,
       "command-palette:打开命令面板": false,
-      "github-sync:Sync with Remote": false,
-      "templater-obsidian:Templater": false,
-      "remotely-save:Remotely Save": false,
-      "obsidian-leaflet-plugin:打开 Leaflet 地图": false
+      "github-sync:Sync with Remote": false
     }
   },
   "active": "c9b0a1bd7ab8b4b9",
   "lastOpenFiles": [
-    "laaerad Introduction.md",
     "trusk_eng.md",
+    "docs/Laaerad/Laaerad.md",
+    "docs/Laaerad/Index.md",
+    "docs/Laaerad/MAP.md",
+    "laaerad Introduction.md",
     "docs/Laaerad/Trusk/ashurwortruskal.md",
     "docs/Laaerad/Trusk/trusk.md",
     "docs/Laaerad/Trusk/trusk_district.png",
@@ -229,8 +229,6 @@
     "docs/Laaerad/Trusk/Gulomer/gloemeriZherci.md",
     "docs/Laaerad/Trusk/Gulomer/gloemezher.md",
     "docs/index.md",
-    "docs/Laaerad/Laaerad.md",
-    "docs/Laaerad/MAP.md",
     "docs/Laaerad/matasioksamem.md",
     "docs/Laaerad/primitiveLanguage.md",
     "docs/Laaerad/Trusk/decoheim.md",
@@ -239,7 +237,6 @@
     "docs/assets/img/Trusk/生态图例 文字 中文.png",
     "docs/assets/img/trusk_white_1080p.png",
     "docs/assets/img/Trusk/Trusk v3 生态 底图.png",
-    "docs/Laaerad/Index.md",
     "docs/assets/img/border_trusk.png",
     "docs/assets/img/eco.png",
     "docs/assets/img/geo_text_ZH.png",

@@ -13,7 +13,7 @@ The vast area called Trusk has high mountains in the west, humid jungles in the 
 
 The terrain of Trusk is mainly coastal plains. There is a large basin in the western origin of Trusk, also known as the Trusk Basin. The corridor between the two oceans in the east connects to the Gulomer territory in the north and the large jungle on the border of Yiying in the south. The Laporio Strait is on the other side of the Novaya Sea. There are two large lakes on the west side of the Laporio territory, and on the east side there are river deltas formed by the erosion of several rivers flowing into the sea.
 
-#### Climate: Novaya Sea with different periods of rain and heat
+#### Climate: Novaja Sea with different periods of rain and heat
 
 The core area of ​​Trusk is dominated by a Mediterranean climate with different periods of rain and heat, but the north is also affected by the ocean currents from the North Sea and has a temperate monsoon climate. A large part of the southern Laporio region is in the subtropics, with many jungles and broad-leaved forests. There are large sparsely wooded plains between the southernmost part and Long Island, which are difficult to cross. There are a large number of virgin forests and humid plateaus in the southeast.
 
@@ -94,7 +94,7 @@ end
 
 The **Trusk Empire** is composed of three major kingdoms:
 
-1. **The Kingdom of Gulomer**, also known as the **Northern Realm**, is primarily made up of the territories of the **Gulomer clans**, a nomadic people of the north.
+1. **The Kingdom of Gulomer**, also known as the **Northern Realm**, is primarily made up of the territories of the **Gulomer clans**, nomadic people of the north.
     
 2. **The Kingdom of Trusk**, the imperial heartland, is also referred to as the **Kingdom of Heimet**. In the early days of the empire, it was further divided into two realms: **Heimet** and **Tyesuku**.
     
@@ -104,7 +104,7 @@ The **Trusk Empire** is composed of three major kingdoms:
 
 ### Trusk: Homeland of Kings
 
-> Today, everyone within the bounds of the Trusk Empire identifies as a Trusk. Drawing from chronicles, legends, and other sources, it is widely believed that the tribe known as the Trusk first originated from a settlement nestled in the mountains west of the Strait. It is said they were called tʰroko特洛扣—“makers” or “craftsmen”—by neighboring tribes, due to their superior skill in crafting. This word is thought to have gradually evolved into “Trusk” in the Trusk language. *—Latroda Kuileot, Trusk: A People, A Nation, A Dream*
+> Today, everyone within the bounds of the Trusk Empire identifies as a Trusk. Drawing from chronicles, legends, and other sources, it is widely believed that the tribe known as the Trusk first originated from a settlement nestled in the mountains west of the Strait. It is said they were called "Troko"—"makers" or "craftsmen"—by neighboring tribes, due to their superior skill in crafting. This word is thought to have gradually evolved into "Trusk" in the Trusk language. *—Latroda Kuileot, Trusk: A People, A Nation, A Dream*
 
 The Trusk were once an unremarkable tribe in the western highlands of what is now the Empire. After the Bronze Age, they rose swiftly, annexing neighboring tribes and eventually establishing a full-fledged city-state. The prevailing theory attributes their rise to the discovery of a large iron deposit nearby, which gave them an early technological advantage in metallurgy.
 
