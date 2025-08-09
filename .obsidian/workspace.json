@@ -4,21 +4,43 @@
     "type": "split",
     "children": [
       {
-        "id": "6d8f41d3fea4e175",
+        "id": "d62a88c2258219d6",
         "type": "tabs",
+        "dimension": 49.467275494672755,
         "children": [
           {
-            "id": "46d2fcf84aebd48a",
+            "id": "1c3eebd996519d2c",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Laaerad.md",
+                "file": "docs/Laaerad/Trusk/ZherirTruskal.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Laaerad"
+              "title": "ZherirTruskal"
+            }
+          }
+        ]
+      },
+      {
+        "id": "4b2c966d2a4def8d",
+        "type": "tabs",
+        "dimension": 50.532724505327245,
+        "children": [
+          {
+            "id": "cb8383202822736a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/Trusk/decoheim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "decoheim"
             }
           }
         ]
@@ -182,25 +204,26 @@
       "github-sync:Sync with Remote": false,
       "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-leaflet-plugin:打开 Leaflet 地图": false
+      "obsidian-leaflet-plugin:打开 Leaflet 地图": false,
+      "publish:发布更改": false
     }
   },
-  "active": "46d2fcf84aebd48a",
+  "active": "cb8383202822736a",
   "lastOpenFiles": [
-    "docs/Laaerad/PrimitiveLanguage.md",
-    "docs/Laaerad/Trusk/trusk.md",
-    "docs/Laaerad/Trusk/decoheim.md",
-    "docs/Laaerad/Trusk/matasioksamem.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
-    "docs/Laaerad/Trusk/trusk_eco.png",
     "docs/Laaerad/Trusk/trusk_district.png",
+    "docs/Laaerad/Trusk/trusk_eco.png",
+    "docs/Laaerad/Trusk/decoheim.md",
+    "docs/Laaerad/Laaerad.md",
+    "docs/Laaerad/Trusk/ashurwortruskal.md",
+    "docs/Laaerad/PrimitiveLanguage.md",
+    "docs/Laaerad/图斯克神话.md",
+    "docs/Laaerad/Trusk/trusk.md",
+    "docs/Laaerad/Trusk/matasioksamem.md",
     "docs/Laaerad/MAP.md",
     "docs/Laaerad/Trusk/Gulomer/gloemezher.md",
-    "docs/Laaerad/图斯克神话.md",
     "trusk_eng.md",
-    "docs/Laaerad/Laaerad.md",
     "Laaerad Introduction eng.md",
-    "docs/Laaerad/Trusk/ashurwortruskal.md",
     "docs/Laaerad/Index.md",
     "docs/assets/img/Trusk/Trusk v3 生态 底图.png",
     "docs/assets/img/trusk_render.png",
