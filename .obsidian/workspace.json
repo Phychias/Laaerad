@@ -12,6 +12,16 @@
             "id": "dadc82f8d54c79db",
             "type": "leaf",
             "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "95947c4d1492bf44",
+            "type": "leaf",
+            "state": {
               "type": "markdown",
               "state": {
                 "file": "docs/Laaerad/Trusk/Decoheim.md",
@@ -36,7 +46,8 @@
               "title": "Decoheim"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       },
       {
         "id": "dfb4cc4fa798e4fb",
@@ -214,10 +225,11 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dadc82f8d54c79db",
+  "active": "95947c4d1492bf44",
   "lastOpenFiles": [
-    "Laaerad Introduction eng.md",
     "未命名.md",
+    "docs/Laaerad/Trusk/Decoheim.md",
+    "Laaerad Introduction eng.md",
     "未命名 1.md",
     "docs/Laaerad/图斯克神话.md",
     "docs/Laaerad/Trusk/matasioksamem.md",
@@ -260,7 +272,6 @@
     "docs/assets/js/map.js",
     "docs/Laaerad/map.js",
     "docs/拉埃拉德/原始语.md",
-    "docs/拉埃拉德/Index.md",
-    "docs/拉埃拉德/图斯克/图斯克.md"
+    "docs/拉埃拉德/Index.md"
   ]
 }

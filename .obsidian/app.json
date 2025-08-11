@@ -2,8 +2,8 @@
   "strictLineBreaks": true,
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
-  "newLinkFormat": "relative",
-  "useMarkdownLinks": true,
+  "newLinkFormat": "shortest",
+  "useMarkdownLinks": false,
   "attachmentFolderPath": "docs/assets",
   "showLineNumber": true,
   "vimMode": true
