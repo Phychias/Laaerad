@@ -1,5 +1,5 @@
 
-# 目录
+# 首页
 <header>
 
 <!--
@@ -19,8 +19,11 @@
 ## 内容
 
 当前博客的主要内容有：
-1. 对这个世界的简单描述
+
+1. 对laaerad企划所囊括世界的简单描述
+
 2. 对这个世界各种语言的描述
+
 3. 对这个世界各个文明的描述
 
 ### 拉埃拉德
@@ -36,6 +39,7 @@
 -->
 
 ---
+
 目前本站所收录的所有内容均为Phychias骆以川本人个人创作，如有异议请联系本人邮箱phychiaslok@gmail.com
 
 &copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlans that's not created by Phychias is owned by its creator. &copy;

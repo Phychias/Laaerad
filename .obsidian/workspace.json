@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/laaerad.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "laaerad"
+              "title": "index"
             }
           },
           {
@@ -230,8 +230,8 @@
   },
   "active": "dadc82f8d54c79db",
   "lastOpenFiles": [
-    "docs/Laaerad/Index.md",
     "docs/Laaerad/laaerad.md",
+    "docs/Laaerad/Index.md",
     "docs/Laaerad/laaerad eng.md",
     "docs/Laaerad/primitiveLanguage.md",
     "docs/Laaerad/MAP.md",
