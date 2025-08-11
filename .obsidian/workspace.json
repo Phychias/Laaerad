@@ -12,10 +12,14 @@
             "id": "dadc82f8d54c79db",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/Trusk/trusk_eng.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trusk_eng"
             }
           },
           {
@@ -24,12 +28,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/Decoheim.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decoheim"
+              "title": "index"
             }
           },
           {
@@ -38,16 +42,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/Laaerad/Trusk/Decoheim.md",
+                "file": "docs/Laaerad/Trusk/decoheim.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Decoheim"
+              "title": "decoheim"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       },
       {
         "id": "dfb4cc4fa798e4fb",
@@ -225,30 +228,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "95947c4d1492bf44",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
-    "未命名.md",
-    "docs/Laaerad/Trusk/Decoheim.md",
-    "Laaerad Introduction eng.md",
-    "未命名 1.md",
-    "docs/Laaerad/图斯克神话.md",
-    "docs/Laaerad/Trusk/matasioksamem.md",
-    "laaerad Introduction.md",
-    "trusk_eng.md",
-    "docs/Laaerad/Laaerad.md",
+    "docs/Laaerad/Laaerad Introduction eng.md",
+    "docs/Laaerad/laaerad.md",
     "docs/Laaerad/Index.md",
     "docs/Laaerad/MAP.md",
+    "docs/Laaerad/truskzherir.md",
+    "docs/Laaerad/primitiveLanguage.md",
     "docs/Laaerad/Trusk/ashurwortruskal.md",
-    "docs/Laaerad/Trusk/trusk.md",
+    "docs/Laaerad/Trusk/matasioksamem.md",
+    "docs/Laaerad/Trusk/decoheim.md",
+    "docs/Laaerad/Trusk/Trusk.md",
+    "docs/index.md",
     "docs/Laaerad/Trusk/trusk_district.png",
     "docs/Laaerad/Trusk/trusk_eco.png",
+    "未命名.md",
+    "未命名 1.md",
+    "laaerad Introduction.md",
+    "docs/Laaerad/Trusk/trusk_eng.md",
+    "docs/Laaerad/Trusk/trusk.md",
     "docs/Laaerad/Trusk/Gulomer/gloemer.md",
     "docs/Laaerad/Trusk/Gulomer/gloemeriZherci.md",
     "docs/Laaerad/Trusk/Gulomer/gloemezher.md",
-    "docs/index.md",
     "docs/Laaerad/matasioksamem.md",
-    "docs/Laaerad/primitiveLanguage.md",
-    "docs/Laaerad/Trusk/decoheim.md",
     "docs/Laaerad/Trusk/ZherirTruskal.md",
     "docs/assets/img/trusk_render_white.png",
     "docs/assets/img/Trusk/生态图例 文字 中文.png",
@@ -271,7 +274,6 @@
     "docs/assets/js/map_viewer.html",
     "docs/assets/js/map.js",
     "docs/Laaerad/map.js",
-    "docs/拉埃拉德/原始语.md",
-    "docs/拉埃拉德/Index.md"
+    "docs/拉埃拉德/原始语.md"
   ]
 }
