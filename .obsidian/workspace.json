@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门.md",
+                "file": "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "马塔肖萨门"
+              "title": "马塔肖萨门一世"
             }
           }
         ],
@@ -214,10 +214,12 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "d0cb92572340a0b8",
   "lastOpenFiles": [
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特地区.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库.md",
@@ -241,7 +243,6 @@
     "docs/拉埃拉德/图斯克/图斯克地图.md",
     "docs/拉埃拉德/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特家族.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特海峡.md",
     "docs/assets/img/trusk_map/trusk_white_1080p.png",
     "docs/assets/img/trusk_map/truskv3eco.png",
     "docs/assets/img/trusk/eco.png",
@@ -260,7 +261,6 @@
     "docs/Laaerad/图斯克",
     "docs/Laaerad",
     "key0812.pub",
-    "key0812",
-    "docs/拉埃拉德/图斯克/拉普里奥"
+    "key0812"
   ]
 }
