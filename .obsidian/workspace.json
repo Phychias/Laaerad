@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克地图.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图斯克地图"
+              "title": "index"
             }
           },
           {
@@ -240,16 +240,21 @@
   },
   "active": "ec79cbcddbd06178",
   "lastOpenFiles": [
+    "docs/拉埃拉德/拉埃拉德.md",
     "docs/index.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
+    "docs/拉埃拉德/图斯克/图斯克地图.md",
+    "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/图斯克年表.md",
+    "docs/拉埃拉德/图斯克/图斯克国.md",
+    "docs/拉埃拉德/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特家族.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特城.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特海峡.md",
     "docs/拉埃拉德/图斯克/德卓黑一世.md",
     "docs/assets/img/trusk_map/trusk_white_1080p.png",
     "docs/assets/img/trusk_map/truskv3eco.png",
-    "docs/拉埃拉德/图斯克/图斯克语.md",
     "docs/assets/img/trusk/eco.png",
     "docs/assets/img/trusk/border_trusk.png",
     "docs/assets/img/trusk_map/生态图例 文字 中文.png",
@@ -259,12 +264,9 @@
     "docs/assets/img/trusk_map/region.png",
     "docs/assets/img/trusk_map/geo_text_ZH.png",
     "docs/assets/img/trusk_map",
-    "docs/拉埃拉德/图斯克/图斯克.md",
     "docs/assets/img/trusk",
-    "docs/拉埃拉德/图斯克/图斯克国.md",
     "古督卡-阿瑟萨山脉.md",
     "诺瓦亚海.md",
-    "docs/拉埃拉德/图斯克/图斯克地图.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特地区.md",
     "trusk.md",
     "docs/拉埃拉德/图斯克/咕洛/咕洛传说.md",
@@ -277,8 +279,6 @@
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库地区.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库家族.md",
     "docs/拉埃拉德/图斯克/铁苏库",
-    "docs/拉埃拉德/图斯克/马塔肖萨门.md",
-    "docs/拉埃拉德/图斯克/图斯克年表.md",
     "docs/Laaerad/图斯克/咕洛",
     "docs/Laaerad/图斯克/ZherirTruskal.tex",
     "docs/Laaerad/图斯克",
