@@ -51,10 +51,10 @@
             "state": {
               "type": "image",
               "state": {
-                "file": "docs/assets/img/trusk/border_trusk.png"
+                "file": "docs/assets/img/trusk/eco.png"
               },
               "icon": "lucide-image",
-              "title": "border_trusk"
+              "title": "eco"
             }
           },
           {
@@ -238,18 +238,19 @@
   },
   "active": "f74c62360d98fddb",
   "lastOpenFiles": [
-    "docs/assets/img/trusk/truskv3eco.png",
-    "docs/assets/img/trusk/trusk.png",
-    "docs/assets/img/trusk/eco.png",
-    "docs/assets/img/trusk/geo_text_ZH.png",
-    "docs/assets/img/trusk/region.png",
-    "docs/assets/img/trusk/region_text_ZH.png",
-    "docs/assets/img/trusk/Trusk v3 生态 底图.png",
-    "docs/assets/img/trusk/trusk_render.png",
-    "docs/assets/img/trusk/trusk_render_white.png",
-    "docs/assets/img/trusk/trusk_white_1080p.png",
+    "docs/assets/img/trusk/border_trusk.png",
+    "docs/assets/img/trusk_map/生态图例 文字 中文.png",
+    "docs/assets/img/trusk_map/trusk_white_1080p.png",
+    "docs/assets/img/trusk_map/trusk_render_white.png",
+    "docs/assets/img/trusk_map/trusk_render.png",
+    "docs/assets/img/trusk_map/truskv3eco.png",
+    "docs/assets/img/trusk_map/region_text_ZH.png",
+    "docs/assets/img/trusk_map/region.png",
+    "docs/assets/img/trusk_map/geo_text_ZH.png",
+    "docs/assets/img/trusk_map/eco.png",
+    "docs/assets/img/trusk_map/border_trusk.png",
+    "docs/assets/img/trusk_map",
     "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/assets/img/trusk/生态图例 文字 中文.png",
     "docs/assets/img/trusk",
     "docs/拉埃拉德/图斯克/图斯克国.md",
     "古督卡-阿瑟萨山脉.md",
@@ -282,7 +283,6 @@
     "docs/Laaerad",
     "key0812.pub",
     "key0812",
-    "docs/拉埃拉德/图斯克/拉普里奥",
-    "docs/拉埃拉德/图斯克/黑蔑特"
+    "docs/拉埃拉德/图斯克/拉普里奥"
   ]
 }
