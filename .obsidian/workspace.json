@@ -49,8 +49,185 @@
               "icon": "lucide-file",
               "title": "decoheim"
             }
+          },
+          {
+            "id": "dd2234d4c3043f06",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
+          },
+          {
+            "id": "6f91004fec3bb108",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/ZherirTruskal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ZherirTruskal"
+            }
+          },
+          {
+            "id": "a63fa38fac3e3824",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/ashurwortruskal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "ashurwortruskal"
+            }
+          },
+          {
+            "id": "2189b20e9b361102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/decoheim.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "decoheim"
+            }
+          },
+          {
+            "id": "d33a911555e5d971",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/matasioksamem.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "matasioksamem"
+            }
+          },
+          {
+            "id": "08d7b80af2d9d383",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/Laaerad/图斯克/trusk_district.png"
+              },
+              "icon": "lucide-image",
+              "title": "trusk_district"
+            }
+          },
+          {
+            "id": "09e51a63d3a9ac88",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/Laaerad/图斯克/trusk_eco.png"
+              },
+              "icon": "lucide-image",
+              "title": "trusk_eco"
+            }
+          },
+          {
+            "id": "257d9a4873e483d8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/trusk_eng.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "trusk_eng"
+            }
+          },
+          {
+            "id": "c2a0f24f42589d70",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/咕洛/Gloemer.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gloemer"
+            }
+          },
+          {
+            "id": "380b791ae715aa42",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/咕洛/GloemeriZherci.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GloemeriZherci"
+            }
+          },
+          {
+            "id": "d71e3725733de425",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/Laaerad/图斯克/咕洛/Gloemezher.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Gloemezher"
+            }
+          },
+          {
+            "id": "1dcd9118f333f6fe",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/拉埃拉德/图斯克/trusk_district.png"
+              },
+              "icon": "lucide-image",
+              "title": "trusk_district"
+            }
+          },
+          {
+            "id": "37bea689277d67c5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "未命名.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "未命名"
+            }
           }
-        ]
+        ],
+        "currentTab": 13
       },
       {
         "id": "dfb4cc4fa798e4fb",
@@ -228,52 +405,53 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "d71e3725733de425",
   "lastOpenFiles": [
-    "docs/Laaerad/laaerad eng.md",
-    "docs/Laaerad/laaerad.md",
-    "docs/Laaerad/MAP.md",
-    "docs/index.md",
-    "docs/Laaerad/Index.md",
-    "docs/Laaerad/primitiveLanguage.md",
+    "未命名.md",
+    "docs/Laaerad/图斯克/咕洛/GloemeriZherci.md",
+    "docs/Laaerad/图斯克/咕洛/Gloemer.md",
     "docs/Laaerad/图斯克/trusk_eng.md",
-    "docs/Laaerad/truskzherir.md",
-    "docs/Laaerad/图斯克/ashurwortruskal.md",
     "docs/Laaerad/图斯克/matasioksamem.md",
     "docs/Laaerad/图斯克/decoheim.md",
+    "docs/Laaerad/图斯克/ashurwortruskal.md",
+    "docs/Laaerad/图斯克/ZherirTruskal.md",
     "docs/Laaerad/图斯克/Trusk.md",
+    "docs/拉埃拉德/图斯克/trusk_district.png",
+    "trusk.md",
+    "laaerad.md",
+    "docs/拉埃拉德/拉埃拉德原始语.md",
+    "docs/拉埃拉德/拉埃拉德.md",
+    "docs/拉埃拉德/图斯克神话.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特海峡.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特地区.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特.md",
+    "docs/拉埃拉德/图斯克/黑蔑特",
+    "docs/拉埃拉德/图斯克/马塔肖萨门.md",
+    "docs/拉埃拉德/图斯克/拉普里奥/拉普里奥海峡.md",
+    "docs/拉埃拉德/图斯克/拉普里奥",
+    "docs/拉埃拉德/图斯克/德卓黑.md",
+    "docs/拉埃拉德/图斯克/图斯克语.md",
+    "docs/拉埃拉德/图斯克/图斯克年表.md",
+    "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛语.md",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛族.md",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛传说.md",
+    "docs/拉埃拉德/图斯克/咕洛",
+    "docs/拉埃拉德/图斯克/trusk_eco.png",
+    "docs/拉埃拉德/图斯克/ZherirTruskal.tex",
+    "docs/拉埃拉德/图斯克",
+    "docs/拉埃拉德",
     "docs/Laaerad/图斯克/trusk_district.png",
     "docs/Laaerad/图斯克/trusk_eco.png",
-    "未命名.md",
-    "未命名 1.md",
-    "laaerad Introduction.md",
-    "docs/Laaerad/Trusk/trusk.md",
-    "docs/Laaerad/Trusk/Gulomer/gloemer.md",
-    "docs/Laaerad/Trusk/Gulomer/gloemeriZherci.md",
-    "docs/Laaerad/Trusk/Gulomer/gloemezher.md",
-    "docs/Laaerad/matasioksamem.md",
-    "docs/Laaerad/图斯克/ZherirTruskal.md",
     "docs/assets/img/trusk_render_white.png",
     "docs/assets/img/Trusk/生态图例 文字 中文.png",
     "docs/assets/img/trusk_white_1080p.png",
     "docs/assets/img/Trusk/Trusk v3 生态 底图.png",
     "docs/assets/img/border_trusk.png",
     "docs/assets/img/eco.png",
-    "docs/assets/img/geo_text_ZH.png",
-    "docs/assets/img/region_text_ZH.png",
-    "图斯克.md",
     "docs/Laaerad/Trusk/ZherirTruskal.synctex(busy)",
     "docs/Laaerad/Trusk/ZherirTruskal.log",
     "docs/Laaerad/Trusk/ZherirTruskal.fls",
-    "docs/Laaerad/Trusk/pdflatex49072.fls",
-    "docs/Laaerad/Trusk/ZherirTruskal.fdb_latexmk",
-    "docs/Laaerad/Trusk/ZherirTruskal.aux",
-    "docs/Laaerad/图斯克/ZherirTruskal.tex",
-    "长岛人.md",
-    "docs/Laaerad.md",
-    "docs/assets/js/map_viewer.html",
-    "docs/assets/js/map.js",
-    "docs/Laaerad/map.js",
-    "docs/拉埃拉德/原始语.md"
+    "docs/Laaerad/Trusk/pdflatex49072.fls"
   ]
 }
