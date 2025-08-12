@@ -35,12 +35,14 @@
             "id": "6b3e91aacaaea2ee",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "docs/assets/img/trusk_map/trusk_white_1080p.png"
+                "file": "docs/拉埃拉德/图斯克/德卓黑一世.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "trusk_white_1080p"
+              "icon": "lucide-file",
+              "title": "德卓黑一世"
             }
           },
           {
@@ -222,14 +224,14 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "6b3e91aacaaea2ee",
   "lastOpenFiles": [
+    "docs/assets/img/trusk_map/trusk_white_1080p.png",
     "docs/assets/img/trusk_map/truskv3eco.png",
     "docs/拉埃拉德/图斯克/图斯克语.md",
     "docs/assets/img/trusk/eco.png",
     "docs/assets/img/trusk/border_trusk.png",
     "docs/assets/img/trusk_map/生态图例 文字 中文.png",
-    "docs/assets/img/trusk_map/trusk_white_1080p.png",
     "docs/assets/img/trusk_map/trusk_render_white.png",
     "docs/assets/img/trusk_map/trusk_render.png",
     "docs/assets/img/trusk_map/region_text_ZH.png",
