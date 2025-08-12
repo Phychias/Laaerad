@@ -238,8 +238,10 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "f74c62360d98fddb",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
+    "key0812.pub",
+    "key0812",
     "docs/拉埃拉德/图斯克/铁苏库.md",
     "docs/拉埃拉德/图斯克/马塔肖萨门.md",
     "docs/拉埃拉德/图斯克/德卓黑一世.md",
@@ -269,7 +271,6 @@
     "docs/Laaerad/图斯克神话.md",
     "docs/Laaerad/PrimitiveLanguage.md",
     "docs/拉埃拉德/图斯克/trusk_district.png",
-    "docs/Laaerad/Laaerad.md",
     "docs/assets/img/Trusk/Trusk v3 生态 底图.png",
     "docs/assets/img/trusk_render.png",
     "docs/assets/img/trusk_render_white.png",
@@ -284,7 +285,6 @@
     "docs/Laaerad/Trusk/pdflatex49072.fls",
     "docs/Laaerad/Trusk/ZherirTruskal.fdb_latexmk",
     "docs/Laaerad/Trusk/ZherirTruskal.aux",
-    "docs/拉埃拉德/图斯克/ZherirTruskal.tex",
-    "docs/assets/js/map_viewer.html"
+    "docs/拉埃拉德/图斯克/ZherirTruskal.tex"
   ]
 }
