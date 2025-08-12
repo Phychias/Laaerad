@@ -49,14 +49,12 @@
             "id": "f74c62360d98fddb",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/assets/img/trusk/border_trusk.png"
               },
-              "icon": "lucide-file",
-              "title": "图斯克"
+              "icon": "lucide-image",
+              "title": "border_trusk"
             }
           },
           {
@@ -238,22 +236,22 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "f74c62360d98fddb",
   "lastOpenFiles": [
-    "docs/assets/img/trusk/生态图例 文字 中文.png",
-    "docs/assets/img/trusk/trusk_white_1080p.png",
-    "docs/assets/img/trusk/trusk_render_white.png",
-    "docs/assets/img/trusk/trusk_render.png",
-    "docs/assets/img/trusk/Trusk v3 生态 底图.png",
-    "docs/assets/img/trusk/region_text_ZH.png",
-    "docs/assets/img/trusk/region.png",
-    "docs/assets/img/trusk/geo_text_ZH.png",
+    "docs/assets/img/trusk/truskv3eco.png",
+    "docs/assets/img/trusk/trusk.png",
     "docs/assets/img/trusk/eco.png",
-    "docs/assets/img/trusk/border_trusk.png",
-    "docs/assets/img/trusk",
-    "docs/assets/img/Trusk/trusk_white_1080p.png",
-    "docs/拉埃拉德/图斯克/图斯克国.md",
+    "docs/assets/img/trusk/geo_text_ZH.png",
+    "docs/assets/img/trusk/region.png",
+    "docs/assets/img/trusk/region_text_ZH.png",
+    "docs/assets/img/trusk/Trusk v3 生态 底图.png",
+    "docs/assets/img/trusk/trusk_render.png",
+    "docs/assets/img/trusk/trusk_render_white.png",
+    "docs/assets/img/trusk/trusk_white_1080p.png",
     "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/assets/img/trusk/生态图例 文字 中文.png",
+    "docs/assets/img/trusk",
+    "docs/拉埃拉德/图斯克/图斯克国.md",
     "古督卡-阿瑟萨山脉.md",
     "诺瓦亚海.md",
     "docs/拉埃拉德/图斯克/图斯克地图.md",

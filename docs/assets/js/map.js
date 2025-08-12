@@ -14,7 +14,7 @@ document.addEventListener("DOMContentLoaded", function () {
   // var regionLayer = L.imageOverlay('img/Trusk/图斯克疆域图v2.png', bounds);
   var baseLayer = L.imageOverlay('../../assets/img/trusk/trusk_render.png', bounds);
   var baseLayer_white = L.imageOverlay('../../assets/img/trusk/trusk_render_white.png', bounds);
-
+  
   //行政区图
   var regionBounds = [[2200, 1900], [200, 3400]];
   var regionLayer = L.imageOverlay('../../assets/img/trusk/region.png', regionBounds);
