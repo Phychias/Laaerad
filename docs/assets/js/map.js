@@ -17,9 +17,9 @@ document.addEventListener("DOMContentLoaded", function () {
   
   //行政区图
   var regionBounds = [[2200, 1900], [200, 3400]];
-  var regionLayer = L.imageOverlay('./assets/img/trusk_map/region.png', regionBounds);
+  var regionLayer = L.imageOverlay('assets/img/trusk_map/region.png', regionBounds);
   var regiontextBounds = [[2100, 1900], [300, 3300]];
-  var regiontextLayer = L.imageOverlay('./assets/img/trusk_map/region_text_ZH.png', regiontextBounds);
+  var regiontextLayer = L.imageOverlay('assets/img/trusk_map/region_text_ZH.png', regiontextBounds);
 
   //生态图
   var ecoBounds = [[2700, 0], [0, 4800]];
