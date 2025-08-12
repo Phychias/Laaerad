@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克国.md",
+                "file": "docs/拉埃拉德/图斯克/拉普里奥/拉普里奥.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图斯克国"
+              "title": "拉普里奥"
             }
           },
           {
@@ -41,16 +41,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
+                "file": "docs/拉埃拉德/图斯克/图斯克年表.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "马塔肖萨门一世"
+              "title": "图斯克年表"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -214,35 +214,35 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "d0cb92572340a0b8",
+  "active": "3df26b27efd55d4c",
   "lastOpenFiles": [
-    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门.md",
+    "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/拉普里奥/拉普里奥.md",
+    "docs/拉埃拉德/图斯克/齐米亚克.md",
+    "docs/拉埃拉德/图斯克/图斯克国.md",
+    "docs/拉埃拉德/图斯克/图斯克年表.md",
+    "docs/拉埃拉德/图斯克/图斯克神话.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特地区.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特海峡.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特方言.md",
+    "docs/拉埃拉德/图斯克/图斯克语.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特.md",
+    "docs/拉埃拉德/图斯克/铁苏库/铁苏库地区.md",
     "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门.md",
     "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特地区.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库.md",
     "docs/拉埃拉德/图斯克/咕洛/咕洛语.md",
     "docs/拉埃拉德/图斯克/诺瓦亚海.md",
     "docs/拉埃拉德/图斯克/奎列奥.md",
-    "docs/拉埃拉德/图斯克/图斯克国.md",
     "docs/拉埃拉德/图斯克/拉普里奥/拉普里奥海峡.md",
     "docs/拉埃拉德/图斯克/安纽科萨.md",
-    "docs/拉埃拉德/图斯克/奇米亚克.md",
-    "docs/拉埃拉德/图斯克/图斯克年表.md",
     "cimyak.md",
-    "docs/拉埃拉德/图斯克/铁苏库/铁苏库地区.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库王朝.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库家族.md",
-    "docs/拉埃拉德/图斯克/图斯克.md",
     "docs/拉埃拉德/图斯克/古督卡-阿瑟萨山脉.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特城.md",
-    "docs/index.md",
-    "docs/拉埃拉德/拉埃拉德.md",
-    "docs/拉埃拉德/图斯克/图斯克地图.md",
-    "docs/拉埃拉德/图斯克/图斯克语.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特家族.md",
     "docs/assets/img/trusk_map/trusk_white_1080p.png",
     "docs/assets/img/trusk_map/truskv3eco.png",
     "docs/assets/img/trusk/eco.png",
