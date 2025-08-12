@@ -51,12 +51,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克国.md",
+                "file": "docs/拉埃拉德/图斯克/图斯克.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图斯克国"
+              "title": "图斯克"
             }
           },
           {
@@ -238,10 +238,22 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "f74c62360d98fddb",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
-    "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/assets/img/trusk/生态图例 文字 中文.png",
+    "docs/assets/img/trusk/trusk_white_1080p.png",
+    "docs/assets/img/trusk/trusk_render_white.png",
+    "docs/assets/img/trusk/trusk_render.png",
+    "docs/assets/img/trusk/Trusk v3 生态 底图.png",
+    "docs/assets/img/trusk/region_text_ZH.png",
+    "docs/assets/img/trusk/region.png",
+    "docs/assets/img/trusk/geo_text_ZH.png",
+    "docs/assets/img/trusk/eco.png",
+    "docs/assets/img/trusk/border_trusk.png",
+    "docs/assets/img/trusk",
+    "docs/assets/img/Trusk/trusk_white_1080p.png",
     "docs/拉埃拉德/图斯克/图斯克国.md",
+    "docs/拉埃拉德/图斯克/图斯克.md",
     "古督卡-阿瑟萨山脉.md",
     "诺瓦亚海.md",
     "docs/拉埃拉德/图斯克/图斯克地图.md",
@@ -267,24 +279,12 @@
     "未命名 1.md",
     "docs/Laaerad/图斯克/咕洛",
     "docs/Laaerad/图斯克/trusk_eng.md",
-    "docs/Laaerad/图斯克/trusk_eco.png",
-    "docs/Laaerad/图斯克/trusk_district.png",
     "docs/Laaerad/图斯克/ZherirTruskal.tex",
-    "docs/Laaerad/图斯克/ZherirTruskal.md",
     "docs/Laaerad/图斯克",
     "docs/Laaerad",
     "key0812.pub",
     "key0812",
-    "docs/拉埃拉德/图斯克/trusk_eco.png",
     "docs/拉埃拉德/图斯克/拉普里奥",
-    "docs/拉埃拉德/图斯克/黑蔑特",
-    "docs/拉埃拉德/图斯克/trusk_district.png",
-    "docs/assets/img/Trusk/Trusk v3 生态 底图.png",
-    "docs/assets/img/trusk_render.png",
-    "docs/assets/img/trusk_render_white.png",
-    "docs/assets/img/Trusk/生态图例 文字 中文.png",
-    "docs/assets/img/trusk_white_1080p.png",
-    "docs/assets/img/border_trusk.png",
-    "docs/Laaerad/Trusk/ZherirTruskal.synctex(busy)"
+    "docs/拉埃拉德/图斯克/黑蔑特"
   ]
 }
