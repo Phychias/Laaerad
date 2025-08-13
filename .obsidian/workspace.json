@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/拉埃拉德原始语.md",
+                "file": "docs/拉埃拉德/图斯克/铁苏库/德卓黑一世.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拉埃拉德原始语"
+              "title": "德卓黑一世"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/拉埃拉德/拉埃拉德原始语.md",
+                "file": "docs/拉埃拉德/图斯克/铁苏库/德卓黑一世.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉埃拉德原始语 的大纲"
+              "title": "德卓黑一世 的大纲"
             }
           },
           {
@@ -217,6 +217,7 @@
   },
   "active": "a06965787e9b3afc",
   "lastOpenFiles": [
+    "docs/拉埃拉德/拉埃拉德原始语.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
     "docs/拉埃拉德/图斯克/铁苏库.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克年表.md",
@@ -242,7 +243,6 @@
     "copilot-custom-prompts/Simplify.md",
     "copilot-custom-prompts/Summarize.md",
     "copilot-custom-prompts/Translate to Chinese.md",
-    "copilot-custom-prompts/Fix grammar and spelling.md",
     "copilot-custom-prompts",
     "docs/拉埃拉德/图斯克/奎列奥",
     "模板",
