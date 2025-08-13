@@ -27,12 +27,24 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特城.md",
+                "file": "docs/拉埃拉德/图斯克/咕洛/咕洛国.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "黑蔑特城"
+              "title": "咕洛国"
+            }
+          },
+          {
+            "id": "d8546042f36eac02",
+            "type": "leaf",
+            "state": {
+              "type": "image",
+              "state": {
+                "file": "docs/拉埃拉德/图斯克/trusk_district.png"
+              },
+              "icon": "lucide-image",
+              "title": "trusk_district"
             }
           },
           {
@@ -50,7 +62,7 @@
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -169,13 +181,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "trusk_eng.md",
+                "file": "docs/拉埃拉德/图斯克/trusk_district.png",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "trusk_eng 的大纲"
+              "title": "trusk_district 的大纲"
             }
           },
           {
@@ -191,14 +203,23 @@
               "icon": "lucide-archive",
               "title": "添加笔记属性"
             }
+          },
+          {
+            "id": "ced54ff7f62681bc",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 475.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,38 +232,39 @@
       "github-sync:Sync with Remote": false,
       "templater-obsidian:Templater": false,
       "remotely-save:Remotely Save": false,
-      "obsidian-leaflet-plugin:打开 Leaflet 地图": false
+      "copilot:Open Copilot Chat": false
     }
   },
-  "active": "3df26b27efd55d4c",
+  "active": "d8546042f36eac02",
   "lastOpenFiles": [
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特地区.md",
-    "docs/拉埃拉德/图斯克/图斯克国.md",
-    "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/拉埃拉德/图斯克/俺东.md",
+    "docs/拉埃拉德/图斯克/trusk_eco.png",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛国.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特家族.md",
     "docs/拉埃拉德/图斯克/图斯克语.md",
-    "docs/拉埃拉德/图斯克/拉普里奥/拉普里奥.md",
-    "docs/拉埃拉德/图斯克/齐米亚克.md",
-    "docs/拉埃拉德/图斯克/图斯克年表.md",
-    "docs/拉埃拉德/图斯克/图斯克神话.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特海峡.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特方言.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特.md",
-    "docs/拉埃拉德/图斯克/铁苏库/铁苏库地区.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门",
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库.md",
-    "docs/拉埃拉德/图斯克/咕洛/咕洛语.md",
-    "docs/拉埃拉德/图斯克/诺瓦亚海.md",
-    "docs/拉埃拉德/图斯克/奎列奥.md",
-    "docs/拉埃拉德/图斯克/拉普里奥/拉普里奥海峡.md",
-    "docs/拉埃拉德/图斯克/安纽科萨.md",
-    "cimyak.md",
-    "docs/拉埃拉德/图斯克/铁苏库/铁苏库王朝.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库家族.md",
-    "docs/拉埃拉德/图斯克/古督卡-阿瑟萨山脉.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特城.md",
+    "docs/拉埃拉德/拉埃拉德原始语.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门大道.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门二世.md",
+    "docs/拉埃拉德/图斯克/咕洛/米斯特那提拉.md",
+    "docs/拉埃拉德/图斯克/图斯克神话.md",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛传说.md",
+    "docs/拉埃拉德/图斯克/咕洛/咕洛.md",
+    "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/图斯克国.md",
+    "docs/拉埃拉德/拉埃拉德.md",
+    "copilot-custom-prompts/Rewrite as tweet thread.md",
+    "copilot-custom-prompts/Rewrite as tweet.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "copilot-custom-prompts/Generate glossary.md",
+    "copilot-custom-prompts/Generate table of contents.md",
+    "copilot-custom-prompts/Make longer.md",
+    "copilot-custom-prompts/Make shorter.md",
+    "copilot-custom-prompts/Emojify.md",
+    "copilot-custom-prompts",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门",
     "docs/assets/img/trusk_map/trusk_white_1080p.png",
     "docs/assets/img/trusk_map/truskv3eco.png",
     "docs/assets/img/trusk/eco.png",
@@ -260,7 +282,6 @@
     "docs/Laaerad/图斯克/ZherirTruskal.tex",
     "docs/Laaerad/图斯克",
     "docs/Laaerad",
-    "key0812.pub",
-    "key0812"
+    "key0812.pub"
   ]
 }
