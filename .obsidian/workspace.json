@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/index.md",
+                "file": "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门大道.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "马塔肖萨门大道"
             }
           }
         ]
@@ -33,12 +33,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/铁苏库.md",
+                "file": "原始语名字.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "铁苏库"
+              "title": "原始语名字"
             }
           }
         ]
@@ -217,18 +217,25 @@
   },
   "active": "a06965787e9b3afc",
   "lastOpenFiles": [
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特家族.md",
+    "模板/插入sec：属性.md",
+    "原始语名字.md",
+    "图斯克语名字.md",
+    "docs/拉埃拉德/图斯克/铁苏库.md",
+    "模板/未命名",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克王国.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
+    "docs/index.md",
     "docs/拉埃拉德/图斯克/拉埃拉德.md",
     "docs/拉埃拉德/图斯克/铁苏库/德卓黑一世.md",
     "docs/拉埃拉德/拉埃拉德原始语.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
-    "docs/拉埃拉德/图斯克/铁苏库.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克年表.md",
     "模板/地区.md",
     "docs/拉埃拉德/图斯克/黑蔑特.md",
     "docs/拉埃拉德/图斯克/齐米亚克.md",
     "docs/拉埃拉德/图斯克/诺瓦亚海.md",
-    "docs/index.md",
-    "docs/拉埃拉德/图斯克/图斯克/图斯克王国.md",
     "docs/拉埃拉德/图斯克/咕洛.md",
     "docs/拉埃拉德/图斯克/奎列奥.md",
     "copilot-custom-prompts/Rewrite as tweet thread.md",
@@ -237,12 +244,6 @@
     "copilot-custom-prompts/Generate glossary.md",
     "copilot-custom-prompts/Generate table of contents.md",
     "copilot-custom-prompts/Make longer.md",
-    "copilot-custom-prompts/Make shorter.md",
-    "copilot-custom-prompts/Emojify.md",
-    "copilot-custom-prompts/Explain like I am 5.md",
-    "copilot-custom-prompts/Simplify.md",
-    "copilot-custom-prompts/Summarize.md",
-    "copilot-custom-prompts/Translate to Chinese.md",
     "copilot-custom-prompts",
     "docs/拉埃拉德/图斯克/奎列奥",
     "模板",
@@ -261,7 +262,6 @@
     "docs/assets/img/trusk_map",
     "docs/assets/img/trusk",
     "docs/拉埃拉德/图斯克/铁苏库",
-    "docs/Laaerad/图斯克/咕洛",
-    "docs/Laaerad/图斯克/ZherirTruskal.tex"
+    "docs/Laaerad/图斯克/咕洛"
   ]
 }
