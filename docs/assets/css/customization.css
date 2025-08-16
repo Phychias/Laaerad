@@ -59,7 +59,7 @@ height: 600px;        /* 可根据需要调整高度 */
 
 /* Leaflet 控件层级（缩放按钮、图层切换等） */
 .leaflet-control {
-z-index: 500;         /* 高于地图但低于 MKDocs UI */
+z-index: 100;         /* 高于地图但低于 MKDocs UI */
 }
 
 /* 弹窗层级 */
