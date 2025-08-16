@@ -47,3 +47,23 @@ DONT FORGET TO EDIT THE URL
 .admonition.wiki table {
     border: 0;
 }
+
+
+  /* 地图容器 */
+#map {
+position: relative;   /* 必须有 position 才能使用 z-index */
+z-index: 0;           /* 最低层，保证不会覆盖 MKDocs UI */
+width: 100%;          /* 根据页面宽度自适应 */
+height: 600px;        /* 可根据需要调整高度 */
+}
+
+/* Leaflet 控件层级（缩放按钮、图层切换等） */
+.leaflet-control {
+z-index: 500;         /* 高于地图但低于 MKDocs UI */
+}
+
+/* 弹窗层级 */
+.leaflet-popup {
+z-index: 1000;        /* 保证弹窗在控件上方，可点击、可见 */
+}
+

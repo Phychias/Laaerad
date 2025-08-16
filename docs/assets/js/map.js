@@ -3,7 +3,7 @@ document.addEventListener("DOMContentLoaded", function () {
   var trusk_map = L.map('map', {
     crs: L.CRS.Simple,
     minZoom: -2,
-    maxZoom: 2
+    maxZoom: 5
   });
 
   var w = 4800, h = 2700;
