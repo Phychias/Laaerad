@@ -1,0 +1,1171 @@
+% This template was tested with Pandoc 3.4 and pandoc-crossref v0.3.18.0. It should be backwards compatible with older version of pandoc..
+\documentclass{article}
+
+
+% if you need to pass options to natbib, use, e.g.:
+%     \PassOptionsToPackage{numbers, compress}{natbib}
+% before loading neurips_2023
+
+
+% ready for submission
+\usepackage[final,nonatbib]{neurips}
+
+
+% to compile a preprint version, e.g., for submission to arXiv, add add the
+% [preprint] option:
+%     \usepackage[preprint]{neurips_2023}
+
+
+% to compile a camera-ready version, add the [final] option, e.g.:
+%     \usepackage[final]{neurips_2023}
+
+
+% to avoid loading the natbib package, add option nonatbib:
+%    \usepackage[nonatbib]{neurips_2023}
+
+
+\usepackage[utf8]{inputenc} % allow utf-8 input
+\usepackage[T1]{fontenc}    % use 8-bit T1 fonts
+\usepackage{hyperref}       % hyperlinks
+\usepackage{url}            % simple URL typesetting
+\usepackage{booktabs}       % professional-quality tables
+\usepackage{amsfonts}       % blackboard math symbols
+\usepackage{nicefrac}       % compact symbols for 1/2, etc.
+\usepackage{microtype}      % microtypography
+\usepackage{xcolor}         % colors
+\usepackage{graphicx}
+\usepackage{longtable} % Add support for Pandoc's longtable if needed
+\usepackage{array}     % For table alignment improvements
+\usepackage{amsmath}
+\usepackage{textcomp}
+\setlength{\LTcapwidth}{\textwidth} % To make captions fit within page width
+
+\makeatletter
+\newsavebox\pandoc@box
+\newcommand*\pandocbounded[1]{% scales image to fit in text height/width
+  \sbox\pandoc@box{#1}%
+  \Gscale@div\@tempa{\textheight}{\dimexpr\ht\pandoc@box+\dp\pandoc@box\relax}%
+  \Gscale@div\@tempb{\linewidth}{\wd\pandoc@box}%
+  \ifdim\@tempb\p@<\@tempa\p@\let\@tempa\@tempb\fi% select the smaller of both
+  \ifdim\@tempa\p@<\p@\scalebox{\@tempa}{\usebox\pandoc@box}%
+  \else\usebox{\pandoc@box}%
+  \fi%
+}
+\makeatother
+\makeatletter
+\def\maxwidth{\ifdim\Gin@nat@width>\linewidth\linewidth\else\Gin@nat@width\fi}
+\def\maxheight{\ifdim\Gin@nat@height>\textheight\textheight\else\Gin@nat@height\fi}
+\makeatother
+% Scale images if necessary, so that they will not overflow the page
+% margins by default, and it is still possible to overwrite the defaults
+% using explicit options in \includegraphics[width, height, ...]{}
+\setkeys{Gin}{width=\maxwidth,height=\maxheight,keepaspectratio}
+% Set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\title{}
+
+
+% Iterate through the authors except last to add \And. 
+
+\author{%
+}
+
+% \author{%
+%   David S.~Hippocampus \\
+%   Department of Computer Science\\
+%   Cranberry-Lemon University\\
+%   Pittsburgh, PA 15213 \\
+%   \texttt{hippo@cs.cranberry-lemon.edu} \\
+%   % examples of more authors
+%   % \And
+%   % Coauthor \\
+%   % Affiliation \\
+%   % Address \\
+%   % \texttt{email} \\
+%   % \AND
+%   % Coauthor \\
+%   % Affiliation \\
+%   % Address \\
+%   % \texttt{email} \\
+%   % \And
+%   % Coauthor \\
+%   % Affiliation \\
+%   % Address \\
+%   % \texttt{email} \\
+%   % \And
+%   % Coauthor \\
+%   % Affiliation \\
+%   % Address \\
+%   % \texttt{email} \\
+% }
+
+
+\begin{document}
+
+
+\maketitle
+
+
+\begin{abstract}
+    Add your abstract at the beginning of your markdown file like this 
+  \begin{verbatim}
+  --- 
+  title: "Your Title" 
+  abstract: "your abstract here"
+  authors:
+  - name: Leonardo V. Castorina
+    affiliation: School of Informatics
+    institution: University of Edinburgh
+    email: justanemail@domain.ext
+    address: Edinburgh
+  - name: Coauthor
+    affiliation: Affiliation
+    institution: Institution
+    email: coauthor@example.com
+    address: Address
+  ---
+  \end{verbatim}
+  This is called YAML frontmatter. If you set your abstract correctly you should not see this message.
+  \end{abstract}
+
+
+\section{图斯克语}\label{ux56feux65afux514bux8bed}
+
+\subsection{前言}\label{ux524dux8a00}
+
+本书是对图斯克语的详细描述，主要参考了黑蔑特地区的海峡图斯克语，也即图斯克元一百七十五年前后，铁苏库·莱斯卫laiswi在位的第二年，帝国所采用的官方语言。这本书的成书要感谢铁苏库王朝的第一位皇帝，也即铁苏库·德卓黑三世，他在灵语的启示下，他发掘了一些古老的遗迹，位于米斯特那提拉境内的古咕洛语石碑、拉普里奥山区的密比恩方尖碑、古图斯克的许多雕像都是在那时发现的；他随后设立了皇家学会来对帝国的一切进行研究，在帝国省部中划出一个机构专门为学会的研究提供资金和人力资源支持。他的执政持续了十五年，在这期间，学会对前文所提及的各种遗迹进行了进一步的研究，试图破译其上的碑文，这一部分构成了今天图斯克人对古图斯克语、乃至原始拉埃拉德语的部分认识。德卓黑三世死亡后，学会的经费被削减，对古迹的研究放缓，在人手欠缺的情况下，学会对已有的资料进行了整理，并且根据对各种语言的比较，开始研究图斯克各地区的语言，这也是本书成书的基础之一。今上莱斯卫登基之后，决定修一些记录图斯克各地情况的书籍，恰逢大皎忽匝依在试图拓宽对灵语的研究，于是便委托协会撰写这本关于图斯克语的书籍，来佐助两者的研究。
+
+根据学会之前的研究以及整理。包括黑蔑特、铁苏库（古图斯克地区）、图尔哈、俺东、以及大拉普里奥的广袤图斯克语地区，共同构成一个方言连续体。从大的分布上来说，可以分成海峡方言（沿海方言）和山地方言，而山地方言又分成东部和西部。沿着诺瓦亚海的一圈是沿海方言，这一方言包括了黑蔑特方言在内，这一方言在用词上呈现出惊人的高度统一，但是在发音音段上有一些区别。西部的山地方言包括了北起俺东地，南至齐米亚克的广袤山地地区，形成一个相对连贯的连续体。东部的山地方言又分做南北两大块，靠近咕洛族的北部山区受到很多咕洛语的影响，在发音音段上和用词上都相对特别，而南部方言则是和当地一些山地居民的土著语言进行了融合，有许多独特的用词和语法现象。
+
+本书中如果仅提到图斯克语，一般指代的即是帝国目前所通行的官方语言海峡图斯克语，也即黑蔑特方言。读者应当认识到的是，根据学会之前的记载，图斯克帝国中非图斯克族群主导的地区，大多实行双语制：拉普里奥地区的原始语言作为弱势语言在帝国长期推行图斯克语的政策下已经逐渐式微，当代的拉普里奥语更类似一种图斯克语的方言；咕洛族地区，人们实行较为严格的双语制，一方面是因为本地守旧派抗拒图斯克化，另一方面是咕洛各部族之间的联系本就不像图斯克的各城之间那样紧密，本身就存在相对孤立的方言演化。简而言之，如果你会说黑蔑特的海峡图斯克语，在帝国境内较为富庶的，人口相对密集的地区还是能畅行无阻的，尽管你可能在拉普里奥地区以及东南的山区碰到一些麻烦，但是在咕洛地区的城镇地带以及西北的俺东、八股纳洛等地你都能找到熟练使用官方语言的向导或旅店。
+
+\begin{quote}
+译者注：本书经过译制，许多地方的视角可能会比较奇怪，所以在接下来的段落中未必完全按照作者原意翻译，会结合一些以现代汉语为视角的注解，例如词间对照翻译和中译就是使读者能够快速上手图斯克语的一个常见段落。
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{音系}\label{ux97f3ux7cfb}
+
+\subsubsection{音段总藏}\label{ux97f3ux6bb5ux603bux85cf}
+
+图斯克语的音系颇为简单：
+
+标准图斯克语基础的元音只有五个音段，其中两个 a、o
+存在鼻化变体，但在部分方言中 i, e
+可能也存在在鼻辅音附近的鼻化现象；存在大量双元音，尽管存在绝对音位上的差距，但是仍可以视作两个元音音位之间的移动。
+
+标准图斯克语的辅音音段共有 24 个，如下表所注。总体而言较为对称,
+存在较为规律的送气不送气对立，但缺乏浊塞音；龈颚音的一列实际上是齿龈音在前元音
+i 前的懒化，在正字法中不表达。
+
+\paragraph{元音}\label{ux5143ux97f3}
+
+下表是图斯克语的元音拉丁正字及其 IPA 对照
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+元音 & 发音（IPA） \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+a & /ä/ \\
+o & /ɔ/ \\
+e & /ɛ/ \\
+i & /i/ \\
+u & /u/ \\
+aa & /ã/ \\
+oo & /ɔ̃/ \\
+ai & /ai/ \\
+oi & /ɔi/ \\
+au & /aʊ/ \\
+ia & /ia/ \\
+iu & /iu/ \\
+ui & /ui/ \\
+ua & /ua/ \\
+ue & /uɛ/ \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{辅音}\label{ux8f85ux97f3}
+
+\begin{longtable}[]{@{}lll@{}}
+\toprule\noalign{}
+序号 & 拉丁正字 & IPA \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+1 & m & m \\
+2 & n & n \\
+3 & ng & ŋ \\
+4 & b & p \\
+5 & d & t \\
+6 & g & k \\
+7 & p & pʰ \\
+8 & t & tʰ \\
+9 & k & kʰ \\
+10 & h & h \\
+11 & s & s,ɕ \\
+12 & z & z,ʑ \\
+13 & j & ts,tɕ \\
+14 & c & tsʰ,tɕʰ \\
+15 & l & l\textasciitilde ɾ \\
+16 & r & r \\
+17 & w & w \\
+18 & y & j \\
+\end{longtable}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1143}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.0857}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1714}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.2000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.2000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1429}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.0857}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+发音部位
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+送气
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+唇音
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+齿龈音
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+龈颚音
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+软腭音
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+声门音
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+鼻音 & & m & n & & ŋ(ng) & \\
+塞音 & 不送气 & p (b) & t (d) & & k (g) & \\
+& 送气 & pʰ (p) & tʰ(t) & & kʰ(k) & \\
+擦音 & & & s & ɕ (s) & & h \\
+& 浊 & & z & ʑ (z) & & \\
+塞擦音 & 不送气 & & ts (j) & tɕ (j) & & \\
+& 送气 & & tsʰ (c) & tɕʰ (c) & & \\
+& 浊 & & dz & dʑ (dz) & & \\
+流音 & & & l\textasciitilde ɾ(l) & & & \\
+颤音 & & & r (r) & & & \\
+边音 & & w & & & j (y) & \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{语音配列}\label{ux8bedux97f3ux914dux5217}
+
+在词语派生，变形的过程中，可能会发生各种音位的连缀，这里对图斯克语中常见的情况进行简单的叙述。
+
+\paragraph{元音连缀}\label{ux5143ux97f3ux8fdeux7f00}
+
+图斯克语的元音连缀规则很简单：
+两个短元音连缀时，若存在对应双元音，则读作对应的双元音；若不存在对应双元音，则取前一个元音，第二个元音的时值通常会空置。
+若双元音和短元音连缀，优先取对应的三元音；若不存在对应的三元音，那么短元音在前时，取双元音第一个元音，按照短元音连缀的规则进行缩合；若双元音在前，则单元音脱落。
+如果是派生、变形所致，那么在正字法中，会写作缩合后的形式；如果是词间连缀，发音上遵从规则，但不影响拼写。
+
+\paragraph{辅音连缀}\label{ux8f85ux97f3ux8fdeux7f00}
+
+图斯克语的辅音连缀，总体上而言遵从向前合并的原则，即同位置或同发音方式的辅音连缀时，倾向于向前合并。当然也存在各种情况的特例，并且也根据具体方言的不同而有所不同。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{重音}\label{ux91cdux97f3}
+
+重音通常在词干的第一音节上，若前缀为弱化类或单音节前缀，通常，重音仍在核心词根的第一音节。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{历时音变}\label{ux5386ux65f6ux97f3ux53d8}
+
+本节描述的是从拉埃拉德原始语到海峡图斯克语所发生的可总结的系统性历时音变，在实际的图斯克语和拉埃拉德原始语的比较中也发现存在各种个例，仅供研究者和读者参考。
+
+\paragraph{元音}\label{ux5143ux97f3-1}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.0667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.7000}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2333}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+规则编号
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+规则形式
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+条件/环境
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+V 1 & V → Ṽ / \{m, n, ŋ\} & 元音邻近鼻辅音 \\
+V 2 & Vː → VV → 短元音合并裂化 & 长元音裂化为双元音 \\
+V 3 & V → {[}+前{]} / \{t, d\} V → {[}+后{]} / \{k, g\} &
+前/后辅音环境 \\
+V 4 & VV → Ṽ / {[}+鼻音{]} VV → V / elsewhere &
+双元音邻近鼻音鼻化，否则保留 \\
+V 5 & 双元音后元音脱落 → 单元音 & 腭化辅音间环境 \\
+\end{longtable}
+
+\paragraph{辅音}\label{ux8f85ux97f3-1}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.0625}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.7031}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.2344}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+规则编号
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+规则形式
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+条件/环境
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+C 1 & d → dz / σ{[}-重音{]} & 非重读音节首 \\
+C 2 & ts → tɕʰ / \{i\} ts → tsʰ / \{ɔ, u\} & \\
+C 3 & 送气辅音保留对立 & 所有环境 \\
+C 4 & 浊塞音去送气化 & 与清送气对立 \\
+C 5 & ts → dz / VV & 元音间位置 \\
+C 6 & 词尾鼻音脱落，元音鼻化 & 音节尾鼻音 V 1 → C 6 \\
+C 7 & d → dʑ / \{i, e\} d → \{d, dz\} / elsewhere & 前元音触发颚化 \\
+C 8 & z → ʑ / {[}-重音{]} ∪ \# & 非重读音节或词尾 \\
+C 9 & 词尾塞音脱落 & 所有塞音在词尾 \\
+C 10 & 词尾擦音/流音弱化 & s, z, l, ɾ在词尾 \\
+C 11 & 声门擦音 h 脱落 & 词首 \\
+C 12 & 部分颤音 r 脱落 & 元音间 \\
+C 13 & ʂ → \{ʑ\} / \{i\}ʂ → \{s, z\} / elsewhere & \\
+\end{longtable}
+
+\paragraph{其他}\label{ux5176ux4ed6}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.1081}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.5676}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 4\tabcolsep) * \real{0.3243}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+规则编号
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+规则形式
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+条件/环境
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+O 1 & l\textasciitilde ɾ → w / \{o, u\} ∪ \# & 邻近圆唇元音或词尾 \\
+O 2 & 词尾塞音弱化为鼻音 & 开元音节尾塞音 \\
+O 3 & 多音节词尾音节脱落，前音节补偿音长 & 尾音节脱落补偿前音节元音 \\
+O 4 & 颚化擦音保留对立 & 闭音节辅音擦化 \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{形态}\label{ux5f62ux6001}
+
+\subsubsection{动词}\label{ux52a8ux8bcd}
+
+\paragraph{时态系统}\label{ux65f6ux6001ux7cfbux7edf}
+
+图斯克语的时态系统呈现不对称的三分结构，过去时和现在时分别存在独立的语法标记词，而未来时则通过黏着的语法后缀表达。考虑到拉埃拉德原始语实际上存在一个对称的三分时态系统，可能在演化的过程中图斯克语先是丢掉了其中的未来时，变成一个二分的语法结构。从一个浪漫的角度推测，很可能是大灾变时代的到来导致人们对于未来失去了希望，更倾向于总结过去的经验以及安排当下的事情。这样一种说法实际上并不严谨，但是考虑到本书并不是一本严格的语言学著作，而是一本面向地球上的图斯克文化入门者，展示图斯克语言及其风貌的书籍，在此引入这样的一种说法似乎也并不太过离题。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{过去时}\label{ux8fc7ux53bbux65f6}
+
+图斯克语的过去时使用独立的标记词''gu''实现，用来表示事件发生在说话人讲述时间的过去，是一种相对时态。标记词一般紧跟在动词之后。
+
+\begin{quote}
+例句 1
+
+原文：heimir deciap gu.
+
+词间对照翻译：太阳=单数主格定指 升起 过去时.
+
+中译：（那）太阳升起了
+\end{quote}
+
+例句 1
+是一个很简单的例子，在这里只有一个名词性成分，即是话题焦点，也是所谓的主语成分。``heim''是图斯克语中对太阳这一概念的一种表述方式，但是这里用到的形式是``heimir''，是名词``heim''的单数定指形式，在词间对照翻译中也看到，``=ir''
+即单数主格定指后缀。也就是说，``heimir''表达的概念近似于``（那）太阳''，在现代汉语的表达里没有严格对应的，或许可以类比于现代英语中的``The
+sun''。``deciap''是图斯克语表示``升起''这一含义的一种方式，应该是源自原始语，``de=''可以表达使动的含义，``deciap''可以被理解为``使高''。''gu``即图斯克语的独立过去时标记词，一般紧跟在所修饰的动词之后。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{现在时}\label{ux73b0ux5728ux65f6}
+
+当不添加标记时，也就是图斯克语动词通常状态下的词典形，一般视作动词的现在时，也称一般时，多用于描述普遍存在的现象和持续的、未完的动作。可以通过独立标记词``ho''
+强调事件与谈话的同时性，也即进行体，这在后文对体的叙述中有所提及。
+
+\begin{quote}
+例句 2
+
+原句：betumartirt nwi aguisib wise ar
+
+词间对照翻译：寒带地区=单数从格定指 复数非定指冠词 针叶的 树 存在
+
+中译：在寒带有针叶林
+\end{quote}
+
+这句话包含了不止一个语法成分，我们先集中看本小节所要阐述的现在时（一般时），也就是``ar''这个动词在这里所处的形式。``ar''没有任何变形，意味着它既不表达过去，也不表达未来，而是表达一个宽泛的时间概念，陈述了这样一个事实，即``在寒带有针叶林，过去有，未来可能还有''。如果我们要强调当下在寒带有针叶林，可以用后文提及的进行体来表达。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{未来时}\label{ux672aux6765ux65f6}
+
+图斯克语的未来时通过强制性黏着后缀''-in''标记，直接附加于动词词根后，不可分离。
+
+\begin{quote}
+例句 3
+
+原文：heimir ileyazin
+
+词间对照：太阳=单数主格定指发光=未来时
+
+中译：太阳将发光
+\end{quote}
+
+例句 3 和例句 1
+类似，都是描述太阳的行为，太阳都是单数主格定指，用于标记其数量和话题中心的地位；``ileyaz''是图斯克语中``发光''的意思，通过添加未来时黏着后缀``=in''标记其时态，描述太阳在未来发光。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{体}\label{ux4f53}
+
+\subparagraph{完成体}\label{ux5b8cux6210ux4f53}
+
+图斯克语通过添加标记词''po''表示动作彻底完成且结果存续。若存在时态标记词，则和时态标记词合并作为一个标记。
+
+\begin{quote}
+例句 4
+
+原句：heimir ebmoi po
+
+词间对照翻译：太阳=主格单数定指 落下 完成体
+
+中译：太阳落下了
+\end{quote}
+
+例句 4 是``heimir emboi
+po''，通过完成体标记表示``太阳已经落下''，重点在强调太阳落下这一动作已经完成，并且现在太阳仍处于落下的状态。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{quote}
+例句 5
+
+原句：heimir ebmoi gupo
+
+词间对照翻译：太阳=主格单数定指 落下 过去时-完成体
+
+中译：太阳（在过去）落下了
+\end{quote}
+
+例句 5``heimir ebmoi
+gupo''，通过过去时-完成体的缩合词，表达了``太阳在过去就已经落下''的意思，强调动作完成的同时，也提及了主题相对于谈话时的时间。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{quote}
+例句 6
+
+原句：heimir ebmoin po
+
+词间对照：太阳=主格单数定指 落下=未来时 完成体
+
+中译：太阳（还会）落下
+\end{quote}
+
+例句 6
+不是一个常见的说法，未来时和完成体的连用，可以有两种解读：``太阳（总是）还会落下''，``太阳在未来的时间已经落下''。这个时态通常用于强调某种存续性，理论上来说可以存在这样的搭配，但在实际运用中并不常见。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{进行体}\label{ux8fdbux884cux4f53}
+
+图斯克语的有''ho''作为独立标记词表示动作的持续性，未完成状态。
+
+\begin{quote}
+例句 7
+
+原句：heimir ileyaz ho
+
+词间对照： 太阳=主格单数定指 发光 进行体
+
+中译：太阳正在发光
+\end{quote}
+
+``Heimir''表示``太阳''，而``ileyaz
+ho''通过进行体标志``ho''强调了太阳``正在''发光，重点是该动作与对话时刻的共时性。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{非完成体}\label{ux975eux5b8cux6210ux4f53}
+
+反复体
+
+反复体即对开音节动词，重复最后一个音节并加后缀``n''，对于闭音节动词，重复最后一个元音辅音对，来表示重复或持续动作。
+
+\begin{quote}
+例句 7
+
+原句：okoir kegeg
+
+词间对照翻译： 鸟=单数主格定指 吃-吃-反复
+
+中译：那鸟一直吃
+\end{quote}
+
+在这里``okoir''即``鸟''作为主语，``kegeg''是动词``吃''``keg''的反复体形式，表达了``那鸟儿一直在吃''，重点是动作的持续性。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+当反复体和未来时同时出现时，将动词原型先变形，再加上未来时后缀``=in''来表达动作将会在未来持续。
+
+\begin{quote}
+例句 8
+
+原句：okoir kegegin
+
+词间对照翻译： 鸟=单数主格定指 吃-反复=未来时
+
+中译：那鸟会一直吃
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+当反复体和进行体同时出现时，表达当前动作一直持续。
+
+\begin{quote}
+例句 10
+
+原句：okoir bagegen ho
+
+词间对照翻译： 鸟=单数主格定指 吃-反复进行体
+
+中译：那鸟一直在吃
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{语气}\label{ux8bedux6c14}
+
+\subparagraph{虚拟语气}\label{ux865aux62dfux8bedux6c14}
+
+图斯克语使用''=es''作为虚拟体标记，一般搭配条件词或时态语境：\\
+独立使用时，一般添加条件连词''selip''（如果）。
+
+与其他动词修饰标记同现时，则一般无需条件连词 Selip，但具体依据语境决定：
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{quote}
+例句 10
+
+原句：selip barages
+
+词间对照：若下雨=虚拟语气
+
+中译：如果下雨
+\end{quote}
+
+这句话很简单，``selip barages''可以对应翻译成``如果下雨''
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\begin{quote}
+例句 11 原句: barages gu
+
+词间对照：下雨=虚拟语气过去时
+
+中译：如果曾经下雨
+\end{quote}
+
+这句话的含义可能会有歧义，直觉上来说，可以表达一种对过去所发生之事的质询，``假如过去真的下雨了''。
+
+\begin{quote}
+例句 11 原句： baragesin
+
+词间对照：下雨=虚拟语气=未来时
+
+中译：如果会下雨
+\end{quote}
+
+baragesin
+可以拆成三个部分``barag=es=in''，即词间对照中各个部分的对应功能，即表达了``如果会下雨''的意思。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{祈使语气}\label{ux7948ux4f7fux8bedux6c14}
+
+祈使语气通过黏着的后缀 ``-pa'' 或 ``-pasingo''
+表达对他人的命令或者祈使，一般只针对第二人称。``-pa''
+近似于命令，``-pasingo'' 则更近似于祈愿，请。
+
+\begin{quote}
+例句 12
+
+原句: sou kegpa
+
+词间对照：第二人称单数代词 吃=命令式
+
+中译：你吃吧！
+\end{quote}
+
+用``kepa''表达``你（给我）吃！''的意思。
+
+\begin{quote}
+例句 13
+
+原句：sorin kegpasingo
+
+词间对照：第二人称单数尊称形代词 吃=祈使式
+
+中译：您请吃
+\end{quote}
+
+``sorin''在图斯克语中是一个第二人称的尊称形式，可以理解为``您''，``吃''``keg''在这里作祈使式，尊敬地劝说对方来吃。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{情态}\label{ux60c5ux6001}
+
+\subparagraph{必然}\label{ux5fc5ux7136}
+
+图斯克语用 ``ying'' 独立结构，作为必然情态的标记。
+
+\begin{quote}
+例句 14
+
+原句：ying baragin
+
+词间对照翻译：必然态 下雨=未来时
+
+中译：将来一定下雨
+\end{quote}
+
+这句话很简单，用``ying''修饰了
+``baragin''表达对未来的一种强预测，表达出中文``一定''、``必然''之类的概念。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{意愿}\label{ux610fux613f}
+
+图斯克语的意愿情态，通过独立的''tyaa''（想），表达主语想要做某事，有做某事的意愿。
+
+\begin{quote}
+例句 13
+
+原句：ia tyaa keg
+
+词间对照：第一人称单数代词 意愿态 吃
+
+中译：我想吃
+\end{quote}
+
+用``tyaa''表达意愿态，同时``tyaa''后一般跟动词词典形，在这里也就是无任何其他语法标记的``keg''。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{能力}\label{ux80fdux529b}
+
+图斯克语通过情态动词
+``ning''（能），表达主语能够做某事，有能力做某事，通常紧接在主语后。
+
+\begin{quote}
+例句 14
+
+ia ning bagues gu mboem
+
+词间对照：第一人称单数代词 能力态 杀=虚拟体 过去时 第三人称宾格
+
+中译：我本来能杀他
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{其他修饰}\label{ux5176ux4ed6ux4feeux9970}
+
+副词在有时标记的情况下，一般紧接在动词前出现。
+出现情态表达时，一般紧接在情态标记词的后面。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{动词派生}\label{ux52a8ux8bcdux6d3eux751f}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1087}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1087}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1087}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1304}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.1522}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 10\tabcolsep) * \real{0.3913}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+派生类型
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+动词→动词
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+名词→动词
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+形容词→动词
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+核心功能
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+变化/状态 & & & -yaz & 使具有某种状态 & ile 亮的 \textgreater{} ileyaz
+发光 \\
+\end{longtable}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{名词}\label{ux540dux8bcd}
+
+\paragraph{主要词形变化}\label{ux4e3bux8981ux8bcdux5f62ux53d8ux5316}
+
+图斯克语名词格标记系统很规则，几乎没有例外。名词的主要变形如下表所示：
+
+\begin{longtable}[]{@{}lllll@{}}
+\toprule\noalign{}
+& 单数定指 & 单数非定指 & 复数定指 & 复数非定指 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+主格 & -ir & i, \ldots{} & -wor & nwi, \ldots{} \\
+宾格 & -im & i, -em & -wem & nwi, -em \\
+属格 & -il & i, -al & -wil & nwi, -al \\
+与格 & -ire & i, -ce & -wor & nwi, -cei \\
+方位/伴随格/工具格 & -irt & i, -it & -wor (it) & nwi, -it \\
+\end{longtable}
+
+图斯克语中，定指形式用后缀-ir, -wor
+进行表示，相对的，非定指形式由冠词-i, -nwi
+进行表示；复数非定指的冠词在海峡图斯克语和书面中是必须的，但是小部分方言里省去了复数非定指形式的冠词。
+
+对单数名词，当定指形式和格标记同时出现时，部分格标记和定指形式发生了缩合，非定指形式由冠词标记，则不与格标记产生变化；对于复数名词，格标记会产生类似复数形变的变化。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{格}\label{ux683c}
+
+在古典图斯克语的语法体系中，名词性成分的格位系统通常包含五个语法范畴，其中主格、宾格、与格、属格构成四大核心格位，另有一个附加格（涵盖方位、伴随或工具等语义）作为补充。以图斯克语为例：主格通过形态标记显性编码句法主语，即谈话的核心主题或动作的发起主体；宾格则特指及物动词的直接宾语，承担动作的承受者角色；与格对应间接宾语，标记动作的接受方或受益者；属格表达所属关系，构成名词间的从属关联。附加格作为多功能标记，依据语境动态呈现方位（处所）、伴随（协同对象）或工具（手段载体）等外围语义角色，通常伴随介词出现，由不同的介词具体承载信息。
+
+在新派的海峡图斯克语中，名词性成分的格位系统有进一步简化的倾向，非定指形式的后缀在口语中，常常失去形变；附加格有并入宾格的倾向。但在本书中我们不对其做出讨论，一切以标准的海峡图斯克语为准。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+接下来我们通过一些具体的例子对图斯克语的名词格系统进行说明。
+
+例句 1 ``heimir deciap gu''中，``heimir''即名词
+``heim''``日''的主格单数定指形式，在表中亦有呈现。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+来看另一个例子：
+
+\begin{quote}
+例句 15
+
+原句：kenir keg gupo i okoem
+
+词间对照：狗=主格单数定指 吃 过去时完成体 单数非定指 鸟=宾格
+
+中译：那狗吃掉了一只鸟
+\end{quote}
+
+这句话的主语为
+``kenir''，其中``=ir''作为主格单数定指标记，指明了狗是吃这个动作的发起人，并且说明了只存在一只特定的狗；``keg
+gupo''是过去时完成体标记，此处不再赘述；``i
+okoem''即鸟的宾格单数非定指形式，这里``i''是单数非定指标记，而``=em''这个黏着的后缀则标记了该名词的宾格地位，也即``鸟''在这句话中是动作的接受者。
+
+由于图斯克语存在格标记，陈述句的语序实际上可以很灵活，例如：
+
+\begin{quote}
+例句 16
+
+原句：i okoem kenir keg gupo
+
+词间对照：单数非定指 鸟=宾格 狗=主格单数定指 吃 过去时完成体
+
+中译：一只鸟（被）那狗吃掉了
+\end{quote}
+
+在这句话中，语序实际上变成了``宾格-主格-动词''的结构，通过宾语的前置实现了对宾语的强调，在具体语境下可能是在强调被狗吃掉的东西是鸟。在中文我们或许可以将其翻译成被动句，但是在语义上并不能完全等同，尤其是考虑到中文中的被动句多数具有一种贬义。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{定指}\label{ux5b9aux6307}
+
+图斯克语的冠词系统通过形态手段对定指性和数范畴进行双重区分，形成四类显性标记。定指性单数采用后缀标记
+-ir ，其实现形式直接附着于名词词干（如 naamar ``家族''
+→~naamar-ir~``该家族''），而不定指单数则以前置独立冠词 i 构成（如 i
+naamar ``一个家族''）。复数范畴的编码呈现不对称性：定指复数以后缀 -wor
+标记（如 naamer-wor ``这些家族''），不定指复数则依赖独立冠词
+nwori（口语变体 nwi）前置（如 nwori naamer ``多个家族''）。
+
+该系统的形态实现受到词干音系结构的严格制约。当名词词干以元音结尾时，后缀
+-ir 与-wor 需通过连音规则与词干元音衔接。独立冠词 nwori
+在辅音丛语境下常发生音节缩减，其弱化形式 nwi 多见于非正式语域。
+
+对复数定指形变而言，复数音变规则优先作用于词干，定指标记（-ir,
+-wor）随后依定指性选择，形态衔接受连音规则与语源音系特征约束。
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.0508}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.1017}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.2712}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 6\tabcolsep) * \real{0.5763}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+数范畴
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+定指形式
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+不定指形式
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+示例（词干：namar~``家族''）
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+单数 & 后缀-ir & 冠词 i + 词干 & naamarir~``该家族''；i
+naamar~``一个家族'' \\
+复数 & 后缀-wor & 冠词 nwo (ri) + 词干 & naamerwor~``这些家族''；nwi
+naamer~``多个家族'' \\
+\end{longtable}
+
+注：后缀形态受词干尾音制约，冠词 nwori 在口语中可简化为
+nwi，其形式选择受语域及节律规则调节。
+
+\paragraph{语义类别}\label{ux8bedux4e49ux7c7bux522b}
+
+图斯克语名词可按含义分成五类。
+
+第一类是抽象名词，表达情感、状态、概念等不具有可直接感知的实体的事物。
+
+第二类是具体名词，表示可通过各种感官感知的、数量可分辨的实体。
+
+第三类是物质名词，表示某些不可数的物质或材料，这一类名词在作形态变化时有特殊的处理方式：大多数的物质名词强制绑定复数形式，在涉及对该种类物质的描述时，通常加上黏着的后缀``=lis''，这在后文的名词派生中也有提到，但并不是所有能够通过``=lis''派生的名词都属于这一类，例如``wise''树，这一个名词就是一个具体名词，但它也可以通过``=lis''派生出名词``wiselis''意思是``这一种树''。
+
+第四类是专有名词，是对特定地点、事物、个体、机构等的描述，通常不作变化，在图斯克语中，大量咕洛语的宗教性质借词也属于这一类。
+
+第五类是时间名词，用于表示时间单位或时间段，这类名词相对封闭，很少有变化。
+
+\subparagraph{派生名词}\label{ux6d3eux751fux540dux8bcd}
+
+以上的词类之间互相可以派生，除了比较常规的将名词与名词直接相连、构成同义或偏义复词来派生以外，也可以通过如下的形式派生出名词来。
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0877}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.0877}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.2281}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.1053}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 8\tabcolsep) * \real{0.4912}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+派生类型
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+动词→名词
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+名词→名词
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+形容词→名词
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+核心功能
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+受事/对象 & -hel & - & - & 指代动作直接承受者或被动对象 \\
+结果/产物 & -laft & - & - & 动作产生的实体化结果，具体名词 \\
+工具/载体 & -jo & -jo & - &
+转化为实现动作的工具或材料制成的实体，具体名词 \\
+施事/主体 & -ke & - & -ke & 标记动作执行者或属性持有者，具体名词 \\
+空间/场所 & -mart & -wid -(e) rad & -mart &
+关联实体或动作的典型空间位置 \\
+集体化 & - & -lis & - & 个体扩展为群体或类属概念 \\
+抽象化 & -sait & -sait & -sait & 将具体概念抽象为状态、过程或对立语义 \\
+指小/爱称 & - & -ino & -ino &
+附加亲昵、微小或轻视色彩，一般用于昵称，或是用于称呼小孩 \\
+\end{longtable}
+
+\begin{quote}
+以下是一些例子：
+
+\begin{enumerate}
+\def\labelenumi{\arabic{enumi}.}
+\item
+  受事：ke 吃 -\textgreater{} kehel 食物
+\item
+  结果：metwa 吐 -\textgreater{} metwalaft 呕吐物
+\item
+  场所：haime 躺 -\textgreater{} haimemart 床
+\item
+  工具：spoo 绳 -\textgreater{} spoojo （绑）绳（的工）具、索
+\item
+  施事：kudu 缝 -\textgreater{} kuduke 裁缝
+\item
+  集体化：kome 人 -\textgreater{} komelis 人类
+\item
+  抽象化：okem 飞 -\textgreater{} okemsait 飞行（过程）
+\item
+  指小/爱称： kome 人 → komeino 仔
+\end{enumerate}
+\end{quote}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{名词派生}\label{ux540dux8bcdux6d3eux751f}
+
+\begin{longtable}[]{@{}llll@{}}
+\toprule\noalign{}
+变形类型 & & 后缀/前缀 & \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+动词化 & 变成和\ldots\ldots 一样 & -（k）em & \\
+& 由\ldots\ldots 所致 & -(h) en & 风 wet ：weten 风化 \\
+形容词 & 有\ldots\ldots 的 & -som & kometisom 有人的 \\
+& & -ik & komeik 像人的 \\
+否定前缀 & & a (h)- & akome 无人的 \\
+\end{longtable}
+
+\subsubsection{形容词}\label{ux5f62ux5bb9ux8bcd}
+
+\subsubsection{副词}\label{ux526fux8bcd}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsubsection{封闭词类}\label{ux5c01ux95edux8bcdux7c7b}
+
+\paragraph{代词}\label{ux4ee3ux8bcd}
+
+\subparagraph{人称代词}\label{ux4ebaux79f0ux4ee3ux8bcd}
+
+\begin{longtable}[]{@{}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.0694}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.3194}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.0694}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1944}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1667}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.1111}}
+  >{\raggedright\arraybackslash}p{(\columnwidth - 12\tabcolsep) * \real{0.0694}}@{}}
+\toprule\noalign{}
+\begin{minipage}[b]{\linewidth}\raggedright
+尊卑层级
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+第一人称
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+第二人称
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+第三人称
+\end{minipage} & \begin{minipage}[b]{\linewidth}\raggedright
+\end{minipage} \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+特称 & Sekui（朕） & & Kuisou（陛下） & & --- & \\
+尊称 & hirin （本人） & 单复数同形 & sorin（您） & 单复数同形 &
+mibok（怹） & 单复数同形 \\
+& & & 北部：omsou （阁下） & & & \\
+& & & 南部：lakome （大人） & 复数：lakomewor & & \\
+基础/中性 & ia （我） & iaqi & sou （你） & souqi & mbo（他） & mboqi \\
+自指/谦称 & 通用：wan （在下） & & & & & \\
+& 男性：wak （鄙） /sewank （此身） & & --- & & & \\
+& 女性：haam（妾）/sewam （此身） & & --- & & & \\
+\end{longtable}
+
+图斯克语人称代词系统通过多层次的形态分化和词汇选择，构建起反映社会等级制度的称谓体系。其基础人称系统包含
+ia（我）、sou（你）、mbo（他/她/它）三个中性代词，复数形式通过后缀 -qi
+构成（如
+iaqi``我们''、souqi``你们''、mboqi``他们''）。这一底层系统服务于日常平等交际，而更复杂的尊卑层级则通过特定称谓实现。
+
+同时，图斯克语的人称代词存在尊称上的分化：君主自称
+Sekui（朕），直指皇权身份；臣民对君主使用
+Kuisou（陛下）。社会尊称则呈现地域分化：第一人称尊称
+hirin（本人/吾）单复数同形，用于上位者自称；第二人称北部使用
+omsou（阁下），南部使用 lakome（大人），后者复数通过添加定指后缀 -wor
+构成 lakomewor。第三人称尊称 mibok 源于复数词干 mboqi
+的语音演变，单复数通用。
+
+自指谦称系统以通用形式
+wan（在下）为核心，通过形态变化实现性别分化：男性使用辅音强化形式 wak
+或带前缀的 sewank，女性则为 haam 或 sewam。整个体系通过复数后缀 -qi
+、定指复数 -wor
+及语音演变（如辅音强化、元音交替），将社会层级编码于语言形式之中，映射出严格的尊卑秩序与地域文化差异
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{指示代词}\label{ux6307ux793aux4ee3ux8bcd}
+
+图斯克语的基础指示代词是二分的，``se''表示近指的单数形式，``sa''表示远指，直接继承自原始语。
+
+在句中作名词时，遵守名词的语法变形规则。若用作名词的修饰词，则由
+sei，sawi 分别表示近指，远指的复数形式，作为定指后缀的替代。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{不定代词}\label{ux4e0dux5b9aux4ee3ux8bcd}
+
+图斯克语主要的不定代词如下表所示
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+拼写 & 释义 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+soazi & 全部 \\
+soa & 很多 \\
+soj & 一些 \\
+hau & 很少 \\
+asea & 其他 \\
+soali & 更多 \\
+\end{longtable}
+
+不定代词虽然作为名词性成分，但是也可以被用于修饰名词，来限定名词。
+
+\paragraph{介词}\label{ux4ecbux8bcd}
+
+图斯克语的介词，可以作为独立成分使用，但是一般出现在附加格名词前作为黏着前缀。
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+拼写 & 释义 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+ow & 在\ldots\ldots 上 \\
+eh & 在\ldots\ldots 下 \\
+siuy & 在\ldots\ldots 里面 \\
+yau & 在\ldots\ldots 外面 \\
+we & 从\ldots\ldots{} \\
+gri & 沿着\ldots\ldots{} \\
+wi & 在\ldots\ldots 附近 \\
+\end{longtable}
+
+不同的动词可能与特定介词有着固定搭配。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{数词}\label{ux6570ux8bcd}
+
+图斯克语的数词系统为十进制：下表是一到十以内的基数词的说法
+
+\begin{longtable}[]{@{}ll@{}}
+\toprule\noalign{}
+拼写 & 释义 \\
+\midrule\noalign{}
+\endhead
+\bottomrule\noalign{}
+\endlastfoot
+ita & 一 \\
+sod & 二 \\
+mib & 三 \\
+badaa & 四 \\
+asu & 五 \\
+mo & 六 \\
+ak & 七 \\
+buzen & 八 \\
+dziu & 九 \\
+gi & 十 \\
+gita & 十一 \\
+giso & 十二 \\
+gimb & 十三 \\
+gibad & 十四 \\
+giasu & 十五 \\
+gimo & 十六 \\
+giak & 十七 \\
+gibuz & 十八 \\
+gidziu & 十九 \\
+sodgi & 二十 \\
+sodgita & 二十一 \\
+kaha & 百 \\
+numrea & 千 \\
+\end{longtable}
+
+百以上的数词前，会加 i-来表达仅有一的情况，例如：
+
+一百 ikaha
+
+一千一百二十一 inumrea ikahasodgita
+
+序数词直接在基数词后面加 ze 实现。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{连词}\label{ux8fdeux8bcd}
+
+\subparagraph{并列连词}\label{ux5e76ux5217ux8fdeux8bcd}
+
+名词性成份间可用 ag 连接，来表达并列关系，例如：
+
+Ita ku ag ita mea 一个男人和一个女人。
+
+当存在多个并列成份时，书面中应用 ag 依次连接，例如：
+
+Ita ku ag ita mea ag ita normea
+一个男人和一个女人和一个女孩。但在口语中，最后一个 ag 之前的 ag
+常常被省略。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subparagraph{从属连词}\label{ux4eceux5c5eux8fdeux8bcd}
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\paragraph{叹词}\label{ux53f9ux8bcd}
+
+图斯克语的叹词较为简单：
+
+E 表示犹豫、厌恶等，具体依声调而定。
+
+Ala 表示惊讶、也表示惊喜。
+
+Ma 表示否定，也表示就这样吧，也依声调而定。
+
+\begin{center}\rule{0.5\linewidth}{0.5pt}\end{center}
+
+\subsection{小句}\label{ux5c0fux53e5}
+
+\subsubsection{名词短语}\label{ux540dux8bcdux77edux8bed}
+
+从属
+
+复数
+
+%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%%
+
+
+\end{document}
