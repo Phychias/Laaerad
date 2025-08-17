@@ -6,6 +6,7 @@
       {
         "id": "d62a88c2258219d6",
         "type": "tabs",
+        "dimension": 32.55813953488372,
         "children": [
           {
             "id": "a06965787e9b3afc",
@@ -26,6 +27,7 @@
       {
         "id": "e9388dfd5e202733",
         "type": "split",
+        "dimension": 67.44186046511628,
         "children": [
           {
             "id": "67e30b5e05bd6485",
@@ -57,12 +59,12 @@
                 "state": {
                   "type": "markdown",
                   "state": {
-                    "file": "docs/拉埃拉德/图斯克/图斯克/图斯克年表.md",
+                    "file": "图斯克语名字.md",
                     "mode": "source",
                     "source": false
                   },
                   "icon": "lucide-file",
-                  "title": "图斯克年表"
+                  "title": "图斯克语名字"
                 }
               }
             ]
@@ -100,7 +102,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "博",
+                "query": "图斯克语",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -121,12 +123,12 @@
               "title": "书签"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 225.50152587890625
+    "width": 225.50152587890625,
+    "collapsed": true
   },
   "right": {
     "id": "6078100c999914ca",
@@ -245,9 +247,12 @@
   },
   "active": "a06965787e9b3afc",
   "lastOpenFiles": [
-    "原始语名字.md",
     "图斯克语名字.md",
+    "docs/拉埃拉德/图斯克/trusk_district.png",
+    "原始语名字.md",
     "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
+    "copilot-conversations/[[图斯克帝国]]_试将其中的许多概念整理成和这篇文稿类似的wiki词条@20250815_011454.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克年表.md",
     "docs/拉埃拉德/图斯克/俺东.md",
     "俺东地.md",
@@ -262,22 +267,18 @@
     "docs/index.md",
     "docs/拉埃拉德/图斯克/诺瓦亚海.md",
     "docs/拉埃拉德/图斯克/安纽科萨.md",
-    "copilot-conversations/[[图斯克帝国]]_试将其中的许多概念整理成和这篇文稿类似的wiki词条@20250815_011454.md",
     "docs/拉埃拉德/图斯克/铁苏库.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库王朝.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库家族.md",
     "docs/拉埃拉德/图斯克/铁苏库/铁苏库地区.md",
     "docs/拉埃拉德/图斯克/咕洛.md",
     "docs/拉埃拉德/图斯克/咕洛/图录亥刻.md",
-    "docs/拉埃拉德/图斯克/图斯克/图斯克帝国.md",
-    "伯帖斯抓护王朝.md",
     "copilot-conversations",
     "模板/未命名",
     "copilot-custom-prompts",
     "docs/拉埃拉德/图斯克/奎列奥",
     "模板",
     "docs/拉埃拉德/图斯克/图斯克",
-    "docs/拉埃拉德/图斯克/trusk_district.png",
     "docs/拉埃拉德/图斯克/trusk_eco.png",
     "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门",
     "docs/assets/img/trusk_map/trusk_white_1080p.png",
