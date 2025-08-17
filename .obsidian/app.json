@@ -6,5 +6,5 @@
   "useMarkdownLinks": false,
   "attachmentFolderPath": "docs/assets",
   "showLineNumber": true,
-  "vimMode": true
+  "vimMode": false
 }
