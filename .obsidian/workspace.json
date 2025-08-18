@@ -6,7 +6,7 @@
       {
         "id": "d62a88c2258219d6",
         "type": "tabs",
-        "dimension": 43.60321384425217,
+        "dimension": 40.8844065166796,
         "children": [
           {
             "id": "a06965787e9b3afc",
@@ -14,12 +14,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/图斯克/图斯克.md",
+                "file": "docs/拉埃拉德/图斯克/奎列奥.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "图斯克"
+              "title": "奎列奥"
             }
           }
         ]
@@ -27,20 +27,18 @@
       {
         "id": "85a9d9e37076da38",
         "type": "tabs",
-        "dimension": 56.39678615574783,
+        "dimension": 59.1155934833204,
         "children": [
           {
             "id": "1bed6a1a6eaa1c22",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "图斯克语名字.md",
-                "mode": "source",
-                "source": false
+                "file": "docs/拉埃拉德/图斯克/trusk_eco.png"
               },
-              "icon": "lucide-file",
-              "title": "图斯克语名字"
+              "icon": "lucide-image",
+              "title": "trusk_eco"
             }
           }
         ]
@@ -217,42 +215,42 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "a06965787e9b3afc",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
-    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克帝国.md",
+    "docs/拉埃拉德/图斯克/奎列奥.md",
     "docs/拉埃拉德/图斯克/图斯克.md",
+    "docs/拉埃拉德/图斯克/焦利亚.md",
+    "docs/拉埃拉德/图斯克/诺瓦亚海.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特海峡.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门二世.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特王朝.md",
+    "docs/拉埃拉德/图斯克/trusk_eco.png",
+    "docs/拉埃拉德/图斯克/trusk_district.png",
+    "docs/拉埃拉德/图斯克/图斯克/图斯克地图.md",
+    "图斯克语名字.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特家族.md",
+    "docs/拉埃拉德/图斯克/黑蔑特.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特城.md",
+    "docs/拉埃拉德/图斯克/黑蔑特/黑蔑特地区.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克盆地.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克神话.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克年表.md",
     "原始语名字.md",
-    "docs/拉埃拉德/图斯克/焦利亚.md",
-    "docs/拉埃拉德/图斯克/黑蔑特.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
-    "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门二世.md",
-    "图斯克语名字.md",
-    "docs/拉埃拉德/图斯克/trusk_district.png",
     "copilot-conversations/[[图斯克帝国]]_试将其中的许多概念整理成和这篇文稿类似的wiki词条@20250815_011454.md",
     "docs/拉埃拉德/图斯克/图斯克/图斯克语.md",
     "docs/拉埃拉德/图斯克/俺东.md",
     "俺东地.md",
     "docs/拉埃拉德/图斯克/咕洛/莫斯瓦里克王朝.md",
     "docs/拉埃拉德/图斯克/齐米亚克.md",
-    "docs/拉埃拉德/图斯克/奎列奥.md",
     "Untitled.md",
-    "docs/拉埃拉德/图斯克/铁苏库/德卓黑一世.md",
-    "docs/index.md",
-    "docs/拉埃拉德/图斯克/诺瓦亚海.md",
-    "docs/拉埃拉德/图斯克/安纽科萨.md",
-    "docs/拉埃拉德/图斯克/铁苏库.md",
-    "docs/拉埃拉德/图斯克/铁苏库/铁苏库王朝.md",
-    "docs/拉埃拉德/图斯克/铁苏库/铁苏库家族.md",
     "copilot-conversations",
     "模板/未命名",
     "copilot-custom-prompts",
     "docs/拉埃拉德/图斯克/奎列奥",
     "模板",
     "docs/拉埃拉德/图斯克/图斯克",
-    "docs/拉埃拉德/图斯克/trusk_eco.png",
     "docs/拉埃拉德/图斯克/黑蔑特/马塔肖萨门",
     "docs/assets/img/trusk_map/trusk_white_1080p.png",
     "docs/assets/img/trusk_map/truskv3eco.png",
