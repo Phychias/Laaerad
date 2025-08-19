@@ -3,7 +3,6 @@ site_url: https://localhost:8000/
 
 theme:
     name: 'material'
-    language: zh   # 设置默认语言
     features:
       - navigation.instant
       - navigation.tabs
@@ -56,16 +55,16 @@ markdown_extensions:
 
 plugins:
   - i18n:
-      default_language: zh
       doc_structure: folder
       languages:
-        - locale: en
-          name: English
-          build: true
         - locale: zh
           name: 中文
           build: true
           default: true
+        - locale: en
+          name: English
+          build: true
+        
   - awesome-pages
   - roamlinks
   - rss:
