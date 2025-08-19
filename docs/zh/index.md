@@ -11,13 +11,13 @@ Add your open source license, GitHub uses MIT license.
 
 </header>
 
-欢迎来到 Laaerad 的维基页面，面前该维基被托管在github页面上，用以记录并分享。
+欢迎来到拉埃拉德的维基页面，面前该维基被托管在github页面上，用以记录并分享。
 
 ## 内容
 
 当前博客的主要内容有：
 
-1. 对laaerad企划所囊括世界的简单描述（[[docs/拉埃拉德|拉埃拉德世界观基础]]）
+1. 对laaerad企划所囊括世界的简单描述（[[docs/zh/拉埃拉德|拉埃拉德世界观基础]]）
 
 2. 对这个世界各种语言的描述
 
@@ -31,7 +31,7 @@ Add your open source license, GitHub uses MIT license.
 
 目前比较完善的语言设定：[[图斯克语]]
 
-目前比较完善的国家设定：[[docs/zh/拉埃拉德/图斯克]]、[[图斯克帝国]]
+目前比较完善的国家设定：[[图斯克]]、[[图斯克帝国]]
 
 目前比较详细的人物设定：[[德卓黑一世]]
 

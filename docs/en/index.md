@@ -16,7 +16,7 @@ Welcome to Laaerad's wiki, hosted on GitHub for documentation and sharing.
 
 The main contents of this blog are:
 
-1. A brief description of the world encompassed by the Laaerad Project ([[docs/Laaerad|Laaerad Worldview Basics]])
+1. A brief description of the world encompassed by the Laaerad Project ([[拉埃拉德|Laaerad]])
 
 2. Description of the various languages in this world
 
@@ -26,18 +26,18 @@ The main contents of this blog are:
 
 ## Recommended Reading
 
-About the basic setting of this world: [[docs/Laaerad]]
+About the basic setting of this world: [[拉埃拉德|Laaerad]]
 
-Currently more complete language setting: [[Tusk]]
+Currently more complete language setting: 
 
-Currently more complete country setting: [[docs/zh/Laaerad/Tusk/Tusk]], [[Tusk Empire]]
+Currently more complete country setting: [[拉埃拉德/图斯克|Trusk]]
 
-Currently more detailed character setting: [[Decoheim I]]
+Currently more detailed character setting: 
 
 ## Notes
 
-- In 2024, a group of like-minded friends began creating [[Laaerad Original Language|Laaerad Original Language]]
-- 2024-2025, Laerard's worldview is the personal creation of Luo Yichuan.
+- In 2024, a group of like-minded friends began creating primitive language of laaerad
+- 2024-2025, Laaerad's worldview is the personal creation of Phychias.
 
 ---
 
