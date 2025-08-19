@@ -1,4 +1,5 @@
 site_name: An-index
+site_url: https://phychias.github.io/Laaerad/
 
 theme:
     name: 'material'
