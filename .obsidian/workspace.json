@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/en/index.md",
+                "file": "docs/index.md",
                 "mode": "source",
                 "source": false
               },
@@ -197,9 +197,9 @@
   },
   "active": "a06965787e9b3afc",
   "lastOpenFiles": [
+    "docs/en/index.md",
     "docs/index.md",
     "docs/zh/index.md",
-    "docs/en/index.md",
     "docs/en/拉埃拉德/图斯克.md",
     "docs/en/trusk.md",
     "docs/en/拉埃拉德/图斯克",

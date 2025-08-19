@@ -6,14 +6,14 @@
 
   // 定义语言映射
   const supportedLanguages = {
-    "zh": "/zh/",
-    "zh-CN": "/zh/",
-    "zh-TW": "/zh/",
-    "en": "/en/"
+    "zh": "/Laaerad/zh/index",
+    "zh-CN": "/Laaerad/zh/index",
+    "zh-TW": "/Laaerad/zh/index",
+    "en": "/Laaerad/en/index"
   };
 
   // 默认跳转中文
-  let redirectUrl = "/zh/";
+  let redirectUrl = "/Laaerad/zh/index";
 
   // 如果浏览器语言在支持列表中，则跳转对应语言
   for (const key in supportedLanguages) {
