@@ -3,17 +3,15 @@
 <script>
   // 获取用户浏览器语言
   const lang = navigator. language || navigator. userLanguage;
-
-  // 定义语言映射
+  const base = window.location.pathname.split ('/')[1]; // 获取仓库名
+  
   const supportedLanguages = {
-    "zh": "/Laaerad/zh/",
-    "zh-CN": "/Laaerad/zh/",
-    "zh-TW": "/Laaerad/zh/"",
-    "en": "/Laaerad/en/"
+     "zh": `/${base}/zh/`,
+     "en": `/${base}/en/`
   };
-
+  
   // 默认跳转中文
-  let redirectUrl = "/Laaerad/zh/";
+  let redirectUrl = "/${base}/zh/";
 
   // 如果浏览器语言在支持列表中，则跳转对应语言
   for (const key in supportedLanguages) {
