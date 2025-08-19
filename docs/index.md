@@ -6,7 +6,8 @@
   const base = window.location.pathname.split ('/')[1]; // 获取仓库名
   
   const supportedLanguages = {
-     "zh": `/${base}/zh/`,
+     "zh-CN": `/${base}/zh/`,
+     "zh-CN": `/${base}/zh/`,
      "en": `/${base}/en/`
   };
   
@@ -25,6 +26,6 @@
   window. location. href = redirectUrl;
 </script>
 
-如果页面没有自动跳转，请点击[[docs/zh/index|这里]]。
+如果页面没有自动跳转，请点击[这里](/zh/)。
 
-If the page did not redirect automatically, please click [[docs/en/index|here]]
+If the page did not redirect automatically, please click[here](/en/)
