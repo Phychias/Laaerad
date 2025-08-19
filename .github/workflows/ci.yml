@@ -14,5 +14,5 @@ jobs:
         with:
           python-version: 3.11
       - run: pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-rss-plugin mkdocs-i18n mkdocs-awesome-pages-plugin mkdocs-mermaid2-plugin
-      - run: mkdocs build --clean
+      - run: mkdocs build
       - run: mkdocs gh-deploy --force
