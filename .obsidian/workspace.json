@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/拉埃拉德/索引/人物.md",
+                "file": "docs/en/拉埃拉德.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "人物"
+              "title": "拉埃拉德"
             }
           }
         ]
@@ -197,11 +197,11 @@
   },
   "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
+    "docs/拉埃拉德/索引/人物.md",
     "docs/en",
     "docs/新建文件夹",
     "test1.md",
     "docs/拉埃拉德/图斯克/铁苏库/德卓黑一世.md",
-    "docs/拉埃拉德/索引/人物.md",
     "docs/拉埃拉德/索引/国家.md",
     "docs/拉埃拉德/索引",
     "docs/拉埃拉德/图斯克/奎列奥.md",
@@ -241,7 +241,6 @@
     "docs/assets/img/trusk_map/生态图例 文字 中文.png",
     "docs/assets/img/trusk_map/trusk_render_white.png",
     "docs/assets/img/trusk_map/trusk_render.png",
-    "docs/assets/img/trusk_map/region_text_ZH.png",
-    "docs/assets/img/trusk_map"
+    "docs/assets/img/trusk_map/region_text_ZH.png"
   ]
 }
