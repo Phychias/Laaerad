@@ -56,15 +56,18 @@ markdown_extensions:
 plugins:
   - i18n:
       doc_structure: folder
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      default_language: zh
       languages:
-        - locale: zh
+        zh:
           name: 中文
           build: true
           default: true
-        - locale: en
+        en:
           name: English
           build: true
-        
   - awesome-pages
   - roamlinks
   - rss:

@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "test1.md",
+                "file": "docs/zh/拉埃拉德/图斯克/咕洛/伯帖斯抓护王朝.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "test1"
+              "title": "伯帖斯抓护王朝"
             }
           }
         ],
@@ -211,9 +211,9 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "88ae32d2ae3cbfb9",
+  "active": "0a50e498ec6f584e",
   "lastOpenFiles": [
-    "数据库.base",
+    "test1.md",
     "site/search/search_index.json",
     "site/search",
     "site/feed_json_updated.json",
@@ -238,13 +238,12 @@
     "docs/zh/index.md",
     "docs/zh/拉埃拉德/拉埃拉德原始语.md",
     "docs/zh/拉埃拉德/图斯克/黑蔑特/马塔肖萨门/马塔肖萨门一世.md",
-    "docs/zh/拉埃拉德/图斯克/图斯克.md",
+    "docs/zh/拉埃拉德/图斯克.md",
     "docs/en/拉埃拉德/图斯克.md",
     "docs/index.md",
     "en.md",
     "docs/en/index.md",
     "docs/en/trusk.md",
-    "test1.md",
     "test.md",
     "zh.md",
     "docs/en/拉埃拉德.md",
