@@ -2,8 +2,10 @@ site_name: An-index
 
 theme:
     name: 'material'
-    palette:
+    language_selector: true
 
+    palette:
+    
     # Light mode
     - media: "(prefers-color-scheme: light)"
       scheme: default

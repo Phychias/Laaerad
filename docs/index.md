@@ -7,7 +7,7 @@
   
   const supportedLanguages = {
      "zh-CN": `/${base}/zh/`,
-     "zh-CN": `/${base}/zh/`,
+     "zh-TW": `/${base}/zh/`,
      "en": `/${base}/en/`
   };
   
