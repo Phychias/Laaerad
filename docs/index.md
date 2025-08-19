@@ -27,6 +27,6 @@
   window. location. href = redirectUrl;
 </script>
 
-如果页面没有自动跳转，请点击[这里](/zh/)。
+如果页面没有自动跳转，请点击[[docs/zh/index|这里]]。
 
-If the page did not redirect automatically, please click [[docs/en/index]]
+If the page did not redirect automatically, please click [[docs/en/index|here]]

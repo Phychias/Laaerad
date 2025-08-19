@@ -2,10 +2,10 @@
 <header>
 
 <!--
-  <<< Author notes: Course header >>>
-  Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-  In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-  Add your open source license, GitHub uses MIT license.
+<<< Author notes: Course header >>>
+Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
+In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
+Add your open source license, GitHub uses MIT license.
 -->
 
 
@@ -31,7 +31,7 @@
 
 目前比较完善的语言设定：[[图斯克语]]
 
-目前比较完善的国家设定：[[图斯克]]、[[图斯克帝国]]
+目前比较完善的国家设定：[[docs/zh/拉埃拉德/图斯克/图斯克]]、[[图斯克帝国]]
 
 目前比较详细的人物设定：[[德卓黑一世]]
 
@@ -45,8 +45,8 @@
 <footer>
 
 <!--
-  <<< Author notes: Footer >>>
-  Add a link to get support, GitHub status page, code of conduct, license link.
+<<< Author notes: Footer >>>
+Add a link to get support, GitHub status page, code of conduct, license link.
 -->
 
 
