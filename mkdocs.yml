@@ -1,11 +1,13 @@
 site_name: An-index
+site_url: https://localhost:8000/
 
 theme:
     name: 'material'
     language: zh   # 设置默认语言
-    language_selector: true
     features:
       - navigation.instant
+      - navigation.tabs
+      - navigation.top
     palette:
 
     # Light mode
@@ -55,9 +57,15 @@ markdown_extensions:
 plugins:
   - i18n:
       default_language: zh
+      doc_structure: folder
       languages:
-        en: English
-        zh: 中文
+        - locale: en
+          name: English
+          build: true
+        - locale: zh
+          name: 中文
+          build: true
+          default: true
   - awesome-pages
   - roamlinks
   - rss:
