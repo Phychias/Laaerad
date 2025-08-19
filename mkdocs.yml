@@ -49,13 +49,14 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - search
+  - awesome-pages
+  - wiki
+  - roamlinks
   - i18n:
       default_language: zh
       languages:
         en: English
         zh: 中文
-  - roamlinks
   - rss:
       match_path: blog/posts/.* 
       date_from_meta:
@@ -63,8 +64,7 @@ plugins:
       categories:
         - categories
         - tags
-  - awesome-pages
-  - wiki
+  - search
 
 
 extra_javascript:
