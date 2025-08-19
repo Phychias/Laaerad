@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/en/拉埃拉德.md",
+                "file": "docs/zh/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "拉埃拉德"
+              "title": "index"
             }
           }
         ],
@@ -213,11 +213,13 @@
   },
   "active": "88ae32d2ae3cbfb9",
   "lastOpenFiles": [
+    "docs/zh/拉埃拉德/图斯克/图斯克/图斯克帝国.md",
+    "docs/en/index.md",
+    "docs/en/拉埃拉德.md",
     "docs/zh/拉埃拉德.md",
-    "docs/zh/index.md",
     "docs/zh/拉埃拉德/图斯克.md",
     "docs/en/拉埃拉德/图斯克.md",
-    "docs/en/index.md",
+    "docs/zh/index.md",
     "site/search/search_index.json",
     "site/search",
     "site/zh/拉埃拉德/索引/国家/index.html",
@@ -239,7 +241,6 @@
     "site/assets/img/trusk_map/region_text_ZH.png",
     "site/assets/img/trusk_map/region.png",
     "docs/Laaerad.md",
-    "docs/en/拉埃拉德.md",
     "docs/zh/拉埃拉德/拉埃拉德原始语.md",
     "docs/zh/拉埃拉德/图斯克/诺瓦亚海.md",
     "docs/zh/拉埃拉德/图斯克/奎列奥.md",

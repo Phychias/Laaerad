@@ -17,7 +17,7 @@ Add your open source license, GitHub uses MIT license.
 
 当前博客的主要内容有：
 
-1. 对laaerad企划所囊括世界的简单描述（[[docs/zh/拉埃拉德|拉埃拉德世界观基础]]）
+1. 对laaerad企划所囊括世界的简单描述（[[拉埃拉德]]）
 
 2. 对这个世界各种语言的描述
 

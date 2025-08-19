@@ -1,15 +1,18 @@
-site_name: 拉埃拉德世界百科
+site_name: 拉埃拉德世界维基
+site_description: 拉埃拉德世界百科
 
 theme:
   language: zh
   name: 'material'
   features:
-    - navigation.top      # 可选，比如想把导航放上面
-    - navigation.instant
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.tabs     # 可选，导航栏的标签
     - navigation.expand   # 可选，导航栏的展开
+    - navigation.path
+    - navigation.instant
+    - navigation.instant.preview
+    - navigation.instant.prefetch
+    - navigation.instant.progress
+    - navigation.sections
     # - content.tabs.link   # 可选
   palette:
 
@@ -41,10 +44,12 @@ extra:
       lang: en
 
 nav:
-  - Home: /zh/
+  - 首页: /
   - 拉埃拉德: 
     - 设定: 拉埃拉德
     - 国家: 拉埃拉德/索引/国家
+    - 人物: 拉埃拉德/索引/人物
+    - 图斯克地图: 拉埃拉德/图斯克/图斯克/图斯克地图
 
 # Extensions
 markdown_extensions:
@@ -89,7 +94,7 @@ plugins:
         - locale: en
           name: English
           build: true
-          site_name: Laaerad World Encyclopedia
+          site_name: Laaerad Wiki
   # - awesome-pages
   - roamlinks
 
