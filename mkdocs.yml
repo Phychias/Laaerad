@@ -5,7 +5,8 @@ theme:
   language: zh
   name: 'material'
   features:
-    - navigation.tabs     # 可选，导航栏的标签
+    - navigation
+    # - navigation.tabs     # 可选，导航栏的标签
     - navigation.expand   # 可选，导航栏的展开
     - navigation.path
     - navigation.instant
@@ -13,7 +14,9 @@ theme:
     - navigation.instant.prefetch
     - navigation.instant.progress
     - navigation.sections
-    # - content.tabs.link   # 可选
+    - navigation.prune
+    - navigation.indexes 
+    - content.tabs.link   # 可选
   palette:
 
   # Light mode
@@ -34,22 +37,15 @@ theme:
       icon: material/toggle-switch
       name: Switch to light mode
 
-extra:
-  alternate:
-    - name: 中文
-      link: /zh/
-      lang: zh
-    - name: English
-      link: /en/ 
-      lang: en
+# extra:
+#   alternate:
+#     - name: 中文
+#       link: /zh/
+#       lang: zh
+#     - name: English
+#       link: /en/ 
+#       lang: en
 
-nav:
-  - 首页: /
-  - 拉埃拉德: 
-    - 设定: 拉埃拉德
-    - 国家: 拉埃拉德/索引/国家
-    - 人物: 拉埃拉德/索引/人物
-    - 图斯克地图: 拉埃拉德/图斯克/图斯克/图斯克地图
 
 # Extensions
 markdown_extensions:
@@ -90,7 +86,7 @@ plugins:
           name: 中文
           default: true
           build: true
-          site_name: 拉埃拉德世界百科
+          site_name: 拉埃拉德世界维基
         - locale: en
           name: English
           build: true
