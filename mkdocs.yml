@@ -4,7 +4,8 @@ theme:
     name: 'material'
     language: zh   # 设置默认语言
     language_selector: true
-
+    features:
+      - navigation.instant
     palette:
 
     # Light mode
@@ -52,17 +53,17 @@ markdown_extensions:
       permalink: true
 
 plugins:
-  - awesome-pages
-  - roamlinks
   - i18n:
       default_language: zh
       languages:
         en: English
         zh: 中文
+  - awesome-pages
+  - roamlinks
   - rss:
-      match_path: blog/posts/.* 
+      match_path: /docs/.*
       date_from_meta:
-        as_creation: date
+        as_creation: mtime
       categories:
         - categories
         - tags
