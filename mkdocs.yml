@@ -50,7 +50,6 @@ markdown_extensions:
 
 plugins:
   - awesome-pages
-  - wiki
   - roamlinks
   - i18n:
       default_language: zh
