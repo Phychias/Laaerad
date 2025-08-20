@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/en/概念/拉埃拉德.md",
-                "mode": "source",
-                "source": false,
+                "file": "docs/zh/国家与王朝/图斯克帝国.md",
+                "mode": "preview",
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "拉埃拉德"
+              "title": "图斯克帝国"
             }
           }
         ]
@@ -182,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/en/概念/拉埃拉德.md",
+                "file": "docs/zh/国家与王朝/图斯克帝国.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉埃拉德 的大纲"
+              "title": "图斯克帝国 的大纲"
             }
           },
           {
@@ -240,6 +240,11 @@
   },
   "active": "fb28fbe57031c74b",
   "lastOpenFiles": [
+    "docs/zh/概念/拉埃拉德.md",
+    "docs/zh/国家与王朝/图斯克帝国.md",
+    "图斯克语名字.md",
+    "25-02-10.md",
+    "docs/en/概念/拉埃拉德.md",
     "docs/en/概念/伯帖斯抓护.md",
     "docs/zh/概念/伯帖斯抓护.md",
     "docs/zh/概念/咕洛.md",
@@ -247,12 +252,10 @@
     "docs/en/概念/黑蔑特.md",
     "docs/en/概念/焦利亚.md",
     "docs/en/概念/奎列奥.md",
-    "docs/en/概念/拉埃拉德.md",
     "docs/en/概念/拉普里奥.md",
     "docs/en/概念/马塔肖萨门.md",
     "docs/en/概念/铁苏库.md",
     "docs/en/概念/图斯克.md",
-    "图斯克语名字.md",
     "原始语名字.md",
     "docs/zh/概念/图斯克.md",
     "docs/zh/区域/trusk_district.png",
@@ -261,12 +264,9 @@
     "docs/zh/历史/图斯克年表.md",
     "docs/zh/语言/图斯克/咕洛语.md",
     "docs/en/语言/图斯克/咕洛语.md",
-    "docs/zh/国家与王朝/图斯克帝国.md",
     "docs/zh/概念/黑蔑特.md",
     "docs/zh/概念/铁苏库.md",
     "docs/zh/概念/马塔肖萨门.md",
-    "docs/zh/概念/拉埃拉德.md",
-    "docs/zh/概念/奎列奥.md",
     "docs/zh/文化",
     "docs/zh/人物/莫斯瓦里克",
     "docs/zh/人物/黑蔑特",
