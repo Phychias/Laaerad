@@ -14,9 +14,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/区域/图斯克/诺瓦亚海.md",
+                "file": "docs/en/概念/index.md",
                 "mode": "source",
-                "source": false,
+                "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -29,7 +29,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "诺瓦亚海"
+              "title": "index"
             }
           }
         ]
@@ -240,14 +240,19 @@
   },
   "active": "fb28fbe57031c74b",
   "lastOpenFiles": [
-    "docs/zh/概念/黑蔑特.md",
+    "docs/zh/概念/index.md",
+    "docs/zh/index.md",
+    "docs/zh/国家与王朝/index.md",
+    "docs/en/概念/index.md",
+    "docs/en/概念/图斯克.md",
+    "docs/en/index.md",
     "docs/zh/区域/图斯克/诺瓦亚海.md",
+    "docs/zh/概念/黑蔑特.md",
     "docs/zh/概念/拉普里奥.md",
     "docs/zh/语言/图斯克/黑蔑特方言.md",
     "docs/zh/语言/图斯克/图斯克语.md",
     "docs/zh/语言/拉埃拉德原始语.md",
     "docs/zh/语言/图斯克/咕洛语.md",
-    "docs/zh/index.md",
     "docs/zh/概念/铁苏库.md",
     "docs/zh/概念/图斯克.md",
     "docs/zh/人物/铁苏库/德卓黑一世.md",
@@ -256,16 +261,11 @@
     "docs/en/概念/拉普里奥.md",
     "docs/en/概念/伯帖斯抓护.md",
     "docs/zh/国家与王朝/巴西卜王朝.md",
-    "docs/zh/国家与王朝/index.md",
     "docs/zh/国家与王朝/图斯克帝国.md",
     "docs/zh/概念/拉埃拉德.md",
     "图斯克语名字.md",
     "25-02-10.md",
     "docs/en/概念/拉埃拉德.md",
-    "docs/zh/概念/伯帖斯抓护.md",
-    "docs/zh/概念/咕洛.md",
-    "docs/en/概念/黑蔑特.md",
-    "docs/en/概念/焦利亚.md",
     "docs/zh/区域/trusk_district.png",
     "docs/zh/文化",
     "docs/zh/人物/莫斯瓦里克",
