@@ -3,7 +3,7 @@
   "alwaysUpdateLinks": true,
   "readableLineLength": false,
   "newLinkFormat": "relative",
-  "useMarkdownLinks": false,
+  "useMarkdownLinks": true,
   "attachmentFolderPath": "docs/assets",
   "showLineNumber": true,
   "vimMode": false

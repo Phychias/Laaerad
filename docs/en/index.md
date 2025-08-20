@@ -30,7 +30,7 @@ About the basic setting of this world: [[拉埃拉德|Laaerad]]
 
 Currently more complete language setting: 
 
-Currently more complete country setting: [[拉埃拉德/图斯克|Trusk]]
+Currently more complete country setting: [[docs/en/拉埃拉德/图斯克|Trusk]]
 
 Currently more detailed character setting: 
 
