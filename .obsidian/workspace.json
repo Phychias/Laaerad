@@ -14,8 +14,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/en/概念/index.md",
-                "mode": "source",
+                "file": "docs/en/index.md",
+                "mode": "preview",
                 "source": true,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -240,10 +240,10 @@
   },
   "active": "fb28fbe57031c74b",
   "lastOpenFiles": [
+    "docs/en/概念/index.md",
     "docs/zh/概念/index.md",
     "docs/zh/index.md",
     "docs/zh/国家与王朝/index.md",
-    "docs/en/概念/index.md",
     "docs/en/概念/图斯克.md",
     "docs/en/index.md",
     "docs/zh/区域/图斯克/诺瓦亚海.md",

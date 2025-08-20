@@ -23,9 +23,9 @@ The main content of this blog includes:
 
 Basic settings of this world: [Laaerad](概念/拉埃拉德.md)
 
-Currently a more complete language setting: [Trusk](概念/图斯克.md)
+Currently a more complete language setting: 
 
-Currently a more complete country setting: 
+Currently a more complete country setting: [Trusk](概念/图斯克.md)
 
 Currently a more detailed character setting:
 
@@ -45,3 +45,5 @@ All content collected on this site is the personal creation of Phychias Yichuan 
 © This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlangs that's not created by Phychias is owned by its creator. ©
 
 </footer>
+
+---
