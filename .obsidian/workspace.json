@@ -4,20 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "d62a88c2258219d6",
+        "id": "c0db1179b9c8df82",
         "type": "tabs",
+        "dimension": 63.06228373702422,
         "children": [
           {
-            "id": "88ae32d2ae3cbfb9",
+            "id": "fb28fbe57031c74b",
             "type": "leaf",
             "state": {
-              "type": "bases",
+              "type": "markdown",
               "state": {
-                "file": "docs/zh/索引/王朝.base",
-                "viewName": "表格"
+                "file": "docs/en/概念/拉埃拉德.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "lucide-table",
-              "title": "王朝"
+              "icon": "lucide-file",
+              "title": "拉埃拉德"
+            }
+          }
+        ]
+      },
+      {
+        "id": "ada9ca79dad3130a",
+        "type": "tabs",
+        "dimension": 36.937716262975776,
+        "children": [
+          {
+            "id": "8d903955d89d75ab",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "图斯克语名字.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "图斯克语名字"
             }
           }
         ]
@@ -139,13 +182,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/索引/王朝.base",
+                "file": "docs/en/概念/拉埃拉德.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "王朝 的大纲"
+              "title": "拉埃拉德 的大纲"
             }
           },
           {
@@ -195,45 +238,46 @@
       "copilot:Open Copilot Chat": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "fb28fbe57031c74b",
   "lastOpenFiles": [
-    "docs/zh/索引/王朝.md",
-    "docs/zh/索引/王朝.base",
-    "docs/zh/索引/国家.md",
-    "docs/zh/拉埃拉德/区域/咕洛/米斯特那提拉.md",
-    "docs/zh/拉埃拉德/区域/咕洛/咕洛国.md",
-    "docs/zh/拉埃拉德/区域/咕洛/咕洛传说.md",
-    "docs/zh/语言/拉埃拉德原始语.md",
-    "docs/zh/拉埃拉德/未命名.md",
-    "docs/zh/拉埃拉德/区域/trusk_district.png",
-    "docs/zh/语言/图斯克",
-    "docs/zh/语言",
-    "docs/zh/拉埃拉德/区域/拉普里奥/齐米亚克.md",
-    "docs/zh/拉埃拉德/区域/图斯克王国",
-    "docs/zh/拉埃拉德/区域/图斯克地图.md",
-    "docs/zh/语言/图斯克/图斯克语.md",
-    "docs/zh/拉埃拉德/区域/图斯克.md",
-    "docs/zh/拉埃拉德/区域/图斯克年表.md",
-    "docs/zh/拉埃拉德/区域/图斯克神话.md",
-    "docs/zh/拉埃拉德/图斯克/图斯克/图斯克王国.md",
-    "docs/zh/拉埃拉德/区域/图斯克帝国.md",
-    "docs/zh/拉埃拉德/区域/铁苏库/铁苏库王朝.md",
-    "docs/zh/拉埃拉德/区域/铁苏库/铁苏库.md",
-    "docs/zh/拉埃拉德/图斯克/铁苏库/铁苏库家族.md",
-    "docs/zh/拉埃拉德/图斯克/铁苏库/铁苏库地区.md",
-    "docs/zh/拉埃拉德/区域/拉普里奥/拉普里奥王朝.md",
-    "docs/zh/拉埃拉德/区域/拉普里奥/拉普里奥.md",
-    "docs/zh/拉埃拉德/图斯克/拉普里奥/拉普里奥语.md",
-    "docs/zh/拉埃拉德/图斯克/拉普里奥/拉普里奥王国.md",
-    "docs/zh/拉埃拉德/图斯克/拉普里奥/拉普里奥人.md",
-    "docs/zh/拉埃拉德/图斯克/拉普里奥/拉普里奥海峡.md",
-    "docs/en/拉埃拉德/索引",
-    "docs/en/拉埃拉德/图斯克/黑蔑特/马塔肖萨门",
-    "docs/en/拉埃拉德/图斯克/黑蔑特",
-    "docs/en/拉埃拉德/图斯克/铁苏库",
-    "docs/en/拉埃拉德/图斯克/拉普里奥",
-    "docs/en/拉埃拉德/图斯克/图斯克",
+    "docs/en/概念/伯帖斯抓护.md",
+    "docs/zh/概念/伯帖斯抓护.md",
+    "docs/zh/概念/咕洛.md",
+    "docs/en/概念/咕洛.md",
+    "docs/en/概念/黑蔑特.md",
+    "docs/en/概念/焦利亚.md",
+    "docs/en/概念/奎列奥.md",
+    "docs/en/概念/拉埃拉德.md",
+    "docs/en/概念/拉普里奥.md",
+    "docs/en/概念/马塔肖萨门.md",
+    "docs/en/概念/铁苏库.md",
+    "docs/en/概念/图斯克.md",
+    "图斯克语名字.md",
+    "原始语名字.md",
+    "docs/zh/概念/图斯克.md",
+    "docs/zh/区域/trusk_district.png",
+    "docs/zh/概念/拉普里奥.md",
+    "docs/en/概念/图斯克 copy.md",
+    "docs/zh/历史/图斯克年表.md",
+    "docs/zh/语言/图斯克/咕洛语.md",
+    "docs/en/语言/图斯克/咕洛语.md",
+    "docs/zh/国家与王朝/图斯克帝国.md",
+    "docs/zh/概念/黑蔑特.md",
+    "docs/zh/概念/铁苏库.md",
+    "docs/zh/概念/马塔肖萨门.md",
+    "docs/zh/概念/拉埃拉德.md",
+    "docs/zh/概念/奎列奥.md",
+    "docs/zh/文化",
+    "docs/zh/人物/莫斯瓦里克",
+    "docs/zh/人物/黑蔑特",
+    "docs/zh/国家与王朝",
+    "docs/en/年表",
+    "docs/zh/历史",
+    "docs/en/人物",
+    "docs/en/区域",
+    "docs/en/概念",
     "docs/en/拉埃拉德/图斯克/trusk_eco.png",
+    "docs/zh/概念/未命名",
     "docs/en/拉埃拉德/图斯克/trusk_district.png",
     "site/assets/images/favicon.png",
     "site/zh/拉埃拉德/图斯克/trusk_eco.png",

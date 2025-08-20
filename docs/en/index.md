@@ -1,57 +1,47 @@
-# Home
-<header>
+# Homepage
 
-<!--
-<<< Author notes: Course header >>>
-Include a 1280×640 image, the course title in sentence case, and a concise description in emphasis.
-In your repository settings: enable template repository, add your 1280×640 social image, and auto-delete head branches.
-Add your open source license; GitHub uses the MIT license.
--->
+<header>
 
 </header>
 
-Welcome to Laaerad's wiki, hosted on GitHub for documentation and sharing.
+Welcome to the wiki page for Laaerad. This wiki is hosted on GitHub Pages and is used for documentation and sharing.
 
-## Content
+## Contents
 
-The main contents of this blog are:
+The main content of this blog includes:
 
-1. A brief description of the world encompassed by the Laaerad Project ([[拉埃拉德|Laaerad]])
-
-2. Description of the various languages in this world
-
-3. Description of the various civilizations in this world
+1. A simple description of the world encompassed by the Laaerad project.
+    
+2. A description of the various languages in this world.
+    
+3. A description of the various civilizations in this world.
+    
 
 ---
 
 ## Recommended Reading
 
-About the basic setting of this world: [[拉埃拉德|Laaerad]]
+Basic settings of this world: [Laaerad](概念/拉埃拉德.md)
 
-Currently more complete language setting: 
+Currently a more complete language setting: [Trusk](概念/图斯克.md)
 
-Currently more complete country setting: [[docs/en/拉埃拉德/图斯克|Trusk]]
+Currently a more complete country setting: 
 
-Currently more detailed character setting: 
+Currently a more detailed character setting:
 
-## Notes
+## Records
 
-- In 2024, a group of like-minded friends began creating primitive language of laaerad
-- 2024-2025, Laaerad's worldview is the personal creation of Phychias.
+- In 2024, a group of like-minded friends began creating Proto-Laaerad Languages.
+    
+- From 2024-2025, the Laaerad worldview was created by Yichuan Luo personally.
+    
 
 ---
 
 <footer>
 
-<!--
-<<< Author notes: Footer >>>
-Add a link to get support, GitHub status page, code of conduct, license link.
--->
+All content collected on this site is the personal creation of Phychias Yichuan Luo. For any disputes, please contact me at phychiaslok@gmail.com.
 
-Currently, all content on this site is the personal creation of Phychias Luo Yichuan. If you have any objections, please contact me at phychiaslok@gmail.com.
-
-&copy; This website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the content not created by Phychias are owned by its creator. &copy;
+© This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlangs that's not created by Phychias is owned by its creator. ©
 
 </footer>
-
----

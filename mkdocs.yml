@@ -5,19 +5,15 @@ theme:
   language: zh
   name: 'material'
   features:
-    - navigation
-    # - navigation.tabs     # 可选，导航栏的标签
-    - navigation.expand   # 可选，导航栏的展开
+    - navigation.tops
+    - navigation.tabs     # 可选，导航栏的标签
     - navigation.path
-    - navigation.instant
-    - navigation.instant.preview
-    - navigation.instant.prefetch
-    - navigation.instant.progress
     - navigation.sections
     - navigation.prune
     - navigation.indexes 
     - content.tabs.link   # 可选
   palette:
+  
 
   # Light mode
   - media: "(prefers-color-scheme: light)"
@@ -37,25 +33,17 @@ theme:
       icon: material/toggle-switch
       name: Switch to light mode
 
-# extra:
-#   alternate:
-#     - name: 中文
-#       link: /zh/
-#       lang: zh
-#     - name: English
-#       link: /en/ 
-#       lang: en
 
 
 # Extensions
 markdown_extensions:
   - footnotes
-  # - attr_list
+  - attr_list
   - pymdownx.arithmatex:
       generic: true
-  # - pymdownx.superfences
-  # - pymdownx.details
-  # - pymdownx.magiclink
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
   - def_list
@@ -69,12 +57,17 @@ markdown_extensions:
         - name: mermaid
           class: mermaid
           format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
 
   - toc:
       permalink: true
 
 plugins:
   - search
+  - awesome-pages
+  - roamlinks
   - i18n:
       docs_structure: folder
       default_language: zh
@@ -91,8 +84,16 @@ plugins:
           name: English
           build: true
           site_name: Laaerad Wiki
-  # - awesome-pages
-  - roamlinks
+          nav_translation:
+            - 首页： Homepage
+            - 人物： Characters
+            - 区域： Areas
+            - 年表： Timeline
+            - 文化： Culture
+            - 概念： Concepts
+            - 索引： Index
+            - 语言： Languages
+  # - rss
 
 extra_javascript:
   - javascripts/mathjax.js
