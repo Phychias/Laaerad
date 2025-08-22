@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/语言/图斯克/图斯克语.md",
+                "file": "docs/zh/概念/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "图斯克语"
+              "title": "index"
             }
           }
         ]
@@ -208,8 +208,11 @@
   },
   "active": "1ede118688fe16de",
   "lastOpenFiles": [
-    "docs/zh/语言/图斯克/咕洛语.md",
+    "docs/zh/人物/index.md",
+    "docs/zh/index.md",
+    "docs/en/概念/index.md",
     "docs/zh/语言/图斯克/图斯克语.md",
+    "docs/zh/语言/图斯克/咕洛语.md",
     "docs/zh/语言/图斯克/黑蔑特方言.md",
     "docs/en/概念/奎列奥.md",
     "docs/en/概念/马塔肖萨门.md",
@@ -231,9 +234,6 @@
     "docs/zh/概念/铁苏库.md",
     "图斯克语名字.md",
     "docs/en/index.md",
-    "docs/en/概念/index.md",
-    "docs/zh/概念/index.md",
-    "docs/zh/index.md",
     "docs/zh/区域/trusk_district.png",
     "docs/zh/文化",
     "docs/zh/人物/莫斯瓦里克",

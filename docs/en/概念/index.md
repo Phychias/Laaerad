@@ -3,8 +3,6 @@ tags:
   - concept
   - index
 ---
-
-
 # **Concepts**
 
 The main content under this index consists of important nouns from various Laerad languages without suffixes. It also includes some more fragmented geographical or political concepts under their corresponding nouns.

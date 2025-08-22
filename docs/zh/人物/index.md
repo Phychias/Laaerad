@@ -10,7 +10,7 @@ language: zh
 # <ruby>人物<rt>nwi kome</rt></ruby>
 
 !!! abstract "摘要"
-	这个文档收录了拉埃拉德百科中所有的人物。
+	这个文档收录了拉埃拉德百科中目前提到的著名人物。
 
 ## 目录
 
