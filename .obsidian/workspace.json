@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/概念/咕洛.md",
+                "file": "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "咕洛"
+              "title": "依帕堡垒"
             }
           },
           {
@@ -106,6 +106,16 @@
               "state": {},
               "icon": "lucide-bookmark",
               "title": "书签"
+            }
+          },
+          {
+            "id": "0bf6b2ea0b1d17d1",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
             }
           }
         ]
@@ -233,10 +243,11 @@
   },
   "active": "1ede118688fe16de",
   "lastOpenFiles": [
-    "trusk_eco.md",
-    "docs/zh/概念/咕洛.md",
+    "docs/zh/文学/瓦特苏卡瑟母游记",
     "docs/en/概念/咕洛.md",
-    "docs/zh/文学/瓦特苏卡瑟母游记.md",
+    "docs/zh/概念/咕洛.md",
+    "trusk_eco.md",
+    "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
     "未命名.md",
     "docs/zh/区域/图斯克/图斯克地图.md",
     "Clippings/亿联网络 招聘官网.md",
@@ -259,7 +270,6 @@
     "docs/en/概念/黑蔑特.md",
     "docs/en/概念/图斯克.md",
     "docs/en/概念/铁苏库.md",
-    "docs/en/概念/拉普里奥.md",
     "docs/zh/区域/trusk_district.png",
     "docs/zh/文学",
     "docs/zh/人物/莫斯瓦里克",
