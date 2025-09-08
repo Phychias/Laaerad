@@ -11,24 +11,10 @@
             "id": "1ede118688fe16de",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": false
-                }
-              },
+              "type": "obsidian-leaflet-map-view",
+              "state": {},
               "icon": "lucide-file",
-              "title": "依帕堡垒"
+              "title": "Leaflet 地图"
             }
           },
           {
@@ -54,8 +40,33 @@
               "icon": "lucide-file",
               "title": "原始语名字"
             }
+          },
+          {
+            "id": "f1e516b0ddebcbaa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "依帕堡垒"
+            }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -241,15 +252,16 @@
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false
     }
   },
-  "active": "0a50e498ec6f584e",
+  "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
+    "docs/zh/文学/瓦特苏卡瑟母游记/觉应楼.md",
+    "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
     "docs/en/文学/瓦特苏卡瑟母游记",
     "docs/en/文学",
     "docs/zh/文学/瓦特苏卡瑟母游记",
     "docs/en/概念/咕洛.md",
     "docs/zh/概念/咕洛.md",
     "trusk_eco.md",
-    "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
     "未命名.md",
     "docs/zh/区域/图斯克/图斯克地图.md",
     "Clippings/亿联网络 招聘官网.md",
@@ -279,7 +291,6 @@
     "docs/zh/国家与王朝",
     "docs/en/年表",
     "docs/zh/历史",
-    "docs/en/人物",
     "docs/en/拉埃拉德/图斯克/trusk_eco.png",
     "docs/en/拉埃拉德/图斯克/trusk_district.png",
     "site/assets/images/favicon.png",
