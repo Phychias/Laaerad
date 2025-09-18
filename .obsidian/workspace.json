@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/概念/拉埃拉德.md",
+                "file": "docs/en/概念/拉埃拉德.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -254,6 +254,7 @@
   },
   "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
+    "docs/zh/概念/拉埃拉德.md",
     "docs/assets/laaerad0918_gem.png",
     "docs/zh/国家与王朝/图斯克帝国.md",
     "docs/zh/文学/神话与传说/图斯克神话.md",
@@ -263,7 +264,6 @@
     "docs/zh/语言/图斯克/图斯克语.md",
     "docs/zh/语言/图斯克/咕洛语.md",
     "docs/zh/概念/黑蔑特.md",
-    "docs/zh/概念/拉埃拉德.md",
     "docs/zh/概念/马塔肖萨门.md",
     "docs/zh/概念/拉普里奥.md",
     "docs/zh/概念/铁苏库.md",
@@ -300,7 +300,6 @@
     "site/zh/拉埃拉德/图斯克/trusk_district.png",
     "site/assets/img/trusk_map/生态图例 文字 中文.png",
     "site/assets/img/trusk_map/truskv3eco.png",
-    "site/assets/img/trusk_map/trusk_white_1080p.png",
-    "site/assets/img/trusk_map/trusk_render_white.png"
+    "site/assets/img/trusk_map/trusk_white_1080p.png"
   ]
 }
