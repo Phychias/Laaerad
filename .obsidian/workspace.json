@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/文学/神话与传说/图斯克神话.md",
+                "file": "docs/zh/概念/拉埃拉德.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "图斯克神话"
+              "title": "拉埃拉德"
             }
           }
         ],
@@ -254,9 +254,11 @@
   },
   "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
+    "docs/assets/laaerad0918_gem.png",
+    "docs/zh/国家与王朝/图斯克帝国.md",
+    "docs/zh/文学/神话与传说/图斯克神话.md",
     "docs/zh/文学/神话与传说/咕洛传说.md",
     "docs/zh/国家与王朝/莫斯瓦里克王朝.md",
-    "docs/zh/文学/神话与传说/图斯克神话.md",
     "docs/zh/概念/图斯克.md",
     "docs/zh/语言/图斯克/图斯克语.md",
     "docs/zh/语言/图斯克/咕洛语.md",
@@ -283,8 +285,6 @@
     "拉埃拉德/咕洛/语言/例文/星环.md",
     "拉埃拉德/咕洛/语言/咕洛语.mediawiki",
     "拉埃拉德/咕洛/语言/例文",
-    "拉埃拉德/图斯克/Typology.md",
-    "拉埃拉德/图斯克/PNeu S3 R2.md",
     "拉埃拉德/咕洛/语言",
     "拉埃拉德/咕洛/咕洛神话草稿.txt",
     "拉埃拉德/图斯克",
