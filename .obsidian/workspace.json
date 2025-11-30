@@ -217,10 +217,12 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "1020067e962cbdeb",
+  "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
-    "docs/zh/文学/神话与传说/图斯克神话.md",
+    "docs/zh/文学/瓦特苏卡瑟母游记/觉应楼.md",
+    "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
     "docs/zh/语言/图斯克/图斯克语.md",
+    "docs/zh/文学/神话与传说/图斯克神话.md",
     "docs/zh/概念/焦利亚.md",
     "docs/zh/语言/拉埃拉德原始语.md",
     "docs/zh/语言/图斯克/黑蔑特方言.md",
@@ -231,8 +233,6 @@
     "copilot/memory",
     "copilot",
     "docs/zh/文学/神话与传说/咕洛传说.md",
-    "docs/zh/文学/瓦特苏卡瑟母游记/觉应楼.md",
-    "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
     "docs/zh/概念/黑蔑特.md",
     "docs/assets/img/trusk_map/trusk_render_white.png",
     "copilot-custom-prompts/Make longer.md",
