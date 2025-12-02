@@ -52,5 +52,14 @@
       ],
       "key": "1"
     }
+  ],
+  "number-headings-obsidian:number-headings": [
+    {
+      "modifiers": [
+        "Alt",
+        "Shift"
+      ],
+      "key": "N"
+    }
   ]
 }
