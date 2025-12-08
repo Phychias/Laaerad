@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/语言/诺瓦亚北陆语.md",
+                "file": "docs/zh/文学/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "诺瓦亚北陆语"
+              "title": "index"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/语言/诺瓦亚北陆语.md",
+                "file": "docs/zh/文学/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "诺瓦亚北陆语 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -219,6 +219,8 @@
   },
   "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
+    "docs/zh/index.md",
+    "docs/zh/语言/诺瓦亚北陆语.md",
     "docs/zh/语言/图斯克/咕洛语.md",
     "docs/zh/语言/图斯克/图斯克语.md",
     "图斯克地区常用姓名考.md",
@@ -237,7 +239,6 @@
     "docs/zh/文学/瓦特苏卡瑟母游记/觉应楼.md",
     "docs/zh/语言/图斯克/黑蔑特方言.md",
     "docs/zh/语言/拉埃拉德原始语.md",
-    "docs/zh/语言/诺瓦亚北陆语.md",
     "Clippings/Multi-Agent Reinforcement Learning (MARL) — Tianshou Documentation.md",
     "拉普里奥语.md",
     "docs/zh/概念/拉埃拉德.md",
@@ -249,7 +250,6 @@
     "copilot",
     "docs/zh/概念/黑蔑特.md",
     "docs/assets/img/trusk_map/trusk_render_white.png",
-    "copilot-custom-prompts/Make longer.md",
     "docs/assets/img/trusk_map/region_text_ZH.png",
     "docs/assets/img/trusk_map/geo_text_ZH.png",
     "docs/assets/img/trusk_map/region.png",
