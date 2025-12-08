@@ -1,4 +1,6 @@
 {
-  "textFontFamily": "明兰_Mono",
-  "theme": "system"
+  "textFontFamily": "一点明体,Times New Roman",
+  "theme": "system",
+  "cssTheme": "ITS Theme",
+  "interfaceFontFamily": "一点明体"
 }
