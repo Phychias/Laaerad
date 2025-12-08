@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/文学/index.md",
+                "file": "docs/zh/语言/诺瓦亚北陆语.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "诺瓦亚北陆语"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/文学/index.md",
+                "file": "docs/zh/语言/诺瓦亚北陆语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "诺瓦亚北陆语 的大纲"
             }
           },
           {
@@ -219,12 +219,17 @@
   },
   "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
-    "docs/zh/文学/瓦特苏卡瑟母游记/Index.md",
-    "docs/zh/文学/index.md",
-    "docs/zh/文学/神话与传说/图斯克神话.md",
-    "docs/zh/文学/神话与传说/咕洛传说.md",
-    "docs/zh/人物/铁苏库/德卓黑一世.md",
+    "docs/zh/语言/图斯克/咕洛语.md",
     "docs/zh/语言/图斯克/图斯克语.md",
+    "图斯克地区常用姓名考.md",
+    "原始语名字.md",
+    "拉埃拉德/咕洛/语言/例文/北风与太阳咕洛语.md",
+    "拉埃拉德/咕洛/咕洛神话草稿.md",
+    "docs/zh/文学/神话与传说/咕洛传说.md",
+    "docs/zh/文学/index.md",
+    "docs/zh/文学/瓦特苏卡瑟母游记/Index.md",
+    "docs/zh/文学/神话与传说/图斯克神话.md",
+    "docs/zh/人物/铁苏库/德卓黑一世.md",
     "拉埃拉德/咕洛/咕洛传说拉普里奥语.md",
     "王朝.base",
     "未命名.base",
@@ -235,7 +240,6 @@
     "docs/zh/语言/诺瓦亚北陆语.md",
     "Clippings/Multi-Agent Reinforcement Learning (MARL) — Tianshou Documentation.md",
     "拉普里奥语.md",
-    "docs/zh/语言/图斯克/咕洛语.md",
     "docs/zh/概念/拉埃拉德.md",
     "docs/zh/概念/焦利亚.md",
     "docs/zh/国家与王朝/图斯克帝国.md",
@@ -246,7 +250,6 @@
     "docs/zh/概念/黑蔑特.md",
     "docs/assets/img/trusk_map/trusk_render_white.png",
     "copilot-custom-prompts/Make longer.md",
-    "docs/zh/历史/图斯克年表.md",
     "docs/assets/img/trusk_map/region_text_ZH.png",
     "docs/assets/img/trusk_map/geo_text_ZH.png",
     "docs/assets/img/trusk_map/region.png",
@@ -254,9 +257,6 @@
     "docs/assets/img/trusk_map/生态图例 文字 中文.png",
     "docs/assets/laaerad0918_gem.png",
     "docs/assets/adjustment_s3.png",
-    "原始语名字.md",
-    "图斯克语名字.md",
-    "docs/zh/国家与王朝/拉普里奥王朝.md",
     "docs/zh/文学/神话与传说",
     "拉埃拉德/拉埃拉德.canvas",
     "拉埃拉德/世界/拉埃拉德.canvas",
