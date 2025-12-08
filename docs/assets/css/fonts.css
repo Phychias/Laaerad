@@ -1,0 +1,10 @@
+
+@font-face {
+    font-family: 'IMingTi';
+    src: url('../fonts/I.明体.woff') format('woff');
+    font-display: swap;
+}
+
+body {
+    font-family: 'IMingTi', serif !important;
+}

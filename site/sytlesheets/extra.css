@@ -28,3 +28,13 @@ z-index: 10;         /* 高于地图但低于 MKDocs UI */
 .leaflet-popup {
 z-index: 1000;        /* 保证弹窗在控件上方，可点击、可见 */
 }
+
+@font-face {
+    font-family: 'IMingTi';
+    src: url('../fonts/I.明体.woff') format('woff');
+    font-display: swap;
+}
+
+body {
+    font-family: 'IMingTi', serif !important;
+}

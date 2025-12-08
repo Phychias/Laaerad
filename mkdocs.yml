@@ -106,3 +106,4 @@ extra_javascript:
 extra_css:
   - https://unpkg.com/leaflet/dist/leaflet.css
   - stylesheets/extra.css
+  - assets/css/fonts.css
