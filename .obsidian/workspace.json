@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/语言/图斯克/图斯克语.md",
+                "file": "docs/zh/文学/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "图斯克语"
+              "title": "index"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/语言/图斯克/图斯克语.md",
+                "file": "docs/zh/文学/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图斯克语 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -219,23 +219,30 @@
   },
   "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
-    "拉普里奥语.md",
-    "docs/zh/语言/拉埃拉德原始语.md",
+    "docs/zh/文学/瓦特苏卡瑟母游记/Index.md",
+    "docs/zh/文学/index.md",
+    "docs/zh/文学/神话与传说/图斯克神话.md",
+    "docs/zh/文学/神话与传说/咕洛传说.md",
+    "docs/zh/人物/铁苏库/德卓黑一世.md",
     "docs/zh/语言/图斯克/图斯克语.md",
-    "docs/zh/语言/图斯克/黑蔑特方言.md",
-    "docs/zh/语言/诺瓦亚北陆语.md",
-    "docs/zh/语言/图斯克/咕洛语.md",
-    "docs/zh/概念/拉埃拉德.md",
+    "拉埃拉德/咕洛/咕洛传说拉普里奥语.md",
+    "王朝.base",
+    "未命名.base",
     "docs/zh/文学/瓦特苏卡瑟母游记/依帕堡垒.md",
     "docs/zh/文学/瓦特苏卡瑟母游记/觉应楼.md",
-    "docs/zh/文学/神话与传说/图斯克神话.md",
+    "docs/zh/语言/图斯克/黑蔑特方言.md",
+    "docs/zh/语言/拉埃拉德原始语.md",
+    "docs/zh/语言/诺瓦亚北陆语.md",
+    "Clippings/Multi-Agent Reinforcement Learning (MARL) — Tianshou Documentation.md",
+    "拉普里奥语.md",
+    "docs/zh/语言/图斯克/咕洛语.md",
+    "docs/zh/概念/拉埃拉德.md",
     "docs/zh/概念/焦利亚.md",
     "docs/zh/国家与王朝/图斯克帝国.md",
     "docs/zh/概念/图斯克.md",
     "copilot/memory/Recent Conversations.md",
     "copilot/memory",
     "copilot",
-    "docs/zh/文学/神话与传说/咕洛传说.md",
     "docs/zh/概念/黑蔑特.md",
     "docs/assets/img/trusk_map/trusk_render_white.png",
     "copilot-custom-prompts/Make longer.md",
@@ -249,13 +256,7 @@
     "docs/assets/adjustment_s3.png",
     "原始语名字.md",
     "图斯克语名字.md",
-    "docs/zh/文学/瓦特苏卡瑟母游记/Index.md",
-    "未命名.base",
     "docs/zh/国家与王朝/拉普里奥王朝.md",
-    "docs/zh/人物/铁苏库/德卓黑一世.md",
-    "docs/zh/概念/哈希特.md",
-    "docs/zh/国家与王朝/莫斯瓦里克王朝.md",
-    "docs/zh/国家与王朝/黑蔑特王朝.md",
     "docs/zh/文学/神话与传说",
     "拉埃拉德/拉埃拉德.canvas",
     "拉埃拉德/世界/拉埃拉德.canvas",
@@ -264,7 +265,6 @@
     "拉埃拉德/咕洛/语言",
     "拉埃拉德/咕洛/咕洛神话草稿.txt",
     "拉埃拉德/图斯克",
-    "拉埃拉德/咕洛",
     "docs/zh/区域/trusk_district.png",
     "docs/en/拉埃拉德/图斯克/trusk_eco.png"
   ]
