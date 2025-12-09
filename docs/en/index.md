@@ -21,7 +21,7 @@ The main content of this blog includes:
 
 ## Recommended Reading
 
-Basic settings of this world: [Laaerad](概念/拉埃拉德.md)
+Basic settings of this world: [Laaerad](docs/en/概念/拉埃拉德.md)
 
 Currently a more complete language setting: 
 

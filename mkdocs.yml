@@ -28,7 +28,7 @@ theme:
   - media: "(prefers-color-scheme: dark)"
     scheme: slate
     primary: grey
-    accent: blue
+    accent: red
     toggle:
       icon: material/toggle-switch
       name: Switch to light mode

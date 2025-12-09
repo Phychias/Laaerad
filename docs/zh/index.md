@@ -1,61 +1,75 @@
-# 首页
-<header>
+---
+layout: home
+title: 首页
+hero:
+  name: 诺瓦亚北陆全书
+  text: 一部关于图斯克帝国与诺瓦亚文明的编年史
+  tagline: 在古督卡山脉的阴影下，诸王兴起又陨落，唯有石刻铭记永恒。
+  actions:
+    - theme: brand
+      text: 📖 开始阅读
+      link: /guide/getting-started
+    - theme: alt
+      text: 🗺️ 查看地图
+      link: /geography/trusk-map
+---
+![](laaerad0918_gem.png)
+## 🌏 关于拉埃拉德
 
-<!--
-<<< Author notes: Course header >>>
-Include a 1280×640 image, course title in sentence case, and a concise description in emphasis.
-In your repository settings: enable template repository, add your 1280×640 social image, auto delete head branches.
-Add your open source license, GitHub uses MIT license.
--->
+欢迎来到拉埃拉德的架空世界。这是一个基于现实历史逻辑构建的世界，重点聚焦于文明的演变、语言的流变以及王朝的兴衰。
 
-
-</header>
-
-欢迎来到拉埃拉德的维基页面，面前该维基被托管在github页面上，用以记录并分享。
-
-## 内容
-
-当前博客的主要内容有：
-
-1. 对laaerad企划所囊括世界的简单描述
-
-2. 对这个世界各种语言的描述
-
-3. 对这个世界各个文明的描述
+在这里，你可以见证：
+* [图斯克帝国](图斯克帝国.md)如何从部落，一步步走向统治北陆的庞然大物。
+* [拉普里奥](docs/zh/地理与区域/拉普里奥/index.md) 与[咕洛诸部](咕洛诸部.md)如何塑造了截然不同的文化。
+* 古老的[拉埃拉德原始语](拉埃拉德原始语.md)如何分化，最终形成如今的[图斯克语](图斯克语.md)、[咕洛语](docs/zh/语言/图斯克/咕洛语.md)。
 
 ---
 
-## 推荐阅读
+## 🧭 探索指南 (Explore)
 
-| 类别          | 链接                                       |
-| ----------- | ---------------------------------------- |
-| 关于本世界的基础设定  | [拉埃拉德](概念/拉埃拉德.md)                       |
-| 目前比较完善的语言设定 | [图斯克语](语言/图斯克/图斯克语.md)                   |
-| 目前比较完善的国家设定 | [图斯克](概念/图斯克.md)、[图斯克帝国](国家与王朝/图斯克帝国.md) |
-| 目前比较详细的人物设定 | [德卓黑一世](人物/铁苏库/德卓黑一世.md)                 |
-| 各个主题的索引     | [概念](概念/index.md)、[国家与王朝](国家与王朝/index.md)、[人物](人物/index.md) |
+如果你是第一次来到这里，建议按以下顺序开启旅程：
 
-## 记录
+### 🏛️ 核心王朝 (The Dynasties)
+帝国的历史由这三大王朝书写，点击了解详情：
 
-- 2024年一群志同道合的朋友开启了[[语言/拉埃拉德原始语|Laaerad原始语]]的创作。
-- 2024-2025年，拉埃拉德的世界观由骆以川个人创作
+| [黑蔑特王朝](黑蔑特王朝.md)   | [铁苏库王朝](铁苏库王朝.md) | [莫斯瓦里克王朝](莫斯瓦里克王朝.md) |
+| :------------------ | :---------------- | :-------------------- |
+| **关键词**：建筑、繁荣、马塔肖萨门 | **关键词**：征服、法典、德卓黑 | **关键词**：改革、内战、图录亥刻    |
+| *帝国的雏形和起源*          | *帝国的奠基者，铁与血的时代*   | *承上启下的动荡与重塑时期*        |
+
+### 🗺️ 地理与风土 (Geography)
+[黑蔑特地区](docs/zh/地理与区域/图斯克/黑蔑特/index.md)：[图斯克帝国](图斯克帝国.md)的权力中心。
+- [哈希特城](哈希特城.md)：帝国的首都
+* [马塔肖萨门大道](docs/zh/地理与区域/图斯克/黑蔑特/马塔肖萨门大道.md)：连接帝国东西的动脉。
+
+### 📜 沉浸式阅读 (Lore & Stories)
+不想看枯燥的设定？试试通过书中人物的视角观察世界：
+* 📖 [瓦特苏卡瑟母游记](瓦特苏卡瑟母游记.md)：跟随旅行者的脚步，探索依帕堡垒与觉应楼的秘密。
+* 🗣️ [咕洛传说](咕洛传说.md)：聆听游牧部族的古老神话。
 
 ---
 
+## 📅 最新更新 (Latest Updates)
+
+* [黑蔑特王朝](黑蔑特王朝.md)：新增了关于晚期宫廷政变的细节。
+* [图斯克地区常用姓名考](图斯克地区常用姓名考.md)：补充了平民与贵族姓氏的后缀规则。
+* [图斯克年表](图斯克年表.md)：修正了第一纪元中期的年代错误。
+
+---
+
+<div align="center">
+  <small>构建于 2025年 | 拉埃拉德维基计划</small>
+  
+</div>
+---
 <footer>
-
-<!--
-<<< Author notes: Footer >>>
-Add a link to get support, GitHub status page, code of conduct, license link.
--->
-
-
-目前本站所收录的所有内容均为Phychias骆以川本人个人创作，如有异议请联系本人邮箱phychiaslok@gmail.com
-
-&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlans that's not created by Phychias is owned by its creator. &copy;
-
+<small>
+目前本站所收录的所有内容均为Phychias骆以川本人个人创作
+</small>
 
 </footer>
-
-
----
+<footer>
+<small>
+&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. 
+</small>
+</footer>
