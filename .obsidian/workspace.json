@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/地理与区域/拉埃拉德.md",
+                "file": "docs/zh/历史/图斯克/图斯克帝国史.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "拉埃拉德"
+              "title": "图斯克帝国史"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/地理与区域/拉埃拉德.md",
+                "file": "docs/zh/历史/图斯克/图斯克帝国史.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉埃拉德 的大纲"
+              "title": "图斯克帝国史 的大纲"
             }
           },
           {
@@ -219,40 +219,40 @@
   },
   "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
+    "docs/zh/地理与区域/图斯克/黑蔑特/index.md",
+    "docs/zh/概念/index.md",
+    "docs/zh/人物/铁苏库/index.md",
+    "docs/zh/国家与王朝/图斯克帝国/index.md",
+    "docs/zh/语言/图斯克/图斯克语.md",
+    "docs/zh/国家与王朝/图斯克帝国/铁苏库王朝.md",
+    "docs/zh/地理与区域/图斯克/黑蔑特/马塔肖萨门大道.md",
+    "docs/zh/人物/黑蔑特/马塔肖萨门.md",
+    "docs/zh/人物/铁苏库/德卓黑一世.md",
+    "docs/zh/概念/黑蔑特.md",
+    "docs/zh/地理与区域/拉埃拉德.md",
     "docs/zh/地理与区域/图斯克/index.md",
     "docs/zh/地理与区域/拉普里奥/index.md",
     "docs/zh/地理与区域/拉普里奥/拉普里奥.md",
-    "docs/zh/概念/index.md",
     "docs/zh/地理与区域/图斯克/俺东.md",
     "copilot-custom-prompts/维基化.md",
     "docs/zh/文学/index.md",
     "docs/zh/地理与区域/图斯克/图斯克地图.md",
     "docs/zh/概念/图斯克.md",
-    "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/地理与区域/图斯克/诺瓦亚海.md",
     "docs/zh/国家与王朝/index.md",
     "docs/zh/国家与王朝/图斯克帝国/焦利亚.md",
-    "docs/zh/人物/铁苏库/德卓黑一世.md",
     "docs/zh/历史/图斯克/图斯克帝国史.md",
     "docs/zh/历史/图斯克",
     "docs/zh/历史/图斯克帝国史.md",
-    "docs/zh/国家与王朝/图斯克帝国/铁苏库王朝.md",
-    "docs/zh/人物/铁苏库/index.md",
     "docs/zh/文学/神话与传说/咕洛传说.md",
     "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
     "docs/assets/img/trusk_district.png",
-    "docs/zh/地理与区域/拉埃拉德.md",
-    "docs/zh/人物/黑蔑特/马塔肖萨门.md",
-    "01_地理与区域/黑蔑特地区/马塔肖萨门大道.md",
-    "docs/zh/国家与王朝/图斯克帝国/奎列奥王朝.md",
-    "docs/zh/地理与区域/图斯克/黑蔑特/哈希特城.md",
     "docs/assets/img/trusk_eco.png",
     "docs/assets/img/laaerad0918_gem.png",
     "docs/assets/img/adjustment_s3.png",
     "docs/zh/人物/伯帖斯抓护",
     "01_地理与区域/黑蔑特地区",
     "01_地理与区域",
-    "docs/zh/人物/黑蔑特/index.md",
     "docs/zh/地理与区域/trusk_eco.png",
     "docs/zh/地理与区域/trusk_district.png",
     "docs/zh/地理与区域/ZherirTruskal.tex",
