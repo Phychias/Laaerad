@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
+                "file": "docs/zh/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
+                "file": "docs/zh/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,6 +219,7 @@
   },
   "active": "b8ba771f45c4a739",
   "lastOpenFiles": [
+    "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/历史/图斯克/图斯克帝国史.md",
     "docs/zh/人物/铁苏库/index.md",
     "docs/zh/人物/铁苏库/德卓黑一世.md",
@@ -228,7 +229,6 @@
     "docs/zh/语言/图斯克/图斯克语.md",
     "docs/zh/语言/index.md",
     "docs/zh/index.md",
-    "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/国家与王朝/index.md",
     "docs/zh/地理与区域/图斯克/黑蔑特/哈希特城.md",
     "docs/assets/img/trusk_district.png",
