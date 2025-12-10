@@ -1,6 +1,7 @@
 {
   "textFontFamily": "一点明体,Times New Roman",
-  "theme": "system",
-  "cssTheme": "Sanctum",
-  "interfaceFontFamily": "一点明体"
+  "theme": "obsidian",
+  "cssTheme": "ITS Theme",
+  "interfaceFontFamily": "一点明体",
+  "accentColor": ""
 }

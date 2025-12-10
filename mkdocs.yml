@@ -13,25 +13,20 @@ theme:
     - navigation.indexes 
     - content.tabs.link   # 可选
   palette:
-  
-
-  # Light mode
-  - media: "(prefers-color-scheme: light)"
-    scheme: default
-    primary: grey
-    accent: indigo
-    toggle:
-      icon: material/toggle-switch-off-outline
-      name: Switch to dark mode
-
-  # Dark mode
-  - media: "(prefers-color-scheme: dark)"
-    scheme: slate
-    primary: grey
-    accent: red
-    toggle:
-      icon: material/toggle-switch
-      name: Switch to light mode
+    # 切换到日间模式
+    - scheme: default
+      primary: custom # 让 CSS 接管
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # 切换到夜间模式
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
 
 
 
@@ -107,4 +102,5 @@ extra_css:
   - https://unpkg.com/leaflet/dist/leaflet.css
   - stylesheets/extra.css
   - assets/css/fonts.css
-  - assets/css/ITSTheme/theme.css
+  - assets/css/float.css
+  
