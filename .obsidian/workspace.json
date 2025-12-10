@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/index.md",
+                "file": "docs/zh/历史/图斯克/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/index.md",
+                "file": "docs/zh/历史/图斯克/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,9 +219,9 @@
   },
   "active": "f1e516b0ddebcbaa",
   "lastOpenFiles": [
-    "docs/zh/历史/图斯克/图斯克年表.md",
-    "docs/zh/index.md",
     "docs/zh/历史/图斯克/图斯克帝国史.md",
+    "docs/zh/index.md",
+    "docs/zh/历史/图斯克/index.md",
     "docs/zh/地理与区域/图斯克/黑蔑特/index.md",
     "docs/zh/概念/index.md",
     "docs/zh/人物/铁苏库/index.md",

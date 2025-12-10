@@ -28,3 +28,13 @@ z-index: 10;         /* 高于地图但低于 MKDocs UI */
 .leaflet-popup {
 z-index: 1000;        /* 保证弹窗在控件上方，可点击、可见 */
 }
+
+/* 针对暗色模式 (slate) 的特定覆盖 */
+[data-md-color-scheme="slate"] {
+  /* 在暗色模式下，主色调可能需要浅一点或去饱和 */
+  --md-primary-fg-color:        #857ad7; 
+  
+
+  /* 代码块背景色 (如果你不喜欢默认的黑色) */
+  --md-code-bg-color:           #1e1e1e;
+}
