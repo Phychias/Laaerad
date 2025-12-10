@@ -13,9 +13,9 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/人物/铁苏库/德卓黑一世.md",
+                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
                 "mode": "source",
-                "source": true,
+                "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
                   "collapseAll": false,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "德卓黑一世"
+              "title": "index"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/人物/铁苏库/德卓黑一世.md",
+                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "德卓黑一世 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -219,11 +219,17 @@
   },
   "active": "b8ba771f45c4a739",
   "lastOpenFiles": [
+    "docs/zh/历史/图斯克/图斯克帝国史.md",
     "docs/zh/人物/铁苏库/index.md",
+    "docs/zh/人物/铁苏库/德卓黑一世.md",
+    "docs/zh/人物/铁苏库/德卓黑三世.md",
+    "docs/zh/人物/莫斯瓦里克/图录亥刻.md",
+    "docs/zh/人物/莫斯瓦里克/index.md",
+    "docs/zh/语言/图斯克/图斯克语.md",
+    "docs/zh/语言/index.md",
+    "docs/zh/index.md",
     "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/国家与王朝/index.md",
-    "docs/zh/人物/铁苏库/德卓黑一世.md",
-    "docs/zh/历史/图斯克/图斯克帝国史.md",
     "docs/zh/地理与区域/图斯克/黑蔑特/哈希特城.md",
     "docs/assets/img/trusk_district.png",
     "docs/zh/历史/图斯克/index.md",
@@ -237,15 +243,9 @@
     "docs/zh/国家与王朝/图斯克帝国/铁苏库王朝.md",
     "docs/zh/文学/index.md",
     "docs/zh/文学/神话与传说/咕洛传说.md",
-    "docs/zh/语言/index.md",
     "docs/zh/语言/原始东北拉埃拉德语.md",
     "docs/zh/语言/拉埃拉德原始语.md",
     "docs/zh/语言/图斯克/古拉普里奥语.md",
-    "docs/zh/index.md",
-    "docs/zh/地理与区域/图斯克/黑蔑特/index.md",
-    "docs/zh/国家与王朝/图斯克帝国/焦利亚王朝.md",
-    "docs/zh/地理与区域/拉埃拉德.md",
-    "docs/zh/语言/图斯克/图斯克语.md",
     "docs/assets/css/float.css",
     "docs/zh/历史/图斯克",
     "docs/assets/img/trusk_eco.png",

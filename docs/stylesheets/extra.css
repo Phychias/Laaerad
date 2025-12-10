@@ -1,188 +1,128 @@
-/* 调整标题颜色 */
-h2 {
-    color: #8B0000; /* 深红色 */
-}
-
-h3 {
-    color: #B22222; /* 较深的红色 */
-}
-
-h4 {
-    color: #FF6347; /* 浅红色 */
-}
-
-  /* 地图容器 */
-#map {
-position: relative;   /* 必须有 position 才能使用 z-index */
-z-index: 0;           /* 最低层，保证不会覆盖 MKDocs UI */
-width: 100%;          /* 根据页面宽度自适应 */
-height: 600px;        /* 可根据需要调整高度 */
-}
-
-/* Leaflet 控件层级（缩放按钮、图层切换等） */
-.leaflet-control {
-z-index: 10;         /* 高于地图但低于 MKDocs UI */
-}
-
-/* 弹窗层级 */
-.leaflet-popup {
-z-index: 1000;        /* 保证弹窗在控件上方，可点击、可见 */
-}
-
-/* 针对暗色模式 (slate) 的特定覆盖 */
 /* ==========================================================================
-   ITS Theme Port for MkDocs Material
-   Based on: ITS Theme by SlRvb
+   方案 A (修正版): 现代地理极客风 (Tech Blue & Slate)
+   彻底修复顶栏紫色问题，统一视觉风格
    ========================================================================== */
 
-:root {
-  /* 基础圆角设置 (ITS 比较方正，圆角较小) */
-  --md-admonition-radius: 4px;
-  --md-code-radius: 4px;
+/* 1. 强制覆盖 H2-H4 颜色，让它们跟随主题变量，不再手动指定红色 */
+h2, h3, h4 { 
+    color: var(--md-typeset-h1-color) !important; 
 }
 
-/* -------------------------------------------------------------------------
-   ☀️ 日间模式 (Light Mode - Based on .theme-light.its)
-   ------------------------------------------------------------------------- */
+/* 2. 基础变量设置 */
+:root {
+  --md-admonition-radius: 8px; /* 圆角稍微大一点，更现代 */
+  --md-code-radius: 6px;
+}
+
+/* ==========================================================================
+   ☀️ 日间模式 (Light Mode)
+   ========================================================================== */
 [data-md-color-scheme="default"] {
   /* --- 基础背景与文字 --- */
-  /* --note: #f8fbff; */
-  --md-default-bg-color:        #e2efff; 
-  /* --outer-bar: #eef3fd; */
-  --md-default-bg-color--alt:   #eef3fd; /* 侧边栏背景 */
-  /* --text: #30353a; */
-  --md-default-fg-color:        #111214;
-  /* --soft-text: #697580; */
-  --md-default-fg-color--light: #697580;
+  --md-default-bg-color:        #ffffff; /* 纯白背景 */
+  --md-default-bg-color--alt:   #f8fafc; /* 侧边栏：极淡的蓝灰 */
+  
+  --md-default-fg-color:        #334155; /* 正文：石板灰 (Slate 700)，久看不累 */
+  --md-default-fg-color--light: #64748b; /* 浅色文字 */
 
-  /* --- 主色调与强调色 --- */
-  /* --headers: #c14343 (红色系) */
-  --md-primary-fg-color:        #eef3fd; /* 顶部导航栏背景 (使用浅色) */
-  --md-primary-fg-color--dark:  #c14343; /* 顶部导航栏文字颜色修正 */
+  /* --- 关键：主色调 (顶栏背景) --- */
+  /* 定义变量为深蓝灰 */
+  --md-primary-fg-color:        #0f172a; 
+  --md-primary-fg-color--dark:  #020617; 
   
-  /* 链接基础颜色 (ITS Light: #5599d0) */
-  --md-typeset-a-color:         #930000;
-  
-  /* 链接悬停颜色 (ITS Light Accent: #912e2e) */
-  /* 当鼠标悬停时，链接变红，这是 ITS 的经典交互特征 */
-  --md-accent-fg-color:         #dbb8b8;
+  /* --- 链接颜色 --- */
+  --md-typeset-a-color:         #2563eb; /* 标准科技蓝 */
+  --md-accent-fg-color:         #3b82f6; /* 悬停高亮色 */
+
+  /* --- 标题颜色 (深邃的蓝黑色，不再是红色) --- */
+  --md-typeset-h1-color:        #0f172a;
+  --md-typeset-h2-color:        #1e293b;
+  --md-typeset-h3-color:        #334155;
+  --md-typeset-h4-color:        #475569;
 
   /* --- 代码块 --- */
-  /* --code-bg: var(--embed-bg) -> #f1f5ff */
-  --md-code-bg-color:           #f1f5ff;
-  --md-code-fg-color:           #ea4262; /* --code-text */
-
-  /* --- 标题颜色 --- */
-  --md-typeset-h1-color:        #c14343; /* --headers */
-  --md-typeset-h2-color:        #c14343;
-  --md-typeset-h3-color:        #c14343;
-  --md-typeset-h4-color:        #c14343;
+  --md-code-bg-color:           #f1f5f9; /* 浅灰蓝背景 */
+  --md-code-fg-color:           #0f172a;
 }
 
-/* 修正日间模式顶部导航栏文字颜色 (因为背景很浅) */
+/* ⚠️ 强制修复：日间模式顶栏背景 */
 [data-md-color-scheme="default"] .md-header {
-  color: #30353a;
+  background-color: #0f172a !important; /* 强制使用深蓝灰，覆盖默认紫色 */
+  color: #ffffff !important;            /* 强制文字白色 */
 }
-[data-md-color-scheme="default"] .md-tabs {
-  background-color: #eef3fd;
-  color: #697580;
-}
-
-/* -------------------------------------------------------------------------
-   🌙 夜间模式 (Dark Mode - Based on .theme-dark.its)
-   ------------------------------------------------------------------------- */
-[data-md-color-scheme="slate"] {
-  /* --- 基础背景与文字 --- */
-  /* --note: #1a1e24; */
-  --md-default-bg-color:        #1a1e24;
-  /* --outer-bar: #0b0f13; (用于侧边栏) */
-  --md-default-bg-color--alt:   #0b0f13;
-  /* --text: #bccad8; */
-  --md-default-fg-color:        #bccad8;
-  /* --soft-text: #97a1b9; */
-  --md-default-fg-color--light: #97a1b9;
-
-  /* --- 主色调与强调色 --- */
-  /* ITS Dark 的 Header 也是红色系 #c14343，但侧边栏很黑 */
-  --md-primary-fg-color:        #0b0f13; /* 顶部导航栏使用深黑 */
-  
- /* 链接基础颜色 (ITS Light: #5599d0) */
-  --md-typeset-a-color:         #960000;
-  
-  /* 链接悬停颜色 (ITS Light Accent: #912e2e) */
-  /* 当鼠标悬停时，链接变红，这是 ITS 的经典交互特征 */
-  --md-accent-fg-color:         #912e2e;
-
-  /* --- 代码块 --- */
-  /* --code-bg: #232831; */
-  --md-code-bg-color:           #232831;
-  /* --code-text: #fa4545; */
-  --md-code-fg-color:           #fa4545;
-
-  /* --- 标题颜色 --- */
-  /* --headers: #c14343; */
-  --md-typeset-h1-color:        #c14343;
-  --md-typeset-h2-color:        #c14343;
-  --md-typeset-h3-color:        #c14343;
-  --md-typeset-h4-color:        #c14343;
-  
-  /* 分割线 --hr: #2f3b4d */
-  --md-typeset-hr-color:        #2f3b4d;
+/* 修复顶栏搜索框背景 */
+[data-md-color-scheme="default"] .md-header .md-search__input {
+    background-color: rgba(255,255,255,0.15);
 }
 
 /* ==========================================================================
-   ITS 特色样式微调 (移植 ITS 的视觉风格)
+   🌙 夜间模式 (Dark Mode)
+   ========================================================================== */
+[data-md-color-scheme="slate"] {
+  /* --- 基础背景 --- */
+  --md-default-bg-color:        #0f172a; /* 深海蓝灰，比纯黑更有质感 */
+  --md-default-bg-color--alt:   #1e293b;
+  
+  --md-default-fg-color:        #e2e8f0; /* 灰白文字 */
+  --md-default-fg-color--light: #94a3b8;
+
+  /* --- 主色调 --- */
+  --md-primary-fg-color:        #020617; /* 近乎黑的蓝 */
+  
+  /* --- 链接颜色 --- */
+  --md-typeset-a-color:         #38bdf8; /* 明亮的青蓝色 (Sky Blue) */
+  --md-accent-fg-color:         #7dd3fc;
+
+  /* --- 标题颜色 --- */
+  --md-typeset-h1-color:        #f8fafc;
+  --md-typeset-h2-color:        #f1f5f9;
+  --md-typeset-h3-color:        #e2e8f0;
+
+  /* --- 代码块 --- */
+  --md-code-bg-color:           #1e293b;
+  --md-code-fg-color:           #38bdf8;
+}
+
+/* ⚠️ 强制修复：夜间模式顶栏背景 */
+[data-md-color-scheme="slate"] .md-header {
+  background-color: #020617 !important;
+}
+
+/* ==========================================================================
+   🗺️ 地图容器优化 (保持不变)
+   ========================================================================== */
+#map {
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    height: 600px;
+    border-radius: 8px; /* 圆角 */
+    /* 给地图加一个边框，让它在白色背景上更清晰 */
+    border: 1px solid var(--md-default-fg-color--light); 
+    box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1); /* 阴影 */
+    overflow: hidden;
+}
+
+/* 控件和弹窗层级 */
+.leaflet-control { z-index: 10; }
+.leaflet-popup { z-index: 1000; }
+
+/* ==========================================================================
+   🧩 其他细节微调
    ========================================================================== */
 
-/* 1. 标题样式 (ITS 标题有特殊的字重和间距) */
-.md-typeset h1, .md-typeset h2, .md-typeset h3 {
-  font-weight: 700;
-  letter-spacing: 0.02em;
-}
-
-/* 2. 侧边栏 (Sidebar) 样式调整 - ITS 的侧边栏对比度较高 */
-.md-sidebar {
-  background-color: var(--md-default-bg-color--alt);
-}
-
-/* 3. 选中文字高亮 (Selection) */
-::selection {
-  /* --highlight: #7a141466 (Dark) */
-  background-color: rgba(122, 20, 20, 0.4); 
-  color: inherit;
-}
-
-/* 4. 代码块圆角与阴影 (ITS 风格) */
-.md-typeset pre > code {
-  border-radius: 4px;
-  box-shadow: 0 2px 0 var(--md-default-bg-color--alt);
-}
-
-/* 5. 引用块 (Blockquote) - 模仿 ITS 的边框风格 */
-.md-typeset blockquote {
-  border-left: 4px solid var(--md-accent-fg-color);
-  background-color: var(--md-default-bg-color--alt);
-  border-radius: 0 4px 4px 0;
-  padding: 10px 15px;
-  font-style: normal;
-}
-
-/* 6. 表格样式 (ITS 表格头颜色深) */
-.md-typeset table:not([class]) {
-  border-radius: 4px;
-  overflow: hidden;
-}
+/* 表格头改为深蓝灰色 */
 .md-typeset table:not([class]) th {
-  background-color: var(--md-accent-fg-color); /* 使用红色系表头 */
-  color: #ffffff; /* 表头文字白色 */
-  font-weight: bold;
-}
-[data-md-color-scheme="default"] .md-typeset table:not([class]) th {
+    background-color: #334155; 
     color: #ffffff;
 }
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+    background-color: #1e293b;
+}
 
-/* 7. 导航链接悬停效果 */
-.md-nav__link:hover, .md-nav__link--active {
-  color: var(--md-accent-fg-color) !important;
+/* 选中文字颜色：改为淡蓝色背景 */
+::selection {
+    background-color: rgba(56, 189, 248, 0.3);
+    color: inherit;
 }
 
