@@ -7,10 +7,6 @@ tags:
   - 咕洛
   - "#图斯克"
   - 国家
-  - 笔记
-  - 异世界
-  - 虚拟种族
-  - 概念
 Topic:
 Description:
 Citations:

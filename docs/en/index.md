@@ -1,49 +1,89 @@
-# Homepage
+---
+hero:
+  actions:
+  - link: /guide/getting-started
+    text: "\U0001F4D6 开始阅读"
+    theme: brand
+  - link: /geography/trusk-map
+    text: "\U0001F5FA️ 查看地图"
+    theme: alt
+  name: 诺瓦亚北陆全书
+  tagline: 在古督卡山脉的阴影下，诸王兴起又陨落，唯有石刻铭记永恒。
+  text: 一部关于图斯克帝国与诺瓦亚文明的编年史
+layout: home
+title: Home
+---
 
-<header>
+![laaerad0918_gem](../assets/img/laaerad0918_gem.png)
+## 🌏 About Laaerad
 
-</header>
+Welcome to the fictional world of Laaerad. This is a world constructed based on the logic of real-world history, focusing on the evolution of civilizations, the flow and change of languages, and the rise and fall of dynasties.
 
-Welcome to the wiki page for Laaerad. This wiki is hosted on GitHub Pages and is used for documentation and sharing.
+Here, you can witness:
 
-## Contents
+- How the [Trusk Empire](国家与王朝/图斯克帝国/index.md) grew from tribes into a colossal entity ruling the Northern Continent.
 
-The main content of this blog includes:
+- How [Laprio](地理与区域/拉普里奥/index.md) and the [Glömezher Tribes](国家与王朝/咕洛诸部/index.md) shaped vastly different cultures.
 
-1. A simple description of the world encompassed by the Laaerad project.
-    
-2. A description of the various languages in this world.
-    
-3. A description of the various civilizations in this world.
-    
+- How the ancient [Proto-Laaerad Language](拉埃拉德原始语.md) diverged, eventually forming the modern [Truskean](图斯克语.md) and [Glömezher](语言/图斯克/咕洛语.md) languages.
 
 ---
 
-## Recommended Reading
+## 🧭 Explore
 
-Basic settings of this world: [Laaerad](docs/en/概念/拉埃拉德.md)
+If this is your first time here, it is recommended to start your journey in the following order:
 
-Currently a more complete language setting: 
+### 🏛️ [Trusk Empire](国家与王朝/图斯克帝国/index.md)
+The most complete empire in the current setting.
 
-Currently a more complete country setting: [Trusk](概念/图斯克.md)
+The empire's history is written by these three major dynasties. Click to learn more:
 
-Currently a more detailed character setting:
+| [Heimet Dynasty](黑蔑特王朝.md) | [Tyesuku Dynasty](铁苏库王朝.md) | [Moswarike Dynasty](莫斯瓦里克王朝.md) |
+| :------------------------- | :------------------------- | :-------------------- |
+| **Keywords**: Architecture, Prosperity, Matashosa Gate        | **Keywords**: Conquest, Legal Code, Dezhohai          | **Keywords**: Reform, Civil War, Tuluhai Ke    |
+| *The Embryo and Origin of the Empire*                 | *The Empire's Founder, an Era of Iron and Blood*            | *A Turbulent Period of Transition and Reshaping*        |
 
-## Records
+### 🗺️ Geography and Culture
 
-- In 2024, a group of like-minded friends began creating Proto-Laaerad Languages.
-    
-- From 2024-2025, the Laaerad worldview was created by Yichuan Luo personally.
-    
+Overview of world geography and astronomy: [Basic Setting of Laaerad](地理与区域/拉埃拉德.md).
+
+[Heimet Region](地理与区域/图斯克/黑蔑特/index.md): The power center of the [Trusk Empire](国家与王朝/图斯克帝国/index.md).
+
+- [Hashet City](地理与区域/图斯克/黑蔑特/哈希特城.md): The empire's capital.
+
+- [Matashosa Gate Road](地理与区域/图斯克/黑蔑特/马塔肖萨门大道.md): The artery connecting the east and west of the empire.
+
+### 📜 Immersive Reading
+
+Don't want to read dry settings? Try observing the world through the eyes of characters from the books:
+
+- 📖 [Wattsukasem Travelogue](瓦特苏卡瑟母游记.md): Follow the author's footsteps to explore the secrets of Wattsukasem.
+
+- 🗣️ [Glömezher Legends](咕洛传说.md): Listen to the ancient myths of the nomadic tribes.
 
 ---
 
-<footer>
+## 📅 Latest Updates
 
-All content collected on this site is the personal creation of Phychias Yichuan Luo. For any disputes, please contact me at phychiaslok@gmail.com.
+- [Heimet Dynasty](国家与王朝/图斯克帝国/黑蔑特王朝.md): Added details about late-period court coups.
 
-© This Website is constructed by Phychias Lok, Phychiaslok@gmail.com. The copyrights of the conlangs that's not created by Phychias is owned by its creator. ©
+- [Study of Common Names in the Trusk Region](语言/图斯克/图斯克地区常用姓名考.md): Some common names in the Trusk region, including some names from Laprio and Glömezher languages.
 
+- [Trusk Chronology](图斯克年表.md): Added some details.
+
+---
+<div align="center">
+  <small>Built in 2025 | Laaerad Wiki Project</small>
+</div>
+
+---
+<footer align="center">
+<small>
+All content currently included on this site is the personal creation of Phychias Lok (骆以川).
+</small>
 </footer>
-
----
+<footer align="center">
+<small>
+&copy; This Website is constructed by Phychias Lok, Phychiaslok@gmail.com.
+</small>
+</footer>
