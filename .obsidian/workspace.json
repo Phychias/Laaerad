@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "c485d95373e08ee0",
+        "id": "5d7485161ab94832",
         "type": "tabs",
         "children": [
           {
-            "id": "b8ba771f45c4a739",
+            "id": "97d9f70d557b6d1d",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -217,8 +217,9 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "b8ba771f45c4a739",
+  "active": "97d9f70d557b6d1d",
   "lastOpenFiles": [
+    "docs/zh/index.md",
     "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/历史/图斯克/图斯克帝国史.md",
     "docs/zh/人物/铁苏库/index.md",
@@ -228,7 +229,6 @@
     "docs/zh/人物/莫斯瓦里克/index.md",
     "docs/zh/语言/图斯克/图斯克语.md",
     "docs/zh/语言/index.md",
-    "docs/zh/index.md",
     "docs/zh/国家与王朝/index.md",
     "docs/zh/地理与区域/图斯克/黑蔑特/哈希特城.md",
     "docs/assets/img/trusk_district.png",
