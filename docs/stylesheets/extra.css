@@ -29,7 +29,7 @@
   --md-default-fg-color--light: #607d8b;
 
   /* 主色：Topaz 蓝 */
-  --md-primary-fg-color:        rgba(255, 255, 255, 0.85); /* 顶栏半透明白 */
+  --md-primary-fg-color:        rgba(170, 236, 249, 0.85); /* 顶栏半透明白 */
   --md-primary-fg-color--dark:  #2a76dd; 
   
   /* 链接：明快的蓝色 */
