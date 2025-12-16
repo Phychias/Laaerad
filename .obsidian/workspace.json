@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/地理/拉埃拉德.md",
+                "file": "docs/zh/语言/图斯克/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "拉埃拉德"
+              "title": "index"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/地理/拉埃拉德.md",
+                "file": "docs/zh/语言/图斯克/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉埃拉德 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -219,6 +219,10 @@
   },
   "active": "abef04d0675588c6",
   "lastOpenFiles": [
+    "docs/zh/index.md",
+    "docs/zh/语言/原始东北拉埃拉德语.md",
+    "docs/zh/语言/拉埃拉德原始语.md",
+    "docs/zh/地理/拉埃拉德.md",
     "docs/zh/地理/图斯克/图斯克地图.md",
     "copilot-custom-prompts/维基化.md",
     "docs/zh/地理/图斯克/诺瓦亚.md",
@@ -241,10 +245,6 @@
     "docs/zh/历史/图斯克/图斯克帝国史.md",
     "docs/zh/地理/拉普里奥/index.md",
     "图斯克.md",
-    "copilot-custom-prompts/Rewrite as tweet thread.md",
-    "docs/zh/国家与王朝/图斯克帝国/莫斯瓦里克王朝.md",
-    "docs/zh/人物/黑蔑特/卓奥西二世.md",
-    "docs/zh/人物/黑蔑特/马塔肖萨门二世.md",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
     "docs/assets/img/HeimetBadge.png",
     "docs/zh/人物/维斯尤丰",
