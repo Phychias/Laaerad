@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
+                "file": "docs/zh/语言/图斯克/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -160,7 +160,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
+                "file": "docs/zh/语言/图斯克/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -219,16 +219,17 @@
   },
   "active": "abef04d0675588c6",
   "lastOpenFiles": [
+    "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
+    "docs/zh/语言/图斯克/index.md",
+    "docs/zh/语言/图斯克/咕洛语.md",
+    "docs/zh/语言/原始东北拉埃拉德语.md",
+    "docs/zh/语言/图斯克/图斯克语.md",
+    "docs/zh/历史/图斯克/图斯克年表.md",
+    "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/国家与王朝/图斯克帝国/铁苏库王朝.md",
     "docs/zh/国家与王朝/图斯克帝国/黑蔑特王朝.md",
-    "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/历史/图斯克/图斯克帝国史.md",
     "docs/zh/index.md",
-    "docs/zh/语言/图斯克/index.md",
-    "docs/zh/语言/原始东北拉埃拉德语.md",
-    "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
-    "docs/zh/语言/图斯克/图斯克语.md",
-    "docs/zh/语言/图斯克/咕洛语.md",
     "docs/zh/国家与王朝/图斯克帝国/拉普里奥王朝.md",
     "docs/zh/国家与王朝/图斯克帝国/伯帖斯抓护王朝.md",
     "docs/zh/国家与王朝/图斯克帝国/奎列奥王朝.md",
@@ -244,7 +245,6 @@
     "copilot-custom-prompts/维基化.md",
     "docs/zh/人物/黑蔑特/阿贵吉奥.md",
     "docs/zh/人物/维斯尤丰/诺特索特.md",
-    "docs/zh/人物/维斯尤丰/奥勒曼.md",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
     "docs/assets/img/HeimetBadge.png",
     "docs/zh/人物/维斯尤丰",
