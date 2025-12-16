@@ -32,13 +32,13 @@
 
   /* --- 关键修改：顶栏 (Primary) --- */
   /* 1. 顶栏背景色 (浅色) */
-  --md-primary-fg-color:        rgba(57, 117, 247, 0.85); 
+  --md-primary-fg-color:        rgba(199, 217, 255, 0.85); 
   
   /* 2. 顶栏文字/图标颜色 (改为深色！) */
   /* MkDocs Material 中，primary-bg 控制的是显示在 primary 色块上的内容颜色 */
-  --md-primary-bg-color:        #2c3e50; 
+  --md-primary-bg-color:        #496784; 
 
-  --md-primary-fg-color--dark:  #2a76dd; 
+  --md-primary-fg-color--dark:  #bfdaff; 
   
   /* --- 链接与强调 --- */
   /* 链接：明快的蓝色 */
