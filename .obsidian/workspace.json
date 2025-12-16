@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/人物/维斯尤丰/诺特索特.md",
+                "file": "docs/zh/人物/维斯尤丰/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "诺特索特"
+              "title": "index"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/人物/维斯尤丰/诺特索特.md",
+                "file": "docs/zh/人物/维斯尤丰/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "诺特索特 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -219,6 +219,7 @@
   },
   "active": "abef04d0675588c6",
   "lastOpenFiles": [
+    "docs/zh/人物/维斯尤丰/诺特索特.md",
     "docs/zh/人物/莫斯瓦里克/图录亥刻.md",
     "docs/zh/人物/莫斯瓦里克/index.md",
     "docs/zh/人物/铁苏库/德卓黑三世.md",
@@ -227,7 +228,6 @@
     "docs/zh/人物/黑蔑特/卓奥西一世.md",
     "德卓黑一世 1.md",
     "docs/zh/人物/维斯尤丰/奥勒曼.md",
-    "docs/zh/人物/维斯尤丰/诺特索特.md",
     "docs/zh/人物/维斯尤丰/维特莱.md",
     "docs/zh/人物/维斯尤丰/赛特维斯.md",
     "copilot-custom-prompts/维基化.md",
