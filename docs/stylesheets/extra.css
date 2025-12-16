@@ -21,26 +21,35 @@
    ☀️ 日间模式 (Light Mode) - 云雾蓝白调
    ========================================================================== */
 [data-md-color-scheme="default"] {
+  /* --- 背景设置 --- */
   /* 背景：不再是纯白，而是极淡的蓝灰，护眼 */
   --md-default-bg-color:        #f5f7fa; 
   --md-default-bg-color--alt:   #ffffff; /* 卡片/侧边栏用纯白，形成层次 */
   
+  /* --- 正文文字 --- */
   --md-default-fg-color:        #2c3e50; /* 正文深蓝灰 */
   --md-default-fg-color--light: #607d8b;
 
-  /* 主色：Topaz 蓝 */
-  --md-primary-fg-color:        rgba(170, 236, 249, 0.85); /* 顶栏半透明白 */
+  /* --- 关键修改：顶栏 (Primary) --- */
+  /* 1. 顶栏背景色 (浅色) */
+  --md-primary-fg-color:        rgba(57, 117, 247, 0.85); 
+  
+  /* 2. 顶栏文字/图标颜色 (改为深色！) */
+  /* MkDocs Material 中，primary-bg 控制的是显示在 primary 色块上的内容颜色 */
+  --md-primary-bg-color:        #2c3e50; 
+
   --md-primary-fg-color--dark:  #2a76dd; 
   
+  /* --- 链接与强调 --- */
   /* 链接：明快的蓝色 */
   --md-typeset-a-color:         #2a76dd;
   --md-accent-fg-color:         #d04255; /* 悬停变为粉色 (Topaz 特色) */
 
-  /* 代码块 */
+  /* --- 代码块 --- */
   --md-code-bg-color:           #ffffff;
   --md-code-fg-color:           #d04255; /* 行内代码用粉色强调 */
   
-  /* 分割线 */
+  /* --- 分割线 --- */
   --md-typeset-hr-color:        #e3e8ee;
 }
 

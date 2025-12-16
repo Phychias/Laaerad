@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/国家与王朝/图斯克帝国/焦利亚王朝.md",
+                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "焦利亚王朝"
+              "title": "index"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/国家与王朝/图斯克帝国/焦利亚王朝.md",
+                "file": "docs/zh/国家与王朝/图斯克帝国/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "焦利亚王朝 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -219,6 +219,20 @@
   },
   "active": "abef04d0675588c6",
   "lastOpenFiles": [
+    "docs/zh/国家与王朝/图斯克帝国/铁苏库王朝.md",
+    "docs/zh/国家与王朝/图斯克帝国/黑蔑特王朝.md",
+    "docs/zh/国家与王朝/图斯克帝国/index.md",
+    "docs/zh/历史/图斯克/图斯克帝国史.md",
+    "docs/zh/index.md",
+    "docs/zh/语言/图斯克/index.md",
+    "docs/zh/语言/原始东北拉埃拉德语.md",
+    "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
+    "docs/zh/语言/图斯克/图斯克语.md",
+    "docs/zh/语言/图斯克/咕洛语.md",
+    "docs/zh/国家与王朝/图斯克帝国/拉普里奥王朝.md",
+    "docs/zh/国家与王朝/图斯克帝国/伯帖斯抓护王朝.md",
+    "docs/zh/国家与王朝/图斯克帝国/奎列奥王朝.md",
+    "docs/zh/国家与王朝/图斯克帝国/焦利亚王朝.md",
     "docs/zh/人物/铁苏库/德卓黑一世.md",
     "docs/zh/人物/黑蔑特/波拉斯蓬.md",
     "docs/zh/人物/黑蔑特/塔莫格.md",
@@ -226,25 +240,11 @@
     "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
     "docs/zh/人物/维斯尤丰/index.md",
     "docs/zh/人物/维斯尤丰/维特莱.md",
-    "docs/zh/国家与王朝/图斯克帝国/黑蔑特王朝.md",
     "docs/zh/地理/图斯克/诺瓦亚.md",
     "copilot-custom-prompts/维基化.md",
-    "docs/zh/语言/图斯克/图斯克语.md",
     "docs/zh/人物/黑蔑特/阿贵吉奥.md",
     "docs/zh/人物/维斯尤丰/诺特索特.md",
     "docs/zh/人物/维斯尤丰/奥勒曼.md",
-    "docs/zh/人物/莫斯瓦里克/图录亥刻.md",
-    "docs/zh/人物/莫斯瓦里克/index.md",
-    "docs/zh/人物/铁苏库/德卓黑三世.md",
-    "docs/zh/人物/铁苏库/index.md",
-    "docs/zh/人物/黑蔑特/卓奥西一世.md",
-    "德卓黑一世 1.md",
-    "docs/zh/人物/维斯尤丰/赛特维斯.md",
-    "docs/zh/人物/黑蔑特/卓奥西二世.md",
-    "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
-    "copilot-custom-prompts/Generate table of contents.md",
-    "docs/zh/人物/黑蔑特/马塔肖萨门.md",
-    "docs/zh/人物/黑蔑特/index.md",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
     "docs/assets/img/HeimetBadge.png",
     "docs/zh/人物/维斯尤丰",
