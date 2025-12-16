@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/人物/维斯尤丰/index.md",
+                "file": "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "马塔肖萨门一世"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/人物/维斯尤丰/index.md",
+                "file": "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "马塔肖萨门一世 的大纲"
             }
           },
           {
@@ -219,24 +219,24 @@
   },
   "active": "abef04d0675588c6",
   "lastOpenFiles": [
+    "docs/zh/人物/黑蔑特/马塔肖萨门二世.md",
+    "docs/zh/人物/黑蔑特/塔莫格.md",
+    "docs/zh/人物/黑蔑特/阿贵吉奥.md",
+    "docs/zh/人物/铁苏库/德卓黑一世.md",
     "docs/zh/人物/维斯尤丰/诺特索特.md",
+    "docs/zh/人物/维斯尤丰/奥勒曼.md",
+    "docs/zh/人物/维斯尤丰/index.md",
     "docs/zh/人物/莫斯瓦里克/图录亥刻.md",
     "docs/zh/人物/莫斯瓦里克/index.md",
     "docs/zh/人物/铁苏库/德卓黑三世.md",
-    "docs/zh/人物/铁苏库/德卓黑一世.md",
     "docs/zh/人物/铁苏库/index.md",
     "docs/zh/人物/黑蔑特/卓奥西一世.md",
     "德卓黑一世 1.md",
-    "docs/zh/人物/维斯尤丰/奥勒曼.md",
     "docs/zh/人物/维斯尤丰/维特莱.md",
     "docs/zh/人物/维斯尤丰/赛特维斯.md",
     "copilot-custom-prompts/维基化.md",
-    "docs/zh/人物/维斯尤丰/index.md",
-    "docs/zh/人物/黑蔑特/塔莫格.md",
     "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
-    "docs/zh/人物/黑蔑特/马塔肖萨门二世.md",
     "docs/zh/人物/黑蔑特/卓奥西二世.md",
-    "docs/zh/人物/黑蔑特/阿贵吉奥.md",
     "docs/zh/人物/黑蔑特/波拉斯蓬.md",
     "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
     "copilot-custom-prompts/Generate table of contents.md",
