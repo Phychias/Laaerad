@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/语言/图斯克/index.md",
+                "file": "docs/zh/地理/图斯克/安纽科萨.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "安纽科萨"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/语言/图斯克/index.md",
+                "file": "docs/zh/地理/图斯克/安纽科萨.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "安纽科萨 的大纲"
             }
           },
           {
@@ -219,14 +219,20 @@
   },
   "active": "abef04d0675588c6",
   "lastOpenFiles": [
-    "docs/zh/语言/拉埃拉德原始语.md",
+    "docs/zh/地理/图斯克/黑蔑特/哈希特城.md",
+    "copilot-custom-prompts/维基化.md",
+    "docs/zh/国家与王朝/index.md",
+    "docs/zh/国家与王朝/图斯克帝国/index.md",
+    "docs/zh/地理/图斯克/黑蔑特/马塔肖萨门大道.md",
+    "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
+    "docs/zh/人物/维斯尤丰/维特莱.md",
     "docs/zh/语言/图斯克/index.md",
+    "docs/zh/语言/拉埃拉德原始语.md",
     "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
     "docs/zh/语言/图斯克/咕洛语.md",
     "docs/zh/语言/原始东北拉埃拉德语.md",
     "docs/zh/语言/图斯克/图斯克语.md",
     "docs/zh/历史/图斯克/图斯克年表.md",
-    "docs/zh/国家与王朝/图斯克帝国/index.md",
     "docs/zh/国家与王朝/图斯克帝国/铁苏库王朝.md",
     "docs/zh/国家与王朝/图斯克帝国/黑蔑特王朝.md",
     "docs/zh/历史/图斯克/图斯克帝国史.md",
@@ -239,12 +245,6 @@
     "docs/zh/人物/黑蔑特/波拉斯蓬.md",
     "docs/zh/人物/黑蔑特/塔莫格.md",
     "docs/zh/人物/黑蔑特/马塔肖萨门二世.md",
-    "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
-    "docs/zh/人物/维斯尤丰/index.md",
-    "docs/zh/人物/维斯尤丰/维特莱.md",
-    "docs/zh/地理/图斯克/诺瓦亚.md",
-    "copilot-custom-prompts/维基化.md",
-    "docs/zh/人物/黑蔑特/阿贵吉奥.md",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
     "docs/assets/img/HeimetBadge.png",
     "docs/zh/人物/维斯尤丰",
