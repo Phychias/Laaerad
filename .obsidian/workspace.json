@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "206b16a3bc8edb78",
+        "id": "b4ea50d58f7be0aa",
         "type": "tabs",
         "children": [
           {
-            "id": "42024075cf1987cf",
+            "id": "abef04d0675588c6",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/en/人物/铁苏库/德卓黑一世.md",
+                "file": "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "德卓黑一世"
+              "title": "马塔肖萨门一世"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/en/人物/铁苏库/德卓黑一世.md",
+                "file": "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "德卓黑一世 的大纲"
+              "title": "马塔肖萨门一世 的大纲"
             }
           },
           {
@@ -217,54 +217,54 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "42024075cf1987cf",
+  "active": "abef04d0675588c6",
   "lastOpenFiles": [
+    "copilot-custom-prompts/维基化.md",
+    "docs/zh/人物/黑蔑特/马塔肖萨门一世.md",
+    "docs/zh/人物/黑蔑特/index.md",
+    "docs/zh/人物/黑蔑特/马塔肖萨门.md",
+    "docs/zh/地理/index.md",
+    "docs/zh/地理/图斯克/index.md",
+    "docs/zh/人物/黑蔑特/波拉斯蓬.md",
+    "原始语名字.md",
+    "docs/zh/人物/黑蔑特/马塔肖萨门二世.md",
     "docs/zh/国家与王朝/图斯克帝国/黑蔑特王朝.md",
-    "docs/zh/语言/图斯克/图斯克地区常用姓名考.md",
-    "docs/en/国家与王朝/图斯克帝国/黑蔑特王朝.md",
-    "docs/en/人物/铁苏库/index.md",
-    "docs/en/国家与王朝/index.md",
-    "docs/en/国家与王朝/图斯克帝国/index.md",
-    "docs/zh/语言/图斯克/图斯克语.md",
-    "Novaya.md",
-    "docs/en/index.md",
-    "docs/en/地理与区域/咕洛/米斯特那提拉.md",
-    "docs/en/地理与区域/图斯克/诺瓦亚.md",
-    "docs/en/地理与区域/拉埃拉德.md",
-    "docs/en/地理与区域/图斯克/安纽科萨.md",
-    "docs/en/地理与区域/图斯克/图斯克地图.md",
-    "docs/en/地理与区域/图斯克/俺东.md",
-    "docs/en/历史/图斯克/图斯克帝国史.md",
-    "docs/en/地理与区域/图斯克/index.md",
-    "docs/en/地理与区域/图斯克",
-    "docs/en/地理与区域/咕洛",
-    "docs/en/地理与区域",
+    "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
+    "docs/assets/img/HeimetBadge.png",
+    "docs/zh/人物/维斯尤丰/index.md",
+    "docs/zh/人物/维斯尤丰",
+    "docs/assets/img/Gemini_Generated_Image_eco8ozeco8ozeco8.png",
+    "docs/assets/img/Gemini_Generated_Image_a2sv1va2sv1va2sv.png",
+    "docs/assets/Gemini_Generated_Image_8mta8r8mta8r8mta.png",
+    "docs/assets/img/ComfyUI_00124_.png",
+    "docs/zh/国家与王朝/图斯克帝国/奎列奥王朝.md",
+    "docs/zh/地理与区域/城市",
     "docs/zh/历史/图斯克/图斯克年表.md",
-    "docs/en/历史/图斯克/图斯克年表.md",
-    "docs/en/国家与王朝/图斯克帝国/铁苏库王朝.md",
+    "docs/en/历史/图斯克/图斯克帝国史.md",
+    "docs/zh/地理/咕洛/米斯特那提拉.md",
+    "docs/zh/国家与王朝/咕洛诸部/index.md",
+    "docs/zh/语言/图斯克/拉普里奥语.md",
+    "docs/zh/语言/原始东北拉埃拉德语.md",
+    "docs/zh/人物/铁苏库/index.md",
+    "docs/assets/img/trusk_map/trusk_render.png",
+    "docs/assets/img/trusk_map/trusk_render_white.png",
+    "docs/assets/img/trusk_map/trusk_white_1080p.png",
+    "docs/assets/img/trusk_map/truskv3eco.png",
+    "docs/zh/语言/图斯克/图斯克语.md",
+    "docs/zh/国家与王朝/图斯克帝国/伯帖斯抓护王朝.md",
+    "docs/en/国家与王朝/图斯克帝国/黑蔑特王朝.md",
     "docs/en/国家与王朝/图斯克帝国/莫斯瓦里克王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/焦利亚王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/拉普里奥王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/奎列奥王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/伯帖斯抓护王朝.md",
-    "docs/en/国家与王朝/图斯克帝国",
-    "Jaudzya Dynasty.md",
-    "docs/en/国家与王朝/咕洛诸部",
-    "docs/en/国家与王朝",
-    "docs/en/历史/图斯克",
-    "docs/en/历史",
-    "docs/en/人物/黑蔑特",
-    "docs/en/人物/铁苏库",
-    "docs/assets/img/trusk_district.png",
-    "docs/assets/img/trusk_eco.png",
-    "docs/assets/img/laaerad0918_gem.png",
-    "docs/assets/img/adjustment_s3.png",
-    "docs/zh/地理与区域/trusk_eco.png",
-    "docs/zh/地理与区域/trusk_district.png",
-    "site/区域/trusk_eco.png",
-    "site/区域/trusk_district.png",
-    "site/assets/img/trusk_map/生态图例 文字 中文.png",
-    "site/assets/img/trusk_map/truskv3eco.png",
+    "docs/zh/历史/图斯克/图斯克帝国史.md",
+    "docs/zh/国家与王朝/图斯克帝国/巴西卜王朝.md",
+    "拉普里奥语.md",
+    "requirements.txt",
+    "site/en/语言/图斯克/图斯克语/index.html",
+    "site/en/语言/图斯克/图斯克语",
+    "site/en/语言/图斯克/图斯克地区常用姓名考/index.html",
+    "site/en/语言/图斯克/图斯克地区常用姓名考",
+    "site/en/语言/图斯克/咕洛语/index.html",
+    "site/en/语言/图斯克/咕洛语",
+    "site/en/语言/图斯克/古拉普里奥语/index.html",
     "拉埃拉德/拉埃拉德.canvas",
     "拉埃拉德/世界/拉埃拉德.canvas"
   ]

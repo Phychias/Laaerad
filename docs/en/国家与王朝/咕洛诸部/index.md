@@ -111,4 +111,4 @@ The Glömer people do not have a strict religious system; their beliefs are sust
 | Category     | Entry                                              |
 | :----- | :---------------------------------------------- |
 | **Glömer** | [[Glömer Legends]]                                |
-| **Geography** | [[Trusk]], [Heimet](docs/zh/地理与区域/图斯克/黑蔑特/index), [[Mistnatira]] |
+| **Geography** | [[Trusk]], [Heimet](../../../zh/地理/图斯克/黑蔑特/index.md), [[Mistnatira]] |

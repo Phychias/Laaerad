@@ -23,7 +23,7 @@ Here, you can witness:
 
 - How the [Trusk Empire](国家与王朝/图斯克帝国/index.md) grew from tribes into a colossal entity ruling the Northern Continent.
 
-- How [Laprio](地理与区域/拉普里奥/index.md) and the [Glömezher Tribes](国家与王朝/咕洛诸部/index.md) shaped vastly different cultures.
+- How [Laprio](../zh/地理/拉普里奥/index.md) and the [Glömezher Tribes](国家与王朝/咕洛诸部/index.md) shaped vastly different cultures.
 
 - How the ancient [Proto-Laaerad Language](拉埃拉德原始语.md) diverged, eventually forming the modern [Truskean](图斯克语.md) and [Glömezher](语言/图斯克/咕洛语.md) languages.
 
@@ -47,11 +47,11 @@ The empire's history is written by these three major dynasties. Click to learn m
 
 Overview of world geography and astronomy: [Basic Setting of Laaerad](地理与区域/拉埃拉德.md).
 
-[Heimet Region](地理与区域/图斯克/黑蔑特/index.md): The power center of the [Trusk Empire](国家与王朝/图斯克帝国/index.md).
+[Heimet Region](../zh/地理/图斯克/黑蔑特/index.md): The power center of the [Trusk Empire](国家与王朝/图斯克帝国/index.md).
 
-- [Hashet City](地理与区域/图斯克/黑蔑特/哈希特城.md): The empire's capital.
+- [Hashet City](../zh/地理/图斯克/黑蔑特/哈希特城.md): The empire's capital.
 
-- [Matashosa Gate Road](地理与区域/图斯克/黑蔑特/马塔肖萨门大道.md): The artery connecting the east and west of the empire.
+- [Matashosa Gate Road](../zh/地理/图斯克/黑蔑特/马塔肖萨门大道.md): The artery connecting the east and west of the empire.
 
 ### 📜 Immersive Reading
 
