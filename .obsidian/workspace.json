@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/文学/神话与传说/图斯克神话.md",
+                "file": "docs/en/人物/维斯尤丰/奥勒曼.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "图斯克神话"
+              "title": "奥勒曼"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/文学/神话与传说/图斯克神话.md",
+                "file": "docs/en/人物/维斯尤丰/奥勒曼.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图斯克神话 的大纲"
+              "title": "奥勒曼 的大纲"
             }
           },
           {
@@ -213,13 +213,21 @@
       "copilot:Open Copilot Chat": false,
       "obsidian-leaflet-plugin:打开 Leaflet 地图": false,
       "random-note:开始漫游笔记": false,
-      "remotely-save:Remotely Save": false
+      "remotely-save:Remotely Save": false,
+      "github-sync:Sync with Remote": false
     }
   },
-  "active": "1020067e962cbdeb",
+  "active": "abef04d0675588c6",
   "lastOpenFiles": [
-    "图斯克神话 1.md",
+    "docs/en/index.md",
+    "docs/en/人物/维斯尤丰/诺特索特.md",
+    "docs/en/人物/维斯尤丰/维特莱.md",
     "docs/zh/文学/神话与传说/图斯克神话.md",
+    "docs/en/人物/维斯尤丰/奥勒曼.md",
+    "docs/en/人物/维斯尤丰/index.md",
+    "docs/en/人物/维斯尤丰",
+    "docs/en/人物",
+    "图斯克神话 1.md",
     "copilot-custom-prompts/维基化.md",
     "docs/zh/文学/神话与传说/咕洛传说.md",
     "docs/zh/地理/图斯克/index.md",
@@ -239,11 +247,6 @@
     "docs/zh/地理/图斯克地图.md",
     "docs/zh/地理/拉埃拉德.md",
     "docs/zh/index.md",
-    "docs/zh/地理/图斯克/黑蔑特/哈希特城.md",
-    "docs/zh/人物/黑蔑特/index.md",
-    "docs/zh/国家与王朝/图斯克帝国/奎列奥王朝.md",
-    "docs/zh/人物/铁苏库/德卓黑一世.md",
-    "docs/zh/地理/诺瓦亚.md",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
     "docs/assets/img/HeimetBadge.png",
     "docs/zh/人物/维斯尤丰",
@@ -262,8 +265,6 @@
     "site/en/语言/图斯克/图斯克地区常用姓名考/index.html",
     "site/en/语言/图斯克/图斯克地区常用姓名考",
     "site/en/语言/图斯克/咕洛语/index.html",
-    "site/en/语言/图斯克/咕洛语",
-    "site/en/语言/图斯克/古拉普里奥语/index.html",
     "拉埃拉德/拉埃拉德.canvas",
     "拉埃拉德/世界/拉埃拉德.canvas"
   ]
