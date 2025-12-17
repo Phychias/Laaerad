@@ -1,5 +1,4 @@
 [
-  "github-sync",
   "obsidian-markdown-furigana",
   "tag-wrangler",
   "templater-obsidian",
@@ -11,5 +10,7 @@
   "obsidian-regex-replace",
   "obsidian-leaflet-plugin",
   "longform",
-  "number-headings-obsidian"
+  "number-headings-obsidian",
+  "remotely-save",
+  "github-sync"
 ]
