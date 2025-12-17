@@ -27,6 +27,7 @@ Rules:
 2. DO NOT translate code blocks, inline code (`code`), or variable names.
 3. Keep the placeholder strings like __LINK_X__ exactly as they are.
 4. If the content is already in English, return it as is.
+5. Add a tag "eng" to the properties of the file.
 """
 
 # ===========================================

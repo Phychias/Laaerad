@@ -79,15 +79,18 @@ plugins:
           name: English
           build: true
           site_name: Laaerad Wiki
-          nav_translation:
-            - 首页： Homepage
-            - 人物： Characters
-            - 区域： Areas
-            - 年表： Timeline
-            - 文化： Culture
-            - 概念： Concepts
-            - 索引： Index
-            - 语言： Languages
+          nav_translations:
+            "人物": "Characters"
+            "维斯尤丰": "Wisjiopon"
+            "黑蔑特": "Heimet"
+            "铁苏库": "Tyesuku"
+            "地理": "Geographys"
+            "历史": "History"
+            "文学": "Culture"
+            "语言": "Languages"
+            "国家与王朝": "Countries and Dynasties"
+            
+
   # - rss
 
 extra_javascript:
