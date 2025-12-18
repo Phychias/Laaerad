@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/en/国家与王朝/图斯克帝国/拉普里奥王朝.md",
+                "file": "docs/zh/人物/维斯尤丰/奥勒曼.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "拉普里奥王朝"
+              "title": "奥勒曼"
             }
           }
         ]
@@ -160,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/en/国家与王朝/图斯克帝国/拉普里奥王朝.md",
+                "file": "docs/zh/人物/维斯尤丰/奥勒曼.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉普里奥王朝 的大纲"
+              "title": "奥勒曼 的大纲"
             }
           },
           {
@@ -219,9 +219,14 @@
   },
   "active": "abef04d0675588c6",
   "lastOpenFiles": [
+    "docs/zh/人物/维斯尤丰/index.md",
+    "原始语名字.md",
+    "docs/zh/人物/维斯尤丰/维特莱.md",
+    "docs/zh/国家与王朝/图斯克帝国/index.md",
+    "copilot-custom-prompts/Remove URLs.md",
+    "docs/en/国家与王朝/图斯克帝国/拉普里奥王朝.md",
     "docs/en/国家与王朝/图斯克帝国/铁苏库王朝.md",
     "docs/en/国家与王朝/图斯克帝国/莫斯瓦里克王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/拉普里奥王朝.md",
     "docs/en/国家与王朝/图斯克帝国/奎列奥王朝.md",
     "docs/en/国家与王朝/图斯克帝国/焦利亚王朝.md",
     "docs/en/国家与王朝/图斯克帝国/黑蔑特王朝.md",
@@ -244,13 +249,8 @@
     "docs/en/文学/神话与传说",
     "docs/en/文学/瓦特苏卡瑟母游记/瓦特苏卡瑟母游记.md",
     "docs/en/文学/瓦特苏卡瑟母游记",
-    "docs/en/文学/index.md",
     "docs/en/文学",
-    "docs/en/地理/拉普里奥/齐米亚克.md",
-    "docs/en/地理/拉普里奥/index.md",
     "docs/en/地理/拉普里奥",
-    "docs/en/地理/图斯克/黑蔑特/马塔肖萨门大道.md",
-    "docs/en/地理/图斯克/黑蔑特/哈希特城.md",
     "docs/en/地理/图斯克/黑蔑特",
     "docs/en/地理/图斯克",
     "docs/en/地理/咕洛",
