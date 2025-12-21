@@ -23,8 +23,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/20_历史长河/朝代更迭/拉瓦劳王朝.md",
-                "mode": "preview",
+                "file": "docs/zh/20_历史长河/大事件/七家共治.md",
+                "mode": "source",
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {
@@ -38,7 +38,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "拉瓦劳王朝"
+              "title": "七家共治"
             }
           },
           {
@@ -195,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/20_历史长河/朝代更迭/拉瓦劳王朝.md",
+                "file": "docs/zh/20_历史长河/大事件/七家共治.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "拉瓦劳王朝 的大纲"
+              "title": "七家共治 的大纲"
             }
           },
           {
@@ -252,24 +252,30 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "4e3baa4b73ad44cf",
+  "active": "ced54ff7f62681bc",
   "lastOpenFiles": [
+    "copilot-conversations/黑蔑特王朝_为我写写黑蔑特王朝的其他家族@20251221_101624.md",
+    "copilot-conversations",
+    "docs/zh/20_历史长河/index.md",
+    "docs/zh/20_历史长河/大事件/七家共治.md",
+    "docs/zh/50_语言与文化/语言/图斯克地区常用姓名考.md",
+    "z00_灵感/原始语名字.md",
+    "docs/zh/20_历史长河/朝代更迭/黑蔑特王朝.md",
+    "z00_灵感/家族.md",
+    "docs/zh/20_历史长河/大事件/俺东入侵.md",
+    "z00_灵感/图斯克神话 1.md",
+    "z00_灵感/全知者设定.md",
+    "docs/zh/20_历史长河/大事件/安纽科萨之乱.md",
     "docs/zh/20_历史长河/图斯克帝国史.md",
     "docs/zh/20_历史长河/朝代更迭/拉瓦劳王朝.md",
-    "docs/zh/20_历史长河/大事件/安纽科萨之乱.md",
-    "docs/zh/20_历史长河/大事件/俺东入侵.md",
-    "docs/zh/20_历史长河/大事件/七王共治.md",
     "docs/zh/20_历史长河/大事件/图斯克大征服.md",
     "docs/zh/20_历史长河/大事件/长夜之乱.md",
     "docs/zh/20_历史长河/大事件/index.md",
-    "docs/zh/50_语言与文化/语言/图斯克地区常用姓名考.md",
-    "z00_灵感/家族.md",
     "z00_灵感/德卓黑一世 1.md",
     "z00_灵感",
     "未命名",
     "王朝.base",
     "未命名.base",
-    "docs/zh/20_历史长河/朝代更迭/黑蔑特王朝.md",
     "docs/zh/01_地理概览/index.md",
     "docs/zh/01_地理概览/地点/图斯克.md",
     "docs/zh/01_地理概览/地点/安纽科萨.md",
@@ -280,16 +286,10 @@
     "docs/zh/30_政治势力/图斯克/咕洛诸部.md",
     "docs/zh/30_政治势力/图斯克",
     "docs/zh/30_政治势力/图斯克/图斯克城邦联盟.md",
-    "docs/zh/30_政治势力/图斯克/图斯克王国.md",
-    "docs/zh/30_政治势力/图斯克/拉普里奥部落联盟.md",
-    "docs/zh/30_政治势力/index.md",
-    "docs/zh/20_历史长河/朝代更迭/巴西卜王朝.md",
-    "docs/zh/50_语言与文化/语言/咕洛语.md",
     "docs/zh/20_历史长河/朝代更迭",
     "docs/zh/01_地理概览/地点",
     "docs/zh/01_地理概览/咕洛",
     "docs/zh/01_地理概览/黑蔑特",
-    "docs/zh/01_地理概览/图斯克",
     "docs/assets/img/Heimet_1.png",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
     "docs/assets/img/Gemini_Generated_Image_eco8ozeco8ozeco8.png",
