@@ -1,7 +1,0 @@
-views:
-  - type: table
-    name: 表格
-    filters:
-      and:
-        - file.path.startsWith("docs/zh")
-        - file.basename.containsAny("马")

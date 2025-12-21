@@ -8,12 +8,46 @@
         "type": "tabs",
         "children": [
           {
-            "id": "abef04d0675588c6",
+            "id": "dd79c1186d3162af",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {},
+              "icon": "lucide-git-fork",
+              "title": "关系图谱"
+            }
+          },
+          {
+            "id": "4e3baa4b73ad44cf",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/人物/维斯尤丰/奥勒曼.md",
+                "file": "docs/zh/20_历史长河/朝代更迭/拉瓦劳王朝.md",
+                "mode": "preview",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "拉瓦劳王朝"
+            }
+          },
+          {
+            "id": "3e4225bc364a5a11",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/zh/40_家族与人物/黑蔑特/马塔肖萨门一世.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,10 +62,11 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "奥勒曼"
+              "title": "马塔肖萨门一世"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -98,7 +133,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 225.50434112548828
+    "width": 200
   },
   "right": {
     "id": "6078100c999914ca",
@@ -160,13 +195,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/人物/维斯尤丰/奥勒曼.md",
+                "file": "docs/zh/20_历史长河/朝代更迭/拉瓦劳王朝.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "奥勒曼 的大纲"
+              "title": "拉瓦劳王朝 的大纲"
             }
           },
           {
@@ -194,11 +229,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 308.5
+    "width": 432.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,54 +252,54 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "abef04d0675588c6",
+  "active": "4e3baa4b73ad44cf",
   "lastOpenFiles": [
-    "docs/zh/人物/维斯尤丰/index.md",
-    "原始语名字.md",
-    "docs/zh/人物/维斯尤丰/维特莱.md",
-    "docs/zh/国家与王朝/图斯克帝国/index.md",
-    "copilot-custom-prompts/Remove URLs.md",
-    "docs/en/国家与王朝/图斯克帝国/拉普里奥王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/铁苏库王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/莫斯瓦里克王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/奎列奥王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/焦利亚王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/黑蔑特王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/巴西卜王朝.md",
-    "docs/en/国家与王朝/图斯克帝国/伯帖斯抓护王朝.md",
-    "docs/en/历史/图斯克/index.md",
-    "docs/en/人物/黑蔑特/index.md",
-    "docs/en/人物/莫斯瓦里克/index.md",
-    "docs/en/语言/图斯克/拉普里奥语.md",
-    "docs/en/语言/图斯克/图斯克语.md",
-    "docs/en/语言/图斯克/图斯克地区常用姓名考.md",
-    "docs/en/语言/图斯克/咕洛语.md",
-    "docs/en/语言/图斯克/index.md",
-    "docs/en/语言/图斯克",
-    "docs/en/语言/拉埃拉德原始语.md",
-    "docs/en/语言/原始东北拉埃拉德语.md",
-    "docs/en/语言",
-    "docs/en/文学/神话与传说/图斯克神话.md",
-    "docs/en/文学/神话与传说/咕洛传说.md",
-    "docs/en/文学/神话与传说",
-    "docs/en/文学/瓦特苏卡瑟母游记/瓦特苏卡瑟母游记.md",
-    "docs/en/文学/瓦特苏卡瑟母游记",
-    "docs/en/文学",
-    "docs/en/地理/拉普里奥",
-    "docs/en/地理/图斯克/黑蔑特",
-    "docs/en/地理/图斯克",
-    "docs/en/地理/咕洛",
-    "docs/en/地理",
+    "docs/zh/20_历史长河/图斯克帝国史.md",
+    "docs/zh/20_历史长河/朝代更迭/拉瓦劳王朝.md",
+    "docs/zh/20_历史长河/大事件/安纽科萨之乱.md",
+    "docs/zh/20_历史长河/大事件/俺东入侵.md",
+    "docs/zh/20_历史长河/大事件/七王共治.md",
+    "docs/zh/20_历史长河/大事件/图斯克大征服.md",
+    "docs/zh/20_历史长河/大事件/长夜之乱.md",
+    "docs/zh/20_历史长河/大事件/index.md",
+    "docs/zh/50_语言与文化/语言/图斯克地区常用姓名考.md",
+    "z00_灵感/家族.md",
+    "z00_灵感/德卓黑一世 1.md",
+    "z00_灵感",
+    "未命名",
+    "王朝.base",
+    "未命名.base",
+    "docs/zh/20_历史长河/朝代更迭/黑蔑特王朝.md",
+    "docs/zh/01_地理概览/index.md",
+    "docs/zh/01_地理概览/地点/图斯克.md",
+    "docs/zh/01_地理概览/地点/安纽科萨.md",
+    "docs/zh/20_历史长河/朝代更迭/莫斯瓦里克王朝.md",
+    "docs/zh/20_历史长河/朝代更迭/奎列奥王朝.md",
+    "docs/zh/50_语言与文化/宗教与传说/图斯克神话.md",
+    "docs/zh/30_政治势力/图斯克/图斯克帝国.md",
+    "docs/zh/30_政治势力/图斯克/咕洛诸部.md",
+    "docs/zh/30_政治势力/图斯克",
+    "docs/zh/30_政治势力/图斯克/图斯克城邦联盟.md",
+    "docs/zh/30_政治势力/图斯克/图斯克王国.md",
+    "docs/zh/30_政治势力/图斯克/拉普里奥部落联盟.md",
+    "docs/zh/30_政治势力/index.md",
+    "docs/zh/20_历史长河/朝代更迭/巴西卜王朝.md",
+    "docs/zh/50_语言与文化/语言/咕洛语.md",
+    "docs/zh/20_历史长河/朝代更迭",
+    "docs/zh/01_地理概览/地点",
+    "docs/zh/01_地理概览/咕洛",
+    "docs/zh/01_地理概览/黑蔑特",
+    "docs/zh/01_地理概览/图斯克",
+    "docs/assets/img/Heimet_1.png",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
-    "docs/assets/img/HeimetBadge.png",
     "docs/assets/img/Gemini_Generated_Image_eco8ozeco8ozeco8.png",
+    "docs/assets/img/HeimetBadge.png",
     "docs/assets/img/Gemini_Generated_Image_a2sv1va2sv1va2sv.png",
     "docs/assets/Gemini_Generated_Image_8mta8r8mta8r8mta.png",
     "docs/assets/img/ComfyUI_00124_.png",
     "docs/assets/img/trusk_map/trusk_render.png",
     "docs/assets/img/trusk_map/trusk_render_white.png",
     "docs/assets/img/trusk_map/trusk_white_1080p.png",
-    "docs/assets/img/trusk_map/truskv3eco.png",
     "拉埃拉德/拉埃拉德.canvas",
     "拉埃拉德/世界/拉埃拉德.canvas"
   ]
