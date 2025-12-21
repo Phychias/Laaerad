@@ -75,31 +75,19 @@ plugins:
           default: true
           build: true
           site_name: 拉埃拉德世界维基
+          nav_translations:
+            "10_地理概览": "地理概览"
+            "20_历史长河": "历史长河"
+            "30_政治势力": "政治势力"
+            "40_家族血脉": "家族血脉"
+            "50_语言文化": "语言文化
+
         - locale: en
           name: English
           build: true
           site_name: Laaerad Wiki
           nav_translations:
-            "人物": "Characters"
-            "维斯尤丰": "Wisjiopon"
-            "莫斯瓦里克": "Moswarike"
-            "拉埃拉德": "Laaerad"
-            "图斯克帝国史": "History of Trusk Empire"
-            "咕洛诸部": "Glömer Tribes"
-            "图斯克帝国": "Empire of Trusk"
-            "图斯克": "Trusk"
-            "拉普里奥": "Laprio"
-            "黑蔑特": "Heimet"
-            "铁苏库": "Tyesuku"
-            "地理": "Geographys"
-            "历史": "History"
             
-            "文学": "Culture"
-            "游记": "Travels"
-            "神话": "Mythology"
-
-            "语言": "Languages"
-            "国家与王朝": "Nations and Dynasties"
             
 
   # - rss
