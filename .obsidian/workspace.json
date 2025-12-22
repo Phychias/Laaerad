@@ -47,7 +47,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/01_地理概览/地点/俺东.md",
+                "file": "docs/zh/20_历史长河/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,7 +62,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "俺东"
+              "title": "index"
             }
           }
         ],
@@ -254,8 +254,9 @@
   },
   "active": "3e4225bc364a5a11",
   "lastOpenFiles": [
-    "docs/zh/index.md",
+    "docs/zh/30_政治势力/index.md",
     "docs/zh/01_地理概览/地点/俺东.md",
+    "docs/zh/index.md",
     "docs/zh/01_地理概览/地点/拉普里奥.md",
     "docs/zh/01_地理概览/地点/哈希特城.md",
     "copilot/Copilot-Indexed-Files-2025-12-22.md",
@@ -282,7 +283,6 @@
     "copilot-conversations/黑蔑特王朝_为我写写黑蔑特王朝的其他家族@20251221_101624.md",
     "copilot-conversations",
     "docs/zh/50_语言文化/语言/图斯克地区常用姓名考.md",
-    "z00_灵感/家族.md",
     "z00_灵感",
     "未命名",
     "王朝.base",
