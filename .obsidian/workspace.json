@@ -11,10 +11,24 @@
             "id": "dd79c1186d3162af",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "关系图谱"
+              "type": "markdown",
+              "state": {
+                "file": "docs/zh/20_历史长河/大事件/七家共治.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "七家共治"
             }
           },
           {
@@ -47,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/50_语言文化/index.md",
+                "file": "docs/zh/10_地理概览/地点/依克列港.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -62,11 +76,10 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "index"
+              "title": "依克列港"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -229,7 +242,7 @@
             }
           }
         ],
-        "currentTab": 5
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -252,37 +265,37 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "ced54ff7f62681bc",
+  "active": "dd79c1186d3162af",
   "lastOpenFiles": [
-    "docs/zh/40_家族血脉/index.md",
-    "docs/zh/50_语言文化/index.md",
-    "docs/zh/01_地理概览/地理概览.pages",
-    "docs/zh/20_历史长河/index.md",
     "docs/zh/10_地理概览/index.md",
+    "docs/zh/20_历史长河/大事件/七家共治.md",
+    "docs/zh/50_语言文化/语言/图斯克地区常用姓名考.md",
+    "docs/zh/10_地理概览/地点/依克列港.md",
+    "docs/zh/10_地理概览/拉埃拉德.md",
+    "docs/zh/10_地理概览/古督卡-阿瑟萨山脉.md",
+    "docs/zh/10_地理概览/诺瓦亚.md",
+    "docs/zh/50_语言文化/语言/index.md",
+    "docs/zh/40_家族血脉/黑蔑特/index.md",
+    "docs/zh/20_历史长河/index.md",
+    "docs/zh/20_历史长河/朝代更迭/莫斯瓦里克王朝.md",
+    "docs/zh/10_地理概览/地点/黑蔑特.md",
+    "docs/zh/10_地理概览/地点/拉普里奥.md",
+    "docs/zh/30_政治势力/图斯克/咕洛诸部.md",
+    "docs/zh/10_地理概览/地点/图斯克.md",
+    "docs/zh/40_家族血脉/黑蔑特/波拉斯蓬.md",
+    "docs/zh/40_家族血脉/铁苏库/index.md",
+    "docs/zh/20_历史长河/图斯克帝国史.md",
+    "copilot/Copilot-Indexed-Files-2025-12-22.md",
+    "docs/zh/50_语言文化/index.md",
+    "docs/zh/40_家族血脉/index.md",
+    "docs/zh/01_地理概览/地理概览.pages",
     "docs/zh/30_政治势力/index.md",
     "docs/zh/10_地理概览/地点/俺东.md",
     "docs/zh/index.md",
-    "docs/zh/10_地理概览/地点/拉普里奥.md",
     "docs/zh/10_地理概览/地点/哈希特城.md",
-    "copilot/Copilot-Indexed-Files-2025-12-22.md",
     "docs/zh/40_家族与人物/铁苏库/index.md",
     "docs/zh/40_家族与人物/铁苏库",
     "docs/zh/40_家族与人物",
-    "docs/zh/20_历史长河/大事件/七家共治.md",
-    "模板/王朝.md",
-    "docs/zh/20_历史长河/朝代更迭/黑蔑特王朝.md",
-    "docs/zh/10_地理概览/拉埃拉德.md",
-    "docs/zh/10_地理概览/诺瓦亚.md",
-    "docs/zh/50_语言文化/语言/index.md",
-    "docs/zh/20_历史长河/大事件/index.md",
-    "docs/zh/10_地理概览/古督卡-阿瑟萨山脉.md",
-    "docs/zh/10_地理概览/地点/图斯克.md",
-    "z00_灵感/图斯克神话 1.md",
-    "z00_灵感/原始语名字.md",
-    "docs/zh/10_地理概览/地点/黑蔑特.md",
-    "docs/zh/10_地理概览/地点/齐米亚克.md",
-    "docs/zh/10_地理概览/地点/马塔肖萨门大道.md",
-    "docs/zh/40_家族血脉/莫斯瓦里克/index.md",
     "copilot-conversations",
     "z00_灵感",
     "未命名",
