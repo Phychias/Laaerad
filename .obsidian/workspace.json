@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/20_历史长河/大事件/七家共治.md",
+                "file": "docs/zh/index.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "七家共治"
+              "title": "index"
             }
           },
           {
@@ -208,13 +208,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/20_历史长河/大事件/七家共治.md",
+                "file": "docs/zh/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "七家共治 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -267,8 +267,10 @@
   },
   "active": "dd79c1186d3162af",
   "lastOpenFiles": [
-    "docs/zh/10_地理概览/index.md",
+    "docs/zh/30_政治势力/index.md",
+    "docs/zh/index.md",
     "docs/zh/20_历史长河/大事件/七家共治.md",
+    "docs/zh/10_地理概览/index.md",
     "docs/zh/50_语言文化/语言/图斯克地区常用姓名考.md",
     "docs/zh/10_地理概览/地点/依克列港.md",
     "docs/zh/10_地理概览/拉埃拉德.md",
@@ -289,9 +291,7 @@
     "docs/zh/50_语言文化/index.md",
     "docs/zh/40_家族血脉/index.md",
     "docs/zh/01_地理概览/地理概览.pages",
-    "docs/zh/30_政治势力/index.md",
     "docs/zh/10_地理概览/地点/俺东.md",
-    "docs/zh/index.md",
     "docs/zh/10_地理概览/地点/哈希特城.md",
     "docs/zh/40_家族与人物/铁苏库/index.md",
     "docs/zh/40_家族与人物/铁苏库",
