@@ -8,60 +8,12 @@
         "type": "tabs",
         "children": [
           {
-            "id": "dd79c1186d3162af",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/zh/index.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "index"
-            }
-          },
-          {
-            "id": "4e3baa4b73ad44cf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "docs/zh/01_地理概览/地点/哈希特城.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "哈希特城"
-            }
-          },
-          {
             "id": "3e4225bc364a5a11",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/10_地理概览/地点/依克列港.md",
+                "file": "docs/zh/20_历史长河/大事件/七家共治.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +28,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "依克列港"
+              "title": "七家共治"
             }
           }
         ]
@@ -208,13 +160,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/index.md",
+                "file": "docs/zh/20_历史长河/大事件/七家共治.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "index 的大纲"
+              "title": "七家共治 的大纲"
             }
           },
           {
@@ -242,11 +194,11 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 5
       }
     ],
     "direction": "horizontal",
-    "width": 335.5
+    "width": 337.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -265,14 +217,27 @@
       "github-sync:Sync with Remote": false
     }
   },
-  "active": "dd79c1186d3162af",
+  "active": "ced54ff7f62681bc",
   "lastOpenFiles": [
-    "docs/zh/30_政治势力/index.md",
-    "docs/zh/index.md",
-    "docs/zh/20_历史长河/大事件/七家共治.md",
-    "docs/zh/10_地理概览/index.md",
     "docs/zh/50_语言文化/语言/图斯克地区常用姓名考.md",
+    "docs/zh/50_语言文化/语言/拉普里奥语.md",
+    "docs/zh/50_语言文化/语言/图斯克语.md",
+    "docs/zh/20_历史长河/大事件/七家共治.md",
+    "docs/zh/20_历史长河/朝代更迭/黑蔑特王朝.md",
+    "docs/zh/30_政治势力/图斯克/图斯克帝国.md",
+    "模板/国家.md",
+    "docs/zh/30_政治势力/图斯克/图斯克城邦联盟.md",
+    "docs/zh/30_政治势力/图斯克/图斯克王国.md",
+    "docs/zh/40_家族血脉/维斯尤丰/index.md",
     "docs/zh/10_地理概览/地点/依克列港.md",
+    "模板/家族.md",
+    "copilot-custom-prompts/维基化.md",
+    "docs/zh/40_家族血脉/瑞联/index.md",
+    "docs/zh/40_家族血脉/黑蔑特/马塔肖萨门二世.md",
+    "docs/zh/40_家族血脉/瑞联",
+    "docs/zh/index.md",
+    "docs/zh/30_政治势力/index.md",
+    "docs/zh/10_地理概览/index.md",
     "docs/zh/10_地理概览/拉埃拉德.md",
     "docs/zh/10_地理概览/古督卡-阿瑟萨山脉.md",
     "docs/zh/10_地理概览/诺瓦亚.md",
@@ -281,19 +246,7 @@
     "docs/zh/20_历史长河/index.md",
     "docs/zh/20_历史长河/朝代更迭/莫斯瓦里克王朝.md",
     "docs/zh/10_地理概览/地点/黑蔑特.md",
-    "docs/zh/10_地理概览/地点/拉普里奥.md",
-    "docs/zh/30_政治势力/图斯克/咕洛诸部.md",
-    "docs/zh/10_地理概览/地点/图斯克.md",
-    "docs/zh/40_家族血脉/黑蔑特/波拉斯蓬.md",
-    "docs/zh/40_家族血脉/铁苏库/index.md",
-    "docs/zh/20_历史长河/图斯克帝国史.md",
-    "copilot/Copilot-Indexed-Files-2025-12-22.md",
-    "docs/zh/50_语言文化/index.md",
-    "docs/zh/40_家族血脉/index.md",
     "docs/zh/01_地理概览/地理概览.pages",
-    "docs/zh/10_地理概览/地点/俺东.md",
-    "docs/zh/10_地理概览/地点/哈希特城.md",
-    "docs/zh/40_家族与人物/铁苏库/index.md",
     "docs/zh/40_家族与人物/铁苏库",
     "docs/zh/40_家族与人物",
     "copilot-conversations",
@@ -302,7 +255,6 @@
     "王朝.base",
     "未命名.base",
     "docs/zh/30_政治势力/图斯克",
-    "docs/zh/20_历史长河/朝代更迭",
     "docs/assets/img/Heimet_1.png",
     "docs/assets/img/Gemini_Generated_Image_wydgpkwydgpkwydg.png",
     "docs/assets/img/Gemini_Generated_Image_eco8ozeco8ozeco8.png",
