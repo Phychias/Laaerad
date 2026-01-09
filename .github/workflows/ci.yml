@@ -1,0 +1,18 @@
+name: ci
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      - run: pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-rss-plugin mkdocs-static-i18n mkdocs-awesome-pages-plugin mkdocs-mermaid2-plugin
+      - run: pip show mkdocs-material
+      - run: mkdocs gh-deploy --force
