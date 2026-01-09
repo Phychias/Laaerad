@@ -1,0 +1,107 @@
+site_name: 拉埃拉德世界维基
+site_description: 拉埃拉德世界百科
+
+theme:
+  language: zh
+  name: 'material'
+  features:
+    - navigation.tops
+    - navigation.tabs     # 可选，导航栏的标签
+    - navigation.path
+    - navigation.sections
+    - navigation.prune
+    - navigation.indexes 
+    - content.tabs.link   # 可选
+  palette:
+    # 切换到日间模式
+    - scheme: default
+      primary: custom # 让 CSS 接管
+      accent: custom
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    # 切换到夜间模式
+    - scheme: slate
+      primary: custom
+      accent: custom
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+
+
+# Extensions
+markdown_extensions:
+  - footnotes
+  - attr_list
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.magiclink
+  - pymdownx.tasklist:
+      custom_checkbox: true
+  - def_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.keys
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+
+  - toc:
+      permalink: true
+
+plugins:
+  - search
+  - awesome-pages
+  - roamlinks
+  - i18n:
+      docs_structure: folder
+      default_language: zh
+      fallback_to_default: true
+      reconfigure_material: true
+      reconfigure_search: true
+      languages:
+        - locale: zh
+          name: 中文
+          default: true
+          build: true
+          site_name: 拉埃拉德世界维基
+
+        - locale: en
+          name: English
+          build: true
+          site_name: Laaerad Wiki
+          nav_translations:
+            "10_地理概览": "Geography"
+            "20_历史长河": "History" 
+            "30_政治势力": "Powers"
+            "40_家族血脉": "Families"
+            "50_语言文化": "Cultures"
+            
+            
+
+  # - rss
+
+extra_javascript:
+  - javascripts/mathjax.js
+  - https://polyfill.io/v3/polyfill.min.js?features=es6
+  - https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js
+  - https://unpkg.com/mermaid/dist/mermaid.min.js 
+  - https://unpkg.com/leaflet/dist/leaflet.js
+  - assets/js/map.js
+
+extra_css:
+  - https://unpkg.com/leaflet/dist/leaflet.css
+  - stylesheets/extra.css
+  - assets/css/fonts.css
+  - assets/css/float.css
+  
