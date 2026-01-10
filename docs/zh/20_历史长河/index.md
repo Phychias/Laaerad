@@ -10,29 +10,12 @@ aliases:
 以下是拉埃拉德世界的编年史，记录了从上古部落形成至今的关键转折点。
 
 ## ⏳ 历史总览
-
-```mermaid
-timeline
-    title 图斯克文明演进史
-    section 上古时代
-        BC 3500 : 部落形成
-        BC 3000 : 城邦兴起
-        BC 2180 : 恐渎念战争
-    section 城邦时期
-        BC 1500 : [[奎列奥王朝]]
-        BC 883 : [[黑蔑特第一王朝]]
-        BC 650 : [[七家共治]]
-        BC 455 : [[拉瓦劳氏族]] (诺瓦亚)
-    section 前帝国时期
-        BC 183 : [[莫斯瓦里克王朝]]
-        BC 48 : 长夜之乱
-        BC 65 : [[黑蔑特第二王朝]]
-    section 帝国时期
-        AD 1 : [[铁苏库第一王朝]]
-        AD 50 : [[伯帖斯抓护王朝]]
-        AD 153 : [[铁苏库第二王朝]]
-```
-
+<div class="interactive-timeline" style="display: flex; width: 100%; height: 40px; border-radius: 10px; overflow: hidden; margin: 25px 0; box-shadow: 0 4px 10px rgba(0,0,0,0.1);">
+    <a href="#上古时代-bc-3500-bc-1500" style="flex: 4; background-color: #4f6d7a; color: white; display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: bold; transition: 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">上古</a>
+    <a href="#城邦时期-bc-1500-bc-183" style="flex: 3; background-color: #5ea5b8; color: white; display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: bold; transition: 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">城邦</a>
+    <a href="#前帝国时期-bc-183-ad-1" style="flex: 1.5; background-color: #9a8c98; color: white; display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: bold; transition: 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">前帝国</a>
+    <a href="#帝国时期-ad-1-至今" style="flex: 1.5; background-color: #c9ada7; color: white; display: flex; align-items: center; justify-content: center; text-decoration: none; font-weight: bold; transition: 0.3s;" onmouseover="this.style.opacity='0.8'" onmouseout="this.style.opacity='1'">帝国</a>
+</div>
 ---
 
 ## 🛡️ 上古时代 (BC 3500 - BC 1500)
@@ -57,17 +40,17 @@ timeline
 - **BC 1200**：黑蔑特城邦势力抬头，形成地方割据。
 - **BC 900**：马塔肖萨门一世迁都黑蔑特，架空皇权。
 
-### [[黑蔑特第一王朝]] (BC 883 - BC 520)
+### [黑蔑特第一王朝](朝代更迭/黑蔑特王朝.md#黑蔑特第一王朝) (BC 883 - BC 520)
 !!! info "王朝基石"
     黑蔑特第一王朝确立了图斯克的商业基础与官僚体系雏形。
 
 - **BC 883**：[[马塔肖萨门二世]] 建立王朝，修筑马塔肖萨门大道。
-- **BC 845**：[[波拉斯蓬]] 征服克鲁索法，开采金矿，国力达至顶峰。
+- **BC 845**：[[波拉斯蓬]] 征服克鲁索法，开采金矿，图斯克国力达至顶峰。
 - **BC 650**：**[[七家共治]]** 开始。中央集权瓦解，由七大贵族家族组成元老议会共同执政。
 - **BC 598**：[[卓奥西一世]] 废除共和，确立帝国标准疆域。
 
 ### [[拉普里奥王朝]] 与 巴西卜 (BC 455 - BC 190)
-- **BC 455**：南方的 **[[拉瓦劳氏族]]** 利用传送法阵网络建立诺瓦亚王朝。
+- **BC 455**：南方的  利用传送法阵网络建立诺瓦亚王朝。
 - **BC 278**：巴西卜王朝驱逐拉普里奥人，形成南北割据。
 
 ---
@@ -79,7 +62,7 @@ timeline
 - **BC 183**：咕洛大酋长 [[图录亥刻]] 发动“海峡战役”，征服黑蔑特。
 - **BC 150**：**灵语黄金期**。确立了灵语者（皎忽匝依）的祭司地位，推行宗教改革。
 
-### [[黑蔑特第二王朝]] (BC 65 - BC 1)
+### [[朝代更迭/黑蔑特王朝#黑蔑特第二王朝|黑蔑特第二王朝]] (BC 65 - BC 1)
 !!! abstract "白银时代"
     BC 26 - BC 5 年间，在奥勒曼的统治下，图斯克迎来了农业与贸易的全面复苏。
 
@@ -92,7 +75,7 @@ timeline
 ## 👑 帝国时期 (AD 1 - 至今)
 > **核心特征**：铁苏库集权、日落宴会、百年乱局。
 
-### [[铁苏库第一王朝]] (AD 1 - AD 48)
+### [[朝代更迭/铁苏库王朝#👑 铁苏库第一王朝|铁苏库第一王朝]] (AD 1 - AD 48)
 - **AD 1**：**[[德卓黑一世]]** 攻破哈希特城，确立图斯克公元，利用传送法阵遗产平定四方。
 
 ### [黑蔑特第三王朝](朝代更迭/黑蔑特王朝.md#黑蔑特第三王朝) 与[[伯帖斯抓护王朝]] (AD 48 - AD 153)
@@ -102,7 +85,7 @@ timeline
     - 中央集权名存实亡，皇位更迭频繁。
     - **正面影响**：税收宽松，民间商业与自由贸易空前繁荣，文化多元化。
 
-### [[铁苏库第二王朝]] (AD 153 - 至今)
+### [[朝代更迭/铁苏库王朝#⚔️ 铁苏库第二王朝|铁苏库第二王朝]] (AD 153 - 至今)
 !!! success "集权巅峰"
     德卓黑三世通过军事改革与货币统一，彻底终结了地方割据。
 
@@ -112,8 +95,3 @@ timeline
 - **AD 175**：莱斯卫即位。
 
 ---
-
-### 💡 网站排版建议 (MkDocs)
-1.  **内部链接**：确保 `[[王朝名称]]` 对应的文件路径正确，MkDocs 会自动将其转为超链接。
-2.  **标签使用**：在文件顶部保留 `tags`，方便 MkDocs-Material 的搜索插件进行分类。
-3.  **折叠块**：对于“百年乱局”等细节较多的部分，可以使用 `??? note "点击查看细节"` 语法进行折叠，保持页面整洁。
