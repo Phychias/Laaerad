@@ -16,61 +16,18 @@ aliases:
 
 ## ⏳ 历史总览
 
-<!-- 卡片 1: 上古时代 -->
-<div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 20px; background: var(--md-code-bg-color); border-top: 5px solid #4f6d7a; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'">
-    <h3 style="margin: 0 0 10px 0; color: #4f6d7a;"><a href="#上古时代" style="text-decoration: none; color: inherit;">🛡️ 上古时代</a></h3>
-    <p style="font-size: 0.85em; color: var(--md-default-fg-color--light); margin-bottom: 15px;">BC 3500 - BC 1500</p>
-    <ul style="padding-left: 20px; margin: 0; font-size: 0.9em; line-height: 1.6; list-style-type: disc; color: var(--md-default-fg-color);">
-        <li>西部山脉青铜聚落形成</li>
-        <li>俺东蛮族与恐渎念海盗入侵</li>
-        <li>诸城联盟达成，古图斯克崛起</li>
-    </ul>
-</div>
-
-<!-- 卡片 2: 城邦时期 -->
-<div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 20px; background: var(--md-code-bg-color); border-top: 5px solid #5ea5b8; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'">
-    <h3 style="margin: 0 0 10px 0; color: #5ea5b8;"><a href="#城邦时期" style="text-decoration: none; color: inherit;">🏛️ 城邦时期</a></h3>
-    <p style="font-size: 0.85em; color: var(--md-default-fg-color--light); margin-bottom: 15px;">BC 1500 - BC 183</p>
-    <ul style="padding-left: 20px; margin: 0; font-size: 0.9em; line-height: 1.6; list-style-type: disc; color: var(--md-default-fg-color);">
-        <li><a href="obsidian://open?file=docs%2Fzh%2F20_%E5%8E%86%E5%8F%B2%E9%95%BF%E6%B2%B3%2F%E6%9C%9D%E4%BB%A3%E6%9B%B4%E8%BF%AD%2F%E5%A5%8E%E5%88%97%E5%A5%A5%E7%8E%8B%E6%9C%9D.md">奎列奥王朝</a> 首次大一统</li>
-        <li><a href="obsidian://open?file=docs%2Fzh%2F20_%E5%8E%86%E5%8F%B2%E9%95%BF%E6%B2%B3%2F%E5%A4%A7%E4%BA%8B%E4%BB%B6%2F%E4%B8%83%E5%AE%B6%E5%85%B1%E6%B2%BB.md">七家共治</a> 共和体制尝试</li>
-        <li>拉瓦劳氏族传送法阵网络</li>
-    </ul>
-</div>
-
-<!-- 卡片 3: 前帝国时期 -->
-<div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 20px; background: var(--md-code-bg-color); border-top: 5px solid #9a8c98; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'">
-    <h3 style="margin: 0 0 10px 0; color: #9a8c98;"><a href="#前帝国时期" style="text-decoration: none; color: inherit;">🐎 前帝国时期</a></h3>
-    <p style="font-size: 0.85em; color: var(--md-default-fg-color--light); margin-bottom: 15px;">BC 183 - AD 1</p>
-    <ul style="padding-left: 20px; margin: 0; font-size: 0.9em; line-height: 1.6; list-style-type: disc; color: var(--md-default-fg-color);">
-        <li>咕洛大酋长建立莫斯瓦里克</li>
-        <li>灵语黄金期与祭司阶层确立</li>
-        <li>长夜之乱与奥勒曼白银时代</li>
-    </ul>
-</div>
-
-<!-- 卡片 4: 帝国时期 -->
-<div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 20px; background: var(--md-code-bg-color); border-top: 5px solid #c9ada7; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'">
-    <h3 style="margin: 0 0 10px 0; color: #c9ada7;"><a href="#帝国时期" style="text-decoration: none; color: inherit;">👑 帝国时期</a></h3>
-    <p style="font-size: 0.85em; color: var(--md-default-fg-color--light); margin-bottom: 15px;">AD 1 - 至今</p>
-    <ul style="padding-left: 20px; margin: 0; font-size: 0.9em; line-height: 1.6; list-style-type: disc; color: var(--md-default-fg-color);">
-        <li><a href="obsidian://open?file=docs%2Fzh%2F40_%E5%AE%B6%E6%97%8F%E8%A1%80%E8%84%89%2F%E9%93%81%E8%8B%8F%E5%BA%93%2F%E5%BE%B7%E5%8D%93%E9%BB%91%E4%B8%80%E4%B8%96.md">德卓黑一世</a> 攻占哈希特旧都</li>
-        <li>日落宴会政变与百年乱局</li>
-        <li>铁苏库第二王朝确立嫡长制</li>
-    </ul>
-</div>
-
+<!-- 容器：使用 grid 布局，minmax 调小以确保在普通屏幕上能并排 4 列 --> <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 12px; margin: 20px 0;"> <!-- 卡片 1: 上古时代 --> <div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 15px; background: var(--md-code-bg-color); border-top: 5px solid #4f6d7a; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'"> <h3 style="margin: 0 0 10px 0; color: #4f6d7a;"><a href="#上古时代" style="text-decoration: none; color: inherit;">🛡️ 上古时代</a></h3> <p style="font-size: 0.8em; color: var(--md-default-fg-color--light); margin-bottom: 10px;">BC 3500 - BC 1500</p> <ul style="padding-left: 18px; margin: 0; font-size: 0.85em; line-height: 1.4; list-style-type: disc; color: var(--md-default-fg-color);"> <li>青铜聚落形成</li> <li>蛮族与海盗入侵</li> <li>城邦联盟达成</li> </ul> </div> <!-- 卡片 2: 城邦时期 --> <div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 15px; background: var(--md-code-bg-color); border-top: 5px solid #5ea5b8; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'"> <h3 style="margin: 0 0 10px 0; color: #5ea5b8;"><a href="#城邦时期" style="text-decoration: none; color: inherit;">🏛️ 城邦时期</a></h3> <p style="font-size: 0.8em; color: var(--md-default-fg-color--light); margin-bottom: 10px;">BC 1500 - BC 183</p> <ul style="padding-left: 18px; margin: 0; font-size: 0.85em; line-height: 1.4; list-style-type: disc; color: var(--md-default-fg-color);"> <li>[[#奎列奥王朝]]</li> <li>[[#[黑蔑特第一王朝](朝代更迭/黑蔑特王朝. md 黑蔑特第一王朝)]] 共和</li> <li>传送法阵网络</li> </ul> </div> <!-- 卡片 3: 前帝国时期 --> <div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 15px; background: var(--md-code-bg-color); border-top: 5px solid #9a8c98; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'"> <h3 style="margin: 0 0 10px 0; color: #9a8c98;"><a href="#前帝国时期" style="text-decoration: none; color: inherit;">🐎 前帝国时期</a></h3> <p style="font-size: 0.8em; color: var(--md-default-fg-color--light); margin-bottom: 10px;">BC 183 - AD 1</p> <ul style="padding-left: 18px; margin: 0; font-size: 0.85em; line-height: 1.4; list-style-type: disc; color: var(--md-default-fg-color);"> <li>咕洛大酋长征服</li> <li>灵语黄金期确立</li> <li>长夜之乱与白银</li> </ul> </div> <!-- 卡片 4: 帝国时期 --> <div style="border: 1px solid var(--md-default-fg-color--lightest); border-radius: 12px; padding: 15px; background: var(--md-code-bg-color); border-top: 5px solid #c9ada7; box-shadow: var(--md-shadow-z1); transition: transform 0.2s, box-shadow 0.2s;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='var(--md-shadow-z2)'" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='var(--md-shadow-z1)'"> <h3 style="margin: 0 0 10px 0; color: #c9ada7;"><a href="#帝国时期" style="text-decoration: none; color: inherit;">👑 帝国时期</a></h3> <p style="font-size: 0.8em; color: var(--md-default-fg-color--light); margin-bottom: 10px;">AD 1 - 至今</p> <ul style="padding-left: 18px; margin: 0; font-size: 0.85em; line-height: 1.4; list-style-type: disc; color: var(--md-default-fg-color);"> <li>德卓黑攻占旧都</li> <li>日落宴会与乱局</li> <li>铁苏库第二王朝</li> </ul> </div> </div>
 ## 🛡️ 上古时代
 > **核心特征**：部落扩张、早期城邦混战、原始多神信仰。
 
-| 年份 | 事件 | 影响 |
-| :--- | :--- | :--- |
-| **BC 3500** | 古图斯克部落形成 | 西部山脉早期聚落出现，青铜冶炼初步发展。 |
-| **BC 3000** | 早期城邦形成 | 原始多神信仰体系确立，出现十余个独立城邦。 |
-| **BC 2800** | 俺东蛮族入侵 | 八股纳洛与黑蔑特地区首次结成城邦联盟抵御外敌。 |
-| **BC 2400** | 恐渎念海盗入侵 | 沿海诸城受到重创，引发了长达两百年的信仰与生存危机。 |
-| **BC 2180** | 恐渎念战争结束 | 诸城进入相对平稳的恢复期，古图斯克开始崛起。 |
-| **BC 1700** | 古图斯克曲折统一 | 农业效率提高，锻造水平增长，为王朝建立奠基。 |
+| 年份          | 事件       | 影响                         |
+| :---------- | :------- | :------------------------- |
+| **BC 3500** | 古图斯克部落形成 | 西部山脉早期聚落出现，青铜冶炼初步发展。       |
+| **BC 3000** | 早期城邦形成   | 原始多神信仰体系确立，出现十余个独立城邦。      |
+| **BC 2800** | 俺东蛮族入侵   | 八股纳洛与黑蔑特地区首次结成城邦联盟抵御外敌。    |
+| **BC 2400** | 恐渎念海盗入侵  | 沿海诸城受到重创，引发了长达两百年的信仰与生存危机。 |
+| **BC 2180** | 恐渎念战争结束  | 诸城进入相对平稳的恢复期，古图斯克开始崛起。     |
+| **BC 1700** | 古图斯克曲折统一 | 农业效率提高，锻造水平增长，为王朝建立奠基。     |
 
 ---
 
