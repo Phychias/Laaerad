@@ -9,7 +9,7 @@ var trusk_map_data = [
   {
     "name": "依克列港",
     "type": "port",
-    "coords": [920, 2780], 
+    "coords": [980, 2770], 
     "link": "10_地理概览/市镇/依克列港",
     "desc": "北方第一大港，扼守海峡咽喉。"
   },
