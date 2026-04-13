@@ -1,0 +1,10 @@
+{
+  "findText": "\\[\\[(.*/)([^/]+)\\]\\]",
+  "replaceText": "[[$1$2|$2]]",
+  "useRegEx": true,
+  "selOnly": false,
+  "caseInsensitive": false,
+  "processLineBreak": false,
+  "processTab": false,
+  "prefillFind": false
+}

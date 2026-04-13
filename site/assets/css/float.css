@@ -1,0 +1,150 @@
+/* ==========================================================================
+   Wiki Info Box (ITS Theme Style)
+   适配 ITS 主题的配色变量，实现自动日夜切换
+   ========================================================================== */
+
+.md-typeset .admonition.wiki {
+    float: right;
+    width: 300px;
+    margin-left: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    z-index: 5;
+    
+    /* 使用 ITS 主题定义的 "Alt" 背景色 (侧边栏/引用块同款背景) */
+    background-color: var(--md-default-bg-color--alt);
+    
+    /* 边框使用较浅的文字颜色，形成柔和边界 */
+    border: 1px solid var(--md-default-fg-color--light);
+    
+    /* 使用 ITS 定义的圆角 (4px) */
+    border-radius: var(--md-admonition-radius);
+    
+    /* 阴影 */
+    box-shadow: 0 14px 16px rgba(76, 74, 74, 0.1);
+    
+    /* 确保文字颜色跟随主题 */
+    color: var(--md-default-fg-color);
+}
+
+/* --- 标题栏：使用 ITS 标志性的红色风格 --- */
+.md-typeset .admonition.wiki > .admonition-title {
+    /* 使用强调色 (红色) 作为背景，保持 ITS 风格一致性 */
+    background-color: var(--md-accent-fg-color) !important;
+    color: #ffffff !important; /* 白字 */
+    
+    border-bottom: none;
+    font-weight: 700;
+    text-align: center;
+    padding: 8px;
+    margin: 0;
+    
+    /* 顶部圆角 */
+    border-top-left-radius: var(--md-admonition-radius);
+    border-top-right-radius: var(--md-admonition-radius);
+}
+
+/* 去掉默认图标 */
+.md-typeset .admonition.wiki > .admonition-title::before {
+    display: none;
+}
+
+/* --- 内容区域 --- */
+.md-typeset .admonition.wiki > .admonition-content {
+    padding: 10px;
+    font-size: 0.9em;
+    /* 底部圆角 */
+    border-bottom-left-radius: var(--md-admonition-radius);
+    border-bottom-right-radius: var(--md-admonition-radius);
+}
+
+/* --- 表格样式重置 --- */
+/* 强制 Wiki 内部表格透明，避免套娃背景 */
+.md-typeset .admonition.wiki table {
+    display: table;
+    width: 100%;
+    margin: 0;
+    /* background-color: transparent !important;
+    border: none !important;
+    box-shadow: none !important; */
+}
+
+/* 单元格样式 */
+.md-typeset .admonition.wiki td, 
+.md-typeset .admonition.wiki th {
+    padding: 6px 4px;
+    /* 使用浅色文字颜色作为分割线，在深色模式下自动变暗 */
+    border-bottom: 1px solid var(--md-default-fg-color); 
+    color: var(--md-default-fg-color);
+    background-color: transparent !important; /* 确保没有表头背景色 */
+}
+
+.md-typeset .admonition.wiki tr:last-child td {
+    border-bottom: none;
+}
+
+/* --- 移动端适配 --- */
+@media screen and (max-width: 60em) {
+    .md-typeset .admonition.wiki {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 1em;
+    }
+}/* 1. 定义 wiki 信息栏的基础样式 */
+.md-typeset .admonition.wiki {
+    float: right;           /* 向右浮动 */
+    width: 300px;           /* 固定宽度 */
+    margin-left: 1.5rem;    /* 左侧留白，防止正文贴太紧 */
+    margin-top: 0;          /* 顶部对齐 */
+    margin-bottom: 1rem;
+    z-index: 5;
+    
+    /* 颜色风格：模仿维基百科的灰色/蓝色调 */
+    border-left: none;      /* 去掉默认左侧粗线条 */
+    border: 1px solid #a2a9b1;
+    background-color: #f8f9fa;
+    box-shadow: 0 4px 10px rgba(0,0,0,0.05);
+}
+
+/* 2. 定义标题栏样式 */
+.md-typeset .admonition.wiki > .admonition-title {
+    background-color: #eaecf0; /* 浅灰色背景 */
+    color: #000;               /* 黑色文字 */
+    border-bottom: 1px solid #a2a9b1;
+    font-weight: bold;
+    text-align: center;        /* 标题居中 */
+    padding: 8px;
+}
+
+/* 去掉标题栏默认的图标（如果不想要图标） */
+.md-typeset .admonition.wiki > .admonition-title::before {
+    display: none; 
+}
+
+/* 3. 内容区域样式优化 */
+.md-typeset .admonition.wiki > .admonition-content {
+    padding: 10px;
+    font-size: 0.9em; /* 字体稍微小一点 */
+}
+
+/* 表格样式微调 */
+.md-typeset .admonition.wiki table {
+    display: table;
+    width: 100%;
+    margin: 0;
+}
+.md-typeset .admonition.wiki td, 
+.md-typeset .admonition.wiki th {
+    padding: 4px;
+    border-bottom: 1px solid #eee;
+}
+
+/* 4. 移动端适配：手机上不浮动，占满整行 */
+@media screen and (max-width: 50em) {
+    .md-typeset .admonition.wiki {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+    }
+}

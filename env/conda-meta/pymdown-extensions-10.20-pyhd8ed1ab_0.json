@@ -1,0 +1,654 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_0",
+    "build_number": 0,
+    "build_string": "pyhd8ed1ab_0",
+    "channel": "conda-forge",
+    "depends": [
+        "pyyaml",
+        "python >=3.10",
+        "markdown >=3.6"
+    ],
+    "extracted_package_dir": "/home/anduine/.local/share/mamba/pkgs/pymdown-extensions-10.20-pyhd8ed1ab_0",
+    "files": [
+        "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/INSTALLER",
+        "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/METADATA",
+        "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/RECORD",
+        "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/REQUESTED",
+        "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/WHEEL",
+        "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/direct_url.json",
+        "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/licenses/LICENSE.md",
+        "lib/python3.11/site-packages/pymdownx/__init__.py",
+        "lib/python3.11/site-packages/pymdownx/__meta__.py",
+        "lib/python3.11/site-packages/pymdownx/_bypassnorm.py",
+        "lib/python3.11/site-packages/pymdownx/arithmatex.py",
+        "lib/python3.11/site-packages/pymdownx/b64.py",
+        "lib/python3.11/site-packages/pymdownx/betterem.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/__init__.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/admonition.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/block.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/caption.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/definition.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/details.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/html.py",
+        "lib/python3.11/site-packages/pymdownx/blocks/tab.py",
+        "lib/python3.11/site-packages/pymdownx/caret.py",
+        "lib/python3.11/site-packages/pymdownx/critic.py",
+        "lib/python3.11/site-packages/pymdownx/details.py",
+        "lib/python3.11/site-packages/pymdownx/emoji.py",
+        "lib/python3.11/site-packages/pymdownx/emoji1_db.py",
+        "lib/python3.11/site-packages/pymdownx/escapeall.py",
+        "lib/python3.11/site-packages/pymdownx/extra.py",
+        "lib/python3.11/site-packages/pymdownx/fancylists.py",
+        "lib/python3.11/site-packages/pymdownx/gemoji_db.py",
+        "lib/python3.11/site-packages/pymdownx/highlight.py",
+        "lib/python3.11/site-packages/pymdownx/inlinehilite.py",
+        "lib/python3.11/site-packages/pymdownx/keymap_db.py",
+        "lib/python3.11/site-packages/pymdownx/keys.py",
+        "lib/python3.11/site-packages/pymdownx/magiclink.py",
+        "lib/python3.11/site-packages/pymdownx/mark.py",
+        "lib/python3.11/site-packages/pymdownx/pathconverter.py",
+        "lib/python3.11/site-packages/pymdownx/progressbar.py",
+        "lib/python3.11/site-packages/pymdownx/quotes.py",
+        "lib/python3.11/site-packages/pymdownx/saneheaders.py",
+        "lib/python3.11/site-packages/pymdownx/slugs.py",
+        "lib/python3.11/site-packages/pymdownx/smartsymbols.py",
+        "lib/python3.11/site-packages/pymdownx/snippets.py",
+        "lib/python3.11/site-packages/pymdownx/striphtml.py",
+        "lib/python3.11/site-packages/pymdownx/superfences.py",
+        "lib/python3.11/site-packages/pymdownx/tabbed.py",
+        "lib/python3.11/site-packages/pymdownx/tasklist.py",
+        "lib/python3.11/site-packages/pymdownx/tilde.py",
+        "lib/python3.11/site-packages/pymdownx/twemoji_db.py",
+        "lib/python3.11/site-packages/pymdownx/util.py",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/__meta__.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/_bypassnorm.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/arithmatex.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/b64.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/betterem.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/admonition.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/block.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/caption.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/definition.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/details.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/html.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/tab.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/caret.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/critic.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/details.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/emoji.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/emoji1_db.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/escapeall.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/extra.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/fancylists.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/gemoji_db.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/highlight.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/inlinehilite.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/keymap_db.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/keys.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/magiclink.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/mark.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/pathconverter.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/progressbar.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/quotes.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/saneheaders.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/slugs.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/smartsymbols.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/snippets.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/striphtml.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/superfences.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/tabbed.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/tasklist.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/tilde.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/twemoji_db.cpython-311.pyc",
+        "lib/python3.11/site-packages/pymdownx/__pycache__/util.cpython-311.pyc"
+    ],
+    "fn": "pymdown-extensions-10.20-pyhd8ed1ab_0.conda",
+    "license": "MIT",
+    "license_family": "MIT",
+    "link": {
+        "source": "/home/anduine/.local/share/mamba/pkgs/pymdown-extensions-10.20-pyhd8ed1ab_0",
+        "type": 1
+    },
+    "md5": "63c6c4ffe0bd7ab5e79a09b8d867b5e0",
+    "name": "pymdown-extensions",
+    "noarch": "python",
+    "package_tarball_full_path": "/home/anduine/.local/share/mamba/pkgs/pymdown-extensions-10.20-pyhd8ed1ab_0.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "8c79c287f4a2fec49c237cbe1f8536dc15e1367cb9f94d88dd8b0f5becb64f4b",
+                "sha256_in_prefix": "8c79c287f4a2fec49c237cbe1f8536dc15e1367cb9f94d88dd8b0f5becb64f4b",
+                "size_in_bytes": 3142
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "f453ad472783cd66620ffd051886f56f684c403e0b3d50596594c82f135b71c6",
+                "sha256_in_prefix": "f453ad472783cd66620ffd051886f56f684c403e0b3d50596594c82f135b71c6",
+                "size_in_bytes": 6227
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "6586d5bcfbdb9971639008b4afac6a41c16d5ca0250e51317bb2b0a21b2d9e02",
+                "sha256_in_prefix": "6586d5bcfbdb9971639008b4afac6a41c16d5ca0250e51317bb2b0a21b2d9e02",
+                "size_in_bytes": 114
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdown_extensions-10.20.dist-info/licenses/LICENSE.md",
+                "path_type": "hardlink",
+                "sha256": "e6645f914fbae5bc557419fcafbeab9e375897e8274c54e2b177953e9354f93e",
+                "sha256_in_prefix": "e6645f914fbae5bc557419fcafbeab9e375897e8274c54e2b177953e9354f93e",
+                "size_in_bytes": 4292
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "fa0b5d0ad7e6ec4638f2f6312d172bddf726a6705c598a915bda21bc793fffa4",
+                "sha256_in_prefix": "fa0b5d0ad7e6ec4638f2f6312d172bddf726a6705c598a915bda21bc793fffa4",
+                "size_in_bytes": 141
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__meta__.py",
+                "path_type": "hardlink",
+                "sha256": "46e909d822e091714e59b7298602dd6fee34e88edd14214bb143fd67c3ff42dc",
+                "sha256_in_prefix": "46e909d822e091714e59b7298602dd6fee34e88edd14214bb143fd67c3ff42dc",
+                "size_in_bytes": 6788
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/_bypassnorm.py",
+                "path_type": "hardlink",
+                "sha256": "0dab1679513fc5aa37cdfd2d51d0058c8a95d3e7c7e98fdb6aeab7fbb0b05889",
+                "sha256_in_prefix": "0dab1679513fc5aa37cdfd2d51d0058c8a95d3e7c7e98fdb6aeab7fbb0b05889",
+                "size_in_bytes": 2035
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/arithmatex.py",
+                "path_type": "hardlink",
+                "sha256": "0157d69a06e823841c812686a86f3568a889464cd5dde491f63849bdf85d4ec3",
+                "sha256_in_prefix": "0157d69a06e823841c812686a86f3568a889464cd5dde491f63849bdf85d4ec3",
+                "size_in_bytes": 14770
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/b64.py",
+                "path_type": "hardlink",
+                "sha256": "f110e3336e863bd85676401f68d593d50e2ab6784f8d4737079d018074387894",
+                "sha256_in_prefix": "f110e3336e863bd85676401f68d593d50e2ab6784f8d4737079d018074387894",
+                "size_in_bytes": 4414
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/betterem.py",
+                "path_type": "hardlink",
+                "sha256": "3b33dd9b61dfebf6b8b6b4c60e8b3f8da3c966bd5dfb949cfa730bb7079ed6e2",
+                "sha256_in_prefix": "3b33dd9b61dfebf6b8b6b4c60e8b3f8da3c966bd5dfb949cfa730bb7079ed6e2",
+                "size_in_bytes": 12491
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "660143ca98d7a75df17cacd5a2fe38226e2df72126dbaaf9e8bf6231d70c51de",
+                "sha256_in_prefix": "660143ca98d7a75df17cacd5a2fe38226e2df72126dbaaf9e8bf6231d70c51de",
+                "size_in_bytes": 19700
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/admonition.py",
+                "path_type": "hardlink",
+                "sha256": "4aed8fd5a4b7add557f37d240f44a21ac756c813f723d9734931c6129e3d17f6",
+                "sha256_in_prefix": "4aed8fd5a4b7add557f37d240f44a21ac756c813f723d9734931c6129e3d17f6",
+                "size_in_bytes": 3629
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/block.py",
+                "path_type": "hardlink",
+                "sha256": "e8187da75e5882935aff8c2e48b05fcaa5a718fba4e9d20c91df26f533b72225",
+                "sha256_in_prefix": "e8187da75e5882935aff8c2e48b05fcaa5a718fba4e9d20c91df26f533b72225",
+                "size_in_bytes": 11814
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/caption.py",
+                "path_type": "hardlink",
+                "sha256": "ad3b1100fc8376d7b1584be099f93efc6e997a870aa579d06ca10a67b5abf466",
+                "sha256_in_prefix": "ad3b1100fc8376d7b1584be099f93efc6e997a870aa579d06ca10a67b5abf466",
+                "size_in_bytes": 14775
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/definition.py",
+                "path_type": "hardlink",
+                "sha256": "688fb91db92057befca3919a8814740732943025571ffa962255d473f728379c",
+                "sha256_in_prefix": "688fb91db92057befca3919a8814740732943025571ffa962255d473f728379c",
+                "size_in_bytes": 1754
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/details.py",
+                "path_type": "hardlink",
+                "sha256": "457a35a84e62d048fd6ff4b668bf246d6973448fe41fd3729a46fa8c2278e819",
+                "sha256_in_prefix": "457a35a84e62d048fd6ff4b668bf246d6973448fe41fd3729a46fa8c2278e819",
+                "size_in_bytes": 3864
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/html.py",
+                "path_type": "hardlink",
+                "sha256": "8d61d07d6c2151c7ebd6bb570ae1addcc577d12b9f92a843c54d7da671fafdbf",
+                "sha256_in_prefix": "8d61d07d6c2151c7ebd6bb570ae1addcc577d12b9f92a843c54d7da671fafdbf",
+                "size_in_bytes": 6324
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/tab.py",
+                "path_type": "hardlink",
+                "sha256": "1bc31a2c023df2e9f8c5eda459231ace095d29c57a6495f7f2f56fb145e59042",
+                "sha256_in_prefix": "1bc31a2c023df2e9f8c5eda459231ace095d29c57a6495f7f2f56fb145e59042",
+                "size_in_bytes": 9928
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/caret.py",
+                "path_type": "hardlink",
+                "sha256": "efe67c192ad134378d32983cce5bfefdea008f422a83dcaa6c0d65dbd247e3ce",
+                "sha256_in_prefix": "efe67c192ad134378d32983cce5bfefdea008f422a83dcaa6c0d65dbd247e3ce",
+                "size_in_bytes": 7425
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/critic.py",
+                "path_type": "hardlink",
+                "sha256": "0216aa9aca63843144daa504d43399ce3fb7a6ab741829f0cf3a50b2b9a1e0b7",
+                "sha256_in_prefix": "0216aa9aca63843144daa504d43399ce3fb7a6ab741829f0cf3a50b2b9a1e0b7",
+                "size_in_bytes": 9881
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/details.py",
+                "path_type": "hardlink",
+                "sha256": "2dd76ee2289bd35064a689e9055d3586495d0086cc5958d710d3b8a67b6fd3d5",
+                "sha256_in_prefix": "2dd76ee2289bd35064a689e9055d3586495d0086cc5958d710d3b8a67b6fd3d5",
+                "size_in_bytes": 6728
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/emoji.py",
+                "path_type": "hardlink",
+                "sha256": "c7fd4712cd9c60b611de23c95d55c07502f64d025b65717dbb65587d6b114958",
+                "sha256_in_prefix": "c7fd4712cd9c60b611de23c95d55c07502f64d025b65717dbb65587d6b114958",
+                "size_in_bytes": 13990
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/emoji1_db.py",
+                "path_type": "hardlink",
+                "sha256": "287d39a543b6cdf6aa4ed82fb3ca79e49cb6eef8210a5fc02e47007e6ccd6744",
+                "sha256_in_prefix": "287d39a543b6cdf6aa4ed82fb3ca79e49cb6eef8210a5fc02e47007e6ccd6744",
+                "size_in_bytes": 259076
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/escapeall.py",
+                "path_type": "hardlink",
+                "sha256": "712927167ce37b37f633c393a37c525f166dbc2e706326e752abe0ec07cac8f5",
+                "sha256_in_prefix": "712927167ce37b37f633c393a37c525f166dbc2e706326e752abe0ec07cac8f5",
+                "size_in_bytes": 3486
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/extra.py",
+                "path_type": "hardlink",
+                "sha256": "a8de9b0f087a80b8d045fcb354795251f43b7190effee66f0b3bf27af58489bc",
+                "sha256_in_prefix": "a8de9b0f087a80b8d045fcb354795251f43b7190effee66f0b3bf27af58489bc",
+                "size_in_bytes": 2229
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/fancylists.py",
+                "path_type": "hardlink",
+                "sha256": "6235f558b80637b4704d04c5ce5acb9fb8f626252e589233ced459b1f790d716",
+                "sha256_in_prefix": "6235f558b80637b4704d04c5ce5acb9fb8f626252e589233ced459b1f790d716",
+                "size_in_bytes": 18695
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/gemoji_db.py",
+                "path_type": "hardlink",
+                "sha256": "70e16209db4a07408e78dec90555daca3ec267cf6b83352b30121d9db31473ff",
+                "sha256_in_prefix": "70e16209db4a07408e78dec90555daca3ec267cf6b83352b30121d9db31473ff",
+                "size_in_bytes": 256380
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/highlight.py",
+                "path_type": "hardlink",
+                "sha256": "5265c35ffaec90b91077fefe956535d96db55b9d2da0da1d5df52eb98f0f61e2",
+                "sha256_in_prefix": "5265c35ffaec90b91077fefe956535d96db55b9d2da0da1d5df52eb98f0f61e2",
+                "size_in_bytes": 21972
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/inlinehilite.py",
+                "path_type": "hardlink",
+                "sha256": "9de05b79cf34d60a1e0acfca54872d05afabc0c46cdd12adb989d4019370255b",
+                "sha256_in_prefix": "9de05b79cf34d60a1e0acfca54872d05afabc0c46cdd12adb989d4019370255b",
+                "size_in_bytes": 7577
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/keymap_db.py",
+                "path_type": "hardlink",
+                "sha256": "0c37a66957db845ceb3c4ff39a73ba9d93199dd384aa7e4a42c17e5c873492f0",
+                "sha256_in_prefix": "0c37a66957db845ceb3c4ff39a73ba9d93199dd384aa7e4a42c17e5c873492f0",
+                "size_in_bytes": 7541
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/keys.py",
+                "path_type": "hardlink",
+                "sha256": "4893e0958d528ee2a67b635e21058e77978384e256a1ff8c648f219ac17eef83",
+                "sha256_in_prefix": "4893e0958d528ee2a67b635e21058e77978384e256a1ff8c648f219ac17eef83",
+                "size_in_bytes": 8007
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/magiclink.py",
+                "path_type": "hardlink",
+                "sha256": "ec3aa3825386fb8250c9e9a784da32330420764a5de03466c92c0641e4638a6d",
+                "sha256_in_prefix": "ec3aa3825386fb8250c9e9a784da32330420764a5de03466c92c0641e4638a6d",
+                "size_in_bytes": 48870
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/mark.py",
+                "path_type": "hardlink",
+                "sha256": "a767d42faa03290d8c57d1c05d418971ac5df991d241d82503b8530049b9cca3",
+                "sha256_in_prefix": "a767d42faa03290d8c57d1c05d418971ac5df991d241d82503b8530049b9cca3",
+                "size_in_bytes": 3096
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/pathconverter.py",
+                "path_type": "hardlink",
+                "sha256": "cc3f7a9ba84a002df9c1ff1ce13a1a1e14bb9ab5674951f1b8e7c247205c4d08",
+                "sha256_in_prefix": "cc3f7a9ba84a002df9c1ff1ce13a1a1e14bb9ab5674951f1b8e7c247205c4d08",
+                "size_in_bytes": 6837
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/progressbar.py",
+                "path_type": "hardlink",
+                "sha256": "9d81437e4b08190f57c2cf6d751bc92d5744cbfcf1371231fe013406ab5eeb63",
+                "sha256_in_prefix": "9d81437e4b08190f57c2cf6d751bc92d5744cbfcf1371231fe013406ab5eeb63",
+                "size_in_bytes": 7580
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/quotes.py",
+                "path_type": "hardlink",
+                "sha256": "b60533376a686853bd61b2bce41610f14777c1c790460e1d8fc38710a5821119",
+                "sha256_in_prefix": "b60533376a686853bd61b2bce41610f14777c1c790460e1d8fc38710a5821119",
+                "size_in_bytes": 5524
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/saneheaders.py",
+                "path_type": "hardlink",
+                "sha256": "07447493c9f79834e108b1079aa891be1f443e1174c244064f1944c2b02dc87c",
+                "sha256_in_prefix": "07447493c9f79834e108b1079aa891be1f443e1174c244064f1944c2b02dc87c",
+                "size_in_bytes": 965
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/slugs.py",
+                "path_type": "hardlink",
+                "sha256": "d47678262370c94045cd71908293c0f82ad08ffc3ef999458e16a8c2c97a73df",
+                "sha256_in_prefix": "d47678262370c94045cd71908293c0f82ad08ffc3ef999458e16a8c2c97a73df",
+                "size_in_bytes": 4209
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/smartsymbols.py",
+                "path_type": "hardlink",
+                "sha256": "d12692c599f2a1d19b0e5c5619de6f414f5c071a72e96f8d91d53bb15b3e76bc",
+                "sha256_in_prefix": "d12692c599f2a1d19b0e5c5619de6f414f5c071a72e96f8d91d53bb15b3e76bc",
+                "size_in_bytes": 5427
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/snippets.py",
+                "path_type": "hardlink",
+                "sha256": "a37221120bf49cc916ebe5530b10db9141eb0c1efb68fde57ecc7f76d8ee74d3",
+                "sha256_in_prefix": "a37221120bf49cc916ebe5530b10db9141eb0c1efb68fde57ecc7f76d8ee74d3",
+                "size_in_bytes": 18509
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/striphtml.py",
+                "path_type": "hardlink",
+                "sha256": "9688eae31cc00437a8cf556e6a888107e2bf4381f2146c6a0f625a174fbfdbb0",
+                "sha256_in_prefix": "9688eae31cc00437a8cf556e6a888107e2bf4381f2146c6a0f625a174fbfdbb0",
+                "size_in_bytes": 5202
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/superfences.py",
+                "path_type": "hardlink",
+                "sha256": "3e01e840ff478ecfdc2cca3b76f44f1485d7b50e72714a62e3a22038db411659",
+                "sha256_in_prefix": "3e01e840ff478ecfdc2cca3b76f44f1485d7b50e72714a62e3a22038db411659",
+                "size_in_bytes": 36485
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/tabbed.py",
+                "path_type": "hardlink",
+                "sha256": "9543a9daaca2010146791e65dc1ed6a0580757b13cf91eb81320a03db0483959",
+                "sha256_in_prefix": "9543a9daaca2010146791e65dc1ed6a0580757b13cf91eb81320a03db0483959",
+                "size_in_bytes": 16168
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/tasklist.py",
+                "path_type": "hardlink",
+                "sha256": "b2637aa85bc893bcbe01f05d5a8e299e2a7b80883635d7af907bf4cfaee3284e",
+                "sha256_in_prefix": "b2637aa85bc893bcbe01f05d5a8e299e2a7b80883635d7af907bf4cfaee3284e",
+                "size_in_bytes": 5359
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/tilde.py",
+                "path_type": "hardlink",
+                "sha256": "37f2dd32d86e840c067f39fde3df15a6e7b1bcc4829eff289c717661d9fc5ced",
+                "sha256_in_prefix": "37f2dd32d86e840c067f39fde3df15a6e7b1bcc4829eff289c717661d9fc5ced",
+                "size_in_bytes": 7333
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/twemoji_db.py",
+                "path_type": "hardlink",
+                "sha256": "d5567e82f75594ca40ff7f50d671d6736c0f802b168ee80c2adb5460c3523a0d",
+                "sha256_in_prefix": "d5567e82f75594ca40ff7f50d671d6736c0f802b168ee80c2adb5460c3523a0d",
+                "size_in_bytes": 725342
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/util.py",
+                "path_type": "hardlink",
+                "sha256": "07a9733a73393ac581e4fccc89ad849c0b7296b093b990391a07263edff96bc7",
+                "sha256_in_prefix": "07a9733a73393ac581e4fccc89ad849c0b7296b093b990391a07263edff96bc7",
+                "size_in_bytes": 11220
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/__meta__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/_bypassnorm.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/arithmatex.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/b64.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/betterem.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/admonition.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/block.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/caption.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/definition.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/details.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/html.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/blocks/__pycache__/tab.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/caret.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/critic.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/details.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/emoji.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/emoji1_db.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/escapeall.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/extra.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/fancylists.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/gemoji_db.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/highlight.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/inlinehilite.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/keymap_db.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/keys.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/magiclink.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/mark.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/pathconverter.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/progressbar.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/quotes.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/saneheaders.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/slugs.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/smartsymbols.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/snippets.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/striphtml.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/superfences.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/tabbed.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/tasklist.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/tilde.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/twemoji_db.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/pymdownx/__pycache__/util.cpython-311.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "f20d04b393fc4b78a78de21d756ed67fbf24ce263e8f0227c855d4e94944ebd6",
+    "size": 171795,
+    "subdir": "noarch",
+    "timestamp": 1767217698,
+    "track_features": "",
+    "url": "https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch/pymdown-extensions-10.20-pyhd8ed1ab_0.conda",
+    "version": "10.20"
+}

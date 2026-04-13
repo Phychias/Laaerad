@@ -1,0 +1,134 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_1",
+    "build_number": 1,
+    "build_string": "pyhd8ed1ab_1",
+    "channel": "conda-forge",
+    "constrains": [
+        "mkdocs-material >=5.0.0"
+    ],
+    "depends": [
+        "python >=3.9"
+    ],
+    "extracted_package_dir": "/home/anduine/.local/share/mamba/pkgs/mkdocs-material-extensions-1.3.1-pyhd8ed1ab_1",
+    "files": [
+        "lib/python3.11/site-packages/materialx/__init__.py",
+        "lib/python3.11/site-packages/materialx/__meta__.py",
+        "lib/python3.11/site-packages/materialx/emoji.py",
+        "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/INSTALLER",
+        "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/METADATA",
+        "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/RECORD",
+        "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/REQUESTED",
+        "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/WHEEL",
+        "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/direct_url.json",
+        "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/licenses/LICENSE.md",
+        "lib/python3.11/site-packages/materialx/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/materialx/__pycache__/__meta__.cpython-311.pyc",
+        "lib/python3.11/site-packages/materialx/__pycache__/emoji.cpython-311.pyc"
+    ],
+    "fn": "mkdocs-material-extensions-1.3.1-pyhd8ed1ab_1.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/home/anduine/.local/share/mamba/pkgs/mkdocs-material-extensions-1.3.1-pyhd8ed1ab_1",
+        "type": 1
+    },
+    "md5": "de8af4000a4872e16fb784c649679c8e",
+    "name": "mkdocs-material-extensions",
+    "noarch": "python",
+    "package_tarball_full_path": "/home/anduine/.local/share/mamba/pkgs/mkdocs-material-extensions-1.3.1-pyhd8ed1ab_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.11/site-packages/materialx/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "233bedf0e4e854dd084bc0ecb37d24fce17c852b22d3991b8daef17184589086",
+                "sha256_in_prefix": "233bedf0e4e854dd084bc0ecb37d24fce17c852b22d3991b8daef17184589086",
+                "size_in_bytes": 34
+            },
+            {
+                "_path": "lib/python3.11/site-packages/materialx/__meta__.py",
+                "path_type": "hardlink",
+                "sha256": "6f67e49c292861c6528324eec9ad0895d62efe6b75a2166c410a9c590a39b37f",
+                "sha256_in_prefix": "6f67e49c292861c6528324eec9ad0895d62efe6b75a2166c410a9c590a39b37f",
+                "size_in_bytes": 6677
+            },
+            {
+                "_path": "lib/python3.11/site-packages/materialx/emoji.py",
+                "path_type": "hardlink",
+                "sha256": "8a1dd8f25171badc41e697d8ab8b371ad9f2dbbc666b073c23c63c0cd7bdae12",
+                "sha256_in_prefix": "8a1dd8f25171badc41e697d8ab8b371ad9f2dbbc666b073c23c63c0cd7bdae12",
+                "size_in_bytes": 4928
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "70c4ec068d3b483a7459b27838eb74dea60724ebbac7c730b5638f1999ceedc2",
+                "sha256_in_prefix": "70c4ec068d3b483a7459b27838eb74dea60724ebbac7c730b5638f1999ceedc2",
+                "size_in_bytes": 6957
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "f5f7e170881a7bcc53ca6b7755add98bf4b88a517a15d1abc93e5a1b51fe2b0f",
+                "sha256_in_prefix": "f5f7e170881a7bcc53ca6b7755add98bf4b88a517a15d1abc93e5a1b51fe2b0f",
+                "size_in_bytes": 1091
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "e20a634c9240aa1df9816718a25c90d505b5b758717a922c9969f7df3f7fd4a7",
+                "sha256_in_prefix": "e20a634c9240aa1df9816718a25c90d505b5b758717a922c9969f7df3f7fd4a7",
+                "size_in_bytes": 122
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_material_extensions-1.3.1.dist-info/licenses/LICENSE.md",
+                "path_type": "hardlink",
+                "sha256": "b3cc149031d83ec272ace499e62217c5066e0200a5560d818d90cdc7bc05403c",
+                "sha256_in_prefix": "b3cc149031d83ec272ace499e62217c5066e0200a5560d818d90cdc7bc05403c",
+                "size_in_bytes": 1067
+            },
+            {
+                "_path": "lib/python3.11/site-packages/materialx/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/materialx/__pycache__/__meta__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/materialx/__pycache__/emoji.cpython-311.pyc",
+                "path_type": "pyc_file"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "f62955d40926770ab65cc54f7db5fde6c073a3ba36a0787a7a5767017da50aa3",
+    "size": 16122,
+    "subdir": "noarch",
+    "timestamp": 1734641109,
+    "track_features": "",
+    "url": "https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch/mkdocs-material-extensions-1.3.1-pyhd8ed1ab_1.conda",
+    "version": "1.3.1"
+}
