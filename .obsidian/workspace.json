@@ -61,7 +61,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/50_语言文化/文化/佩尔南河纪行.md",
+                "file": "z00_灵感/德卓黑一世 1.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -76,7 +76,7 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "佩尔南河纪行"
+              "title": "德卓黑一世 1"
             }
           }
         ],
@@ -278,8 +278,8 @@
   },
   "active": "450e3696e7827f5e",
   "lastOpenFiles": [
-    "copilot-custom-prompts/整理.md",
     "docs/zh/50_语言文化/文化/佩尔南河纪行.md",
+    "copilot-custom-prompts/整理.md",
     "docs/zh/50_语言文化/语言/图斯克语.md",
     "1.1 铁血摄政的代价.md",
     "docs/zh/50_语言文化/语言/图斯克语完备性测试模板.md",
