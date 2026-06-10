@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "docs/zh/50_语言文化/宗教与传说/图斯克神话.md",
+                "file": "docs/zh/50_语言文化/语言/图斯克语.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": true,
@@ -28,7 +28,31 @@
                 }
               },
               "icon": "lucide-file",
-              "title": "图斯克神话"
+              "title": "图斯克语"
+            }
+          },
+          {
+            "id": "4987b9eebda3c0d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/zh/50_语言文化/语言/咕洛语.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "咕洛语"
             }
           },
           {
@@ -162,7 +186,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "docs/zh/20_历史长河/图斯克帝国史.md",
+                "file": "docs/zh/50_语言文化/语言/咕洛语.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -172,7 +196,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "图斯克帝国史 的反向链接列表"
+              "title": "咕洛语 的反向链接列表"
             }
           },
           {
@@ -223,12 +247,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "docs/zh/50_语言文化/语言/图斯克语.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "大纲"
+              "title": "图斯克语 的大纲"
             }
           },
           {
@@ -242,7 +267,7 @@
             }
           },
           {
-            "id": "4bf36b9bbfdfc827",
+            "id": "f92a562b011a265c",
             "type": "leaf",
             "state": {
               "type": "copilot-chat-view",
@@ -256,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 461.5
+    "width": 200
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,6 +301,18 @@
   },
   "active": "1a59df3635898770",
   "lastOpenFiles": [
+    "docs/zh/50_语言文化/语言/图斯克语完备性测试模板.md",
+    "图斯克语配列演变.pdf",
+    "图斯克语配列演变.typ",
+    "docs/zh/50_语言文化/语言/图斯克语配列演变：类型学观察.md",
+    "docs/zh/2026-05-31_图斯克语修订记录.md",
+    "docs/zh/图斯克语修改计划与创作建议.md",
+    "docs/zh/50_语言文化/语言/图斯克语词汇集.md",
+    "docs/zh/50_语言文化/宗教与传说/图斯克神话.md",
+    "docs/zh/50_语言文化/语言/咕洛语.md",
+    "docs/zh/50_语言文化/语言/图斯克语.md",
+    "德卓黑.md",
+    "copilot-conversations/这个神话设定怎么样，请你批判地提问，如果我的目的是为写@20260416_002117.md",
     "z00_灵感/家族.md",
     "z00_灵感/原始语名字.md",
     "copilot-conversations/试着对照知识库中的内容，检查七家共治这一事件的合理性@20260405_010521.md",
@@ -286,13 +323,9 @@
     "docs/zh/10_地理概览/区域/俺东.md",
     "docs/zh/20_历史长河/大事件/七家共治.md",
     "docs/zh/50_语言文化/文化/佩尔南河纪行.md",
-    "docs/zh/50_语言文化/语言/咕洛语.md",
     "docs/zh/50_语言文化/语言/index.md",
     "docs/zh/50_语言文化/语言/原始东北拉埃拉德语.md",
     "docs/zh/50_语言文化/宗教与传说/咕洛传说.md",
-    "docs/zh/50_语言文化/宗教与传说/图斯克神话.md",
-    "docs/zh/50_语言文化/语言/图斯克语词汇集.md",
-    "docs/zh/50_语言文化/语言/图斯克语.md",
     "docs/zh/20_历史长河/大事件/黑蔑特东进.md",
     "docs/zh/20_历史长河/朝代更迭/巴西卜王朝.md",
     "docs/zh/20_历史长河/图斯克帝国史.md"
