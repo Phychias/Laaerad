@@ -281,7 +281,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -299,7 +299,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a59df3635898770",
+  "active": "39d4f883301d278a",
   "lastOpenFiles": [
     "docs/zh/50_语言文化/语言/图斯克语完备性测试模板.md",
     "图斯克语配列演变.pdf",
