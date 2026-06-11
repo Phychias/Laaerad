@@ -29,10 +29,10 @@ jobs:
 
       - name: Deploy to Tencent Cloud COS
         env:
-          SECRET_ID: ${{ secrets.TENCENT_SECRET_ID }}
-          SECRET_KEY: ${{ secrets.TENCENT_SECRET_KEY }}
-          BUCKET: ${{ secrets.TENCENT_BUCKET }}
-          REGION: ${{ secrets.TENCENT_REGION }}
+          SECRET_ID: AKIDcEe170g9SZT9ey4xc9TcY7ViiaJp8IG4
+          SECRET_KEY: d3IOHxyhHepgUNKHCxVr0wfCYhdL8lDv
+          BUCKET: laaerad-distr-1307329113
+          REGION: ap-singapore
         run: |
           coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
           # 将 build 出来的 site 目录推送到 COS 根目录
