@@ -1,0 +1,76 @@
+==> 2026-01-11 00:54:50 <==
+# cmd: /usr/bin/micromamba create -p ./env python=3.11
+# conda version: 3.8.0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::tzdata-2025c-hc9c84f9_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::ca-certificates-2026.1.4-hbd8a1cb_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libgomp-15.2.0-he0feb66_16
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::_libgcc_mutex-0.1-conda_forge
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::_openmp_mutex-4.5-2_gnu
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libgcc-15.2.0-he0feb66_16
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libstdcxx-15.2.0-h934c35e_16
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::openssl-3.6.0-h26f9b46_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::ncurses-6.5-h2d0b736_3
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libzlib-1.3.1-hb9d3cd8_2
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libgcc-ng-15.2.0-h69a702a_16
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libuuid-2.41.3-h5347b49_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libnsl-2.0.1-hb9d3cd8_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::liblzma-5.8.1-hb9d3cd8_2
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libexpat-2.7.3-hecca717_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::bzip2-1.0.8-hda65f42_8
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libffi-3.5.2-h9ec8514_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::icu-78.2-h33c6efd_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::readline-8.3-h853b02a_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::zstd-1.5.7-hb78ec9c_6
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::tk-8.6.13-noxft_ha0e22de_103
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libxcrypt-4.4.36-hd590300_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::libsqlite-3.51.1-hf4e2dac_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::ld_impl_linux-64-2.45-default_hbd61a6d_105
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::python-3.11.14-hd63d673_2_cpython
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::wheel-0.45.1-pyhd8ed1ab_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::setuptools-80.9.0-pyhff2d567_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::pip-25.3-pyh8b19718_0
+# update specs: ["python=3.11"]
+==> 2026-01-11 00:59:20 <==
+# cmd: /usr/bin/micromamba install mkdocs-material
+# conda version: 3.8.0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::backrefs-5.8-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::colorama-0.4.6-pyhd8ed1ab_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::mkdocs-material-extensions-1.3.1-pyhd8ed1ab_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::paginate-0.5.7-pyhd8ed1ab_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::pygments-2.19.2-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::click-8.3.1-pyh8f84b5b_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::mergedeep-1.3.4-pyhd8ed1ab_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::packaging-25.0-pyh29332c3_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::pathspec-1.0.3-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::zipp-3.23.0-pyhcf101f3_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::pytz-2025.2-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::python_abi-3.11-8_cp311
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::certifi-2026.1.4-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::idna-3.11-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::charset-normalizer-3.4.4-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::six-1.17.0-pyhe01879c_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::platformdirs-4.5.1-pyhcf101f3_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::pysocks-1.7.1-pyha55dd90_7
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::hpack-4.1.0-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::hyperframe-6.1.0-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::importlib-metadata-8.7.0-pyhe01879c_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::babel-2.17.0-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::python-dateutil-2.9.0.post0-pyhe01879c_2
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::h2-4.3.0-pyhcf101f3_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::markdown-3.10-pyhcf101f3_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::ghp-import-2.1.0-pyhd8ed1ab_2
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::yaml-0.2.5-h280c20c_3
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::brotli-python-1.2.0-py311h66f275b_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::backports.zstd-1.3.0-py311h6b1f9c4_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::markupsafe-3.0.3-py311h3778330_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::pyyaml-6.0.3-py311h3778330_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/linux-64::watchdog-6.0.0-py311h38be061_2
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::urllib3-2.6.3-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::jinja2-3.1.6-pyhcf101f3_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::pyyaml-env-tag-1.1-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::mkdocs-get-deps-0.2.0-pyhd8ed1ab_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::pymdown-extensions-10.20-pyhd8ed1ab_0
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::requests-2.32.5-pyhcf101f3_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::mkdocs-1.6.1-pyhd8ed1ab_1
++https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch::mkdocs-material-9.7.1-pyhcf101f3_0
+# update specs: ["mkdocs-material"]

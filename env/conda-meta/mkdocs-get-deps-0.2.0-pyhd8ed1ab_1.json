@@ -1,0 +1,168 @@
+{
+    "arch": null,
+    "build": "pyhd8ed1ab_1",
+    "build_number": 1,
+    "build_string": "pyhd8ed1ab_1",
+    "channel": "conda-forge",
+    "depends": [
+        "python >=3.9",
+        "pyyaml >=5.1",
+        "platformdirs >=2.2.0",
+        "mergedeep >=1.3.4",
+        "importlib-metadata >=4.3"
+    ],
+    "extracted_package_dir": "/home/anduine/.local/share/mamba/pkgs/mkdocs-get-deps-0.2.0-pyhd8ed1ab_1",
+    "files": [
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/INSTALLER",
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/METADATA",
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/RECORD",
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/REQUESTED",
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/WHEEL",
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/direct_url.json",
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/entry_points.txt",
+        "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/licenses/LICENSE.md",
+        "lib/python3.11/site-packages/mkdocs_get_deps/__init__.py",
+        "lib/python3.11/site-packages/mkdocs_get_deps/__main__.py",
+        "lib/python3.11/site-packages/mkdocs_get_deps/cache.py",
+        "lib/python3.11/site-packages/mkdocs_get_deps/py.typed",
+        "lib/python3.11/site-packages/mkdocs_get_deps/yaml_util.py",
+        "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/__init__.cpython-311.pyc",
+        "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/__main__.cpython-311.pyc",
+        "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/cache.cpython-311.pyc",
+        "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/yaml_util.cpython-311.pyc",
+        "bin/mkdocs-get-deps"
+    ],
+    "fn": "mkdocs-get-deps-0.2.0-pyhd8ed1ab_1.conda",
+    "license": "MIT",
+    "link": {
+        "source": "/home/anduine/.local/share/mamba/pkgs/mkdocs-get-deps-0.2.0-pyhd8ed1ab_1",
+        "type": 1
+    },
+    "md5": "84382acddb26c27c70f2de8d4c830830",
+    "name": "mkdocs-get-deps",
+    "noarch": "python",
+    "package_tarball_full_path": "/home/anduine/.local/share/mamba/pkgs/mkdocs-get-deps-0.2.0-pyhd8ed1ab_1.tar.bz2",
+    "paths_data": {
+        "paths": [
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/INSTALLER",
+                "path_type": "hardlink",
+                "sha256": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "sha256_in_prefix": "d0edee15f91b406f3f99726e44eb990be6e34fd0345b52b910c568e0eef6a2a8",
+                "size_in_bytes": 5
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/METADATA",
+                "path_type": "hardlink",
+                "sha256": "5baf1f3f7ed253d0597de28cc9c961187543d4ff59a0021dc37aababd46d5e8c",
+                "sha256_in_prefix": "5baf1f3f7ed253d0597de28cc9c961187543d4ff59a0021dc37aababd46d5e8c",
+                "size_in_bytes": 4011
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/RECORD",
+                "path_type": "hardlink",
+                "sha256": "e9dd5a16f04cf904b9ae045665badb9ea4417989ba5e6de182f9ee2e6a48ceb4",
+                "sha256_in_prefix": "e9dd5a16f04cf904b9ae045665badb9ea4417989ba5e6de182f9ee2e6a48ceb4",
+                "size_in_bytes": 1462
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/REQUESTED",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/WHEEL",
+                "path_type": "hardlink",
+                "sha256": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "sha256_in_prefix": "aad0b0a12256807936d52d4a6f88a1773236ae527564a688bab4e3fe780e8724",
+                "size_in_bytes": 87
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/direct_url.json",
+                "path_type": "hardlink",
+                "sha256": "369f750d46942d1356be894230b679c463a011a5ba8ead8d4023270b7542e62e",
+                "sha256_in_prefix": "369f750d46942d1356be894230b679c463a011a5ba8ead8d4023270b7542e62e",
+                "size_in_bytes": 111
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/entry_points.txt",
+                "path_type": "hardlink",
+                "sha256": "47d85a072fbbfe7fb70a7edcab35ab1b44ee152bf3088d6a8d3f5ae7992d8501",
+                "sha256_in_prefix": "47d85a072fbbfe7fb70a7edcab35ab1b44ee152bf3088d6a8d3f5ae7992d8501",
+                "size_in_bytes": 65
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps-0.2.0.dist-info/licenses/LICENSE.md",
+                "path_type": "hardlink",
+                "sha256": "e5024bae9b4ecadda35184e20282a81cb25164620d2ffb0261e6da3249aab7b2",
+                "sha256_in_prefix": "e5024bae9b4ecadda35184e20282a81cb25164620d2ffb0261e6da3249aab7b2",
+                "size_in_bytes": 1083
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/__init__.py",
+                "path_type": "hardlink",
+                "sha256": "cbfc3d5ce4648975cfe8fc4617dda1aabb7f9f32e95bf60c7b67be304d99a50e",
+                "sha256_in_prefix": "cbfc3d5ce4648975cfe8fc4617dda1aabb7f9f32e95bf60c7b67be304d99a50e",
+                "size_in_bytes": 7450
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/__main__.py",
+                "path_type": "hardlink",
+                "sha256": "93411b3e66b846e3fb070ed9efe10fcd155a37554a89bbce379a525dd60b69a0",
+                "sha256_in_prefix": "93411b3e66b846e3fb070ed9efe10fcd155a37554a89bbce379a525dd60b69a0",
+                "size_in_bytes": 1619
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/cache.py",
+                "path_type": "hardlink",
+                "sha256": "cd302665cfda73d1d9eabeccff89a0870754204aba2fe70840f984e6a091a8ac",
+                "sha256_in_prefix": "cd302665cfda73d1d9eabeccff89a0870754204aba2fe70840f984e6a091a8ac",
+                "size_in_bytes": 2467
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/py.typed",
+                "path_type": "hardlink",
+                "sha256": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855",
+                "sha256_in_prefix": "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/yaml_util.py",
+                "path_type": "hardlink",
+                "sha256": "7fc3db38ed13117123f9f33f3572b2481f28ba2df6b76b80cf55f6acf1780033",
+                "sha256_in_prefix": "7fc3db38ed13117123f9f33f3572b2481f28ba2df6b76b80cf55f6acf1780033",
+                "size_in_bytes": 1552
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/__init__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/__main__.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/cache.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "lib/python3.11/site-packages/mkdocs_get_deps/__pycache__/yaml_util.cpython-311.pyc",
+                "path_type": "pyc_file"
+            },
+            {
+                "_path": "bin/mkdocs-get-deps",
+                "path_type": "unix_python_entry_point"
+            }
+        ],
+        "paths_version": 1
+    },
+    "platform": null,
+    "requested_spec": "",
+    "sha256": "e0b501b96f7e393757fb2a61d042015966f6c5e9ac825925e43f9a6eafa907b6",
+    "size": 14757,
+    "subdir": "noarch",
+    "timestamp": 1734353035,
+    "track_features": "",
+    "url": "https://mirrors.sustech.edu.cn/anaconda/cloud/conda-forge/noarch/mkdocs-get-deps-0.2.0-pyhd8ed1ab_1.conda",
+    "version": "0.2.0"
+}
