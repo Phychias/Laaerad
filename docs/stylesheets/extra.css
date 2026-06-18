@@ -1,0 +1,201 @@
+/* ==========================================================================
+   💎 Blue Topaz Style Port for MkDocs
+   风格：轻盈、圆润、多彩标题、毛玻璃特效
+   ========================================================================== */
+
+:root {
+  /* --- 核心圆角设置 (Topaz 风格比较圆润) --- */
+  --md-admonition-radius: 12px;
+  --md-code-radius: 10px;
+  
+  /* --- Topaz 经典调色板 (供全局调用) --- */
+  --topaz-blue:    #2a76dd;
+  --topaz-pink:    #d04255;
+  --topaz-teal:    #00b8d4;
+  --topaz-orange:  #f57f17;
+  --topaz-bg-light:#f0f4f8; /* 极淡的云雾蓝 */
+  --topaz-bg-dark: #20242a; /* 深蓝灰 */
+}
+
+/* ==========================================================================
+   ☀️ 日间模式 (Light Mode) - 云雾蓝白调
+   ========================================================================== */
+[data-md-color-scheme="default"] {
+  /* --- 背景设置 --- */
+  /* 背景：不再是纯白，而是极淡的蓝灰，护眼 */
+  --md-default-bg-color:        #f5f7fa; 
+  --md-default-bg-color--alt:   #ffffff; /* 卡片/侧边栏用纯白，形成层次 */
+  
+  /* --- 正文文字 --- */
+  --md-default-fg-color:        #2c3e50; /* 正文深蓝灰 */
+  --md-default-fg-color--light: #607d8b;
+
+  /* --- 关键修改：顶栏 (Primary) --- */
+  /* 1. 顶栏背景色 (浅色) */
+  --md-primary-fg-color:        rgba(199, 217, 255, 0.85); 
+  
+  /* 2. 顶栏文字/图标颜色 (改为深色！) */
+  /* MkDocs Material 中，primary-bg 控制的是显示在 primary 色块上的内容颜色 */
+  --md-primary-bg-color:        #496784; 
+
+  --md-primary-fg-color--dark:  #bfdaff; 
+  
+  /* --- 链接与强调 --- */
+  /* 链接：明快的蓝色 */
+  --md-typeset-a-color:         #2a76dd;
+  --md-accent-fg-color:         #d04255; /* 悬停变为粉色 (Topaz 特色) */
+
+  /* --- 代码块 --- */
+  --md-code-bg-color:           #ffffff;
+  --md-code-fg-color:           #d04255; /* 行内代码用粉色强调 */
+  
+  /* --- 分割线 --- */
+  --md-typeset-hr-color:        #e3e8ee;
+}
+
+/* ==========================================================================
+   🌙 夜间模式 (Dark Mode) - 深邃蓝灰调
+   ========================================================================== */
+[data-md-color-scheme="slate"] {
+  --md-default-bg-color:        #20242a; /* 深色背景，带一点蓝味 */
+  --md-default-bg-color--alt:   #2c313a; /* 卡片背景 */
+  
+  --md-default-fg-color:        #dcxoed; 
+  --md-default-fg-color--light: #abb2bf;
+
+  /* 主色 */
+  --md-primary-fg-color:        rgba(32, 36, 42, 0.85); /* 顶栏半透明深色 */
+  
+  /* 链接 */
+  --md-typeset-a-color:         #4aa2ff;
+  --md-accent-fg-color:         #ff758f;
+
+  /* 代码块 */
+  --md-code-bg-color:           #2c313a;
+  --md-code-fg-color:           #ff758f;
+}
+
+/* ==========================================================================
+   🍧 标题彩虹色 (Blue Topaz 灵魂所在)
+   ========================================================================== */
+/* 强制所有 H 标签遵循以下配色，覆盖默认设置 */
+.md-typeset h1, .md-typeset h2, .md-typeset h3, 
+.md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-weight: 700;
+    margin-top: 1.5em;
+}
+
+/* H1: 经典 Topaz 蓝 */
+.md-typeset h1 { 
+    color: var(--topaz-blue) !important;
+    border-bottom: 2px solid rgba(42, 118, 221, 0.2);
+    padding-bottom: 0.3em;
+}
+[data-md-color-scheme="slate"] .md-typeset h1 { color: #4aa2ff !important; }
+
+/* H2: 玫粉色 (Pink) */
+.md-typeset h2 { 
+    color: var(--topaz-pink) !important;
+    border-left: 4px solid var(--topaz-pink); /* 左侧竖线装饰 */
+    padding-left: 10px;
+    background: linear-gradient(to right, rgba(208, 66, 85, 0.05), transparent); /* 淡淡的背景渐变 */
+    border-radius: 0 8px 8px 0;
+}
+[data-md-color-scheme="slate"] .md-typeset h2 { color: #ff758f !important; border-color: #ff758f; }
+
+/* H3: 橙色 (Orange/Gold) */
+.md-typeset h3 { 
+    color: var(--topaz-orange) !important; 
+}
+[data-md-color-scheme="slate"] .md-typeset h3 { color: #ffb74d !important; }
+
+/* H4: 青色/松石绿 (Teal) */
+.md-typeset h4 { 
+    color: var(--topaz-teal) !important; 
+}
+
+/* ==========================================================================
+   🌫️ 顶栏毛玻璃特效 (Frosted Glass Header)
+   ========================================================================== */
+.md-header {
+    /* 背景模糊 */
+    backdrop-filter: blur(12px);
+    -webkit-backdrop-filter: blur(12px);
+    
+    /* 底部加一条极细的线代替阴影 */
+    border-bottom: 1px solid rgba(0,0,0,0.05);
+    box-shadow: none !important;
+}
+
+/* 日间模式顶栏文字颜色修正 (因为背景是白的) */
+[data-md-color-scheme="default"] .md-header {
+    color: #2c3e50 !important;
+}
+/* 搜索框背景微调 */
+[data-md-color-scheme="default"] .md-search__input {
+    background-color: rgba(0,0,0,0.05) !important;
+    color: #333;
+}
+[data-md-color-scheme="default"] .md-header__button.md-logo {
+    /* 如果 Logo 是白色的，可能看不清，这里加个蓝色滤镜，或者你自己换深色Logo */
+    /* filter: invert(1); Use this if needed */
+}
+
+/* ==========================================================================
+   📦 内容区卡片化与圆角
+   ========================================================================== */
+
+/* 侧边栏背景透明，融入主背景 */
+.md-sidebar {
+    background-color: transparent !important;
+}
+
+/* 代码块圆角与Mac风格 */
+.md-typeset pre > code {
+    border-radius: 10px;
+    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+}
+
+/* 表格：表头圆角 */
+.md-typeset table:not([class]) {
+    border-radius: 12px;
+    overflow: hidden;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+    border: none;
+}
+.md-typeset table:not([class]) th {
+    background-color: #ebf0f4; /* 浅灰蓝表头 */
+    color: #333;
+    font-weight: bold;
+}
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+    background-color: #2c313a;
+    color: #eee;
+}
+
+/* ==========================================================================
+   🗺️ 地图容器 (适配 Topaz 风格)
+   ========================================================================== */
+#map {
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    height: 600px;
+    
+    /* 大圆角 */
+    border-radius: 16px; 
+    
+    /* 柔和的漂浮阴影 */
+    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    
+    /* 细微边框 */
+    border: 4px solid #ffffff; /* 类似相框的白边 */
+    overflow: hidden;
+}
+/* 夜间模式地图边框变深 */
+[data-md-color-scheme="slate"] #map {
+    border: 4px solid #2c313a;
+}
+
+.leaflet-control { z-index: 10; }
+.leaflet-popup { z-index: 1000; }

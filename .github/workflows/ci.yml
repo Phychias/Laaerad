@@ -1,0 +1,39 @@
+name: ci
+on:
+  push:
+    branches:
+      - main
+permissions:
+  contents: write
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v3
+      - uses: actions/setup-python@v4
+        with:
+          python-version: 3.11
+      
+      # 1. 安装构建依赖
+      - run: pip install mkdocs-material mkdocs-roamlinks-plugin mkdocs-rss-plugin mkdocs-static-i18n mkdocs-awesome-pages-plugin mkdocs-mermaid2-plugin
+      
+      # 2. 生成静态站点 (不直接部署，先构建到 site 目录)
+      - run: mkdocs build
+      
+      # 3. 部署到 GitHub Pages (保持你原本的逻辑)
+      - run: mkdocs gh-deploy --force
+      
+      # 4. 新增：安装并配置 coscmd 并上传
+      - name: Install coscmd
+        run: sudo pip install coscmd
+
+      - name: Deploy to Tencent Cloud COS
+        env:
+          SECRET_ID: AKIDcEe170g9SZT9ey4xc9TcY7ViiaJp8IG4
+          SECRET_KEY: d3IOHxyhHepgUNKHCxVr0wfCYhdL8lDv
+          BUCKET: laaerad-distr-1307329113
+          REGION: ap-singapore
+        run: |
+          coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
+          # 将 build 出来的 site 目录推送到 COS 根目录
+          coscmd upload -rs ./site/ /

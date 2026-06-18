@@ -1,0 +1,17 @@
+# Obsidian 配置
+.obsidian/
+
+# 环境变量
+.env
+env
+
+# Copilot 对话记录
+copilot-conversations/
+copilot-custom-prompts/
+copilot/memory/
+
+# 生成的站点文件
+site/
+
+# 灵感文件夹
+z00_灵感/
