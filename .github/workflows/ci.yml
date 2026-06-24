@@ -6,21 +6,22 @@ on:
       - main
 
 permissions:
-  contents: write
+  contents: read           # 只需读取代码
+  pages: write             # 允许部署到 Pages
+  id-token: write          # 用于 OIDC 认证
 
 jobs:
-  deploy:
+  build:
     runs-on: ubuntu-latest
-
     steps:
-      - uses: actions/checkout@v3
+      - uses: actions/checkout@v4
 
-      - uses: actions/setup-python@v4
+      - uses: actions/setup-python@v5
         with:
-          python-version: 3.11
+          python-version: '3.11'
 
-      # 1. 安装构建依赖
-      - run: |
+      - name: Install dependencies
+        run: |
           pip install mkdocs-material \
             mkdocs-roamlinks-plugin \
             mkdocs-rss-plugin \
@@ -28,24 +29,41 @@ jobs:
             mkdocs-awesome-pages-plugin \
             mkdocs-mermaid2-plugin
 
-      # 2. 生成静态站点（构建到 site 目录）
-      - run: mkdocs build
+      - name: Build site
+        run: mkdocs build
 
-      # 3. 部署到 GitHub Pages（保留原有逻辑）
-      - run: mkdocs gh-deploy --force
+      - name: Upload Pages artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./site        # 默认为 ./site，可省略
 
-      # 4. 安装 coscmd
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    permissions:
+      pages: write
+      id-token: write
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4   # 最新版本为 v4
+
+  # 如需上传到腾讯云 COS，可另加一个 job（可选）
+  deploy-cos:
+    needs: build
+    runs-on: ubuntu-latest
+    steps:
       - name: Install coscmd
         run: sudo pip install coscmd
-
-      # 5. 配置并上传到腾讯云 COS
-      - name: Deploy to Tencent Cloud COS
+      - name: Deploy to COS
         env:
-          SECRET_ID: ${{ secrets.COS_SECRET_ID }}   # 在 GitHub Secrets 中配置
-          SECRET_KEY: ${{ secrets.COS_SECRET_KEY }} # 在 GitHub Secrets 中配置
+          SECRET_ID: ${{ secrets.COS_SECRET_ID }}
+          SECRET_KEY: ${{ secrets.COS_SECRET_KEY }}
           BUCKET: laaerad-distr-1307329113
           REGION: ap-singapore
         run: |
           coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
-          # -r 递归，-s 同步，-y 自动确认覆盖（解决卡住问题）
           coscmd upload -rs ./site/ / -y
