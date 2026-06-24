@@ -1,0 +1,140 @@
+/* ==========================================================================
+   📜 史诗编年史 Wiki 信息框 (Epic Chronicle Infobox)
+   风格：古老法典边栏、暗金蚀刻、稳重笔直
+   ========================================================================== */
+
+.md-typeset .admonition.wiki {
+    float: right;
+    width: 300px;
+    margin-left: 1.5rem;
+    margin-top: 0;
+    margin-bottom: 1rem;
+    z-index: 5;
+    
+    /* 背景色：融入羊皮纸/深邃夜空，带有一丝厚重感 */
+    background-color: var(--md-default-bg-color--alt);
+    
+    /* 边框：抛弃大圆角，改为收敛的史诗级 2px 小圆角或直角 */
+    border: 1px solid var(--epic-gold); 
+    border-radius: 4px;
+    
+    /* 阴影：沉稳的物理下沉阴影，而非现代的彩色发光晕 */
+    box-shadow: 0 10px 20px rgba(0, 0, 0, 0.12), 0 3px 6px rgba(0, 0, 0, 0.1);
+    
+    color: var(--md-default-fg-color);
+    word-wrap: break-word;
+    overflow: hidden; 
+}
+
+/* --- 标题栏：青铜与暗金交织的仪式感 --- */
+.md-typeset .admonition.wiki > .admonition-title {
+    /* 使用深色墨石或深红到黑的金属质感线性渐变 */
+    background: linear-gradient(135deg, #2d2922 0%, #1a1814 100%);
+    
+    /* 文字使用神圣的暗金色 */
+    color: var(--epic-gold) !important;
+    text-shadow: 0 1px 3px rgba(0,0,0,0.5); 
+    
+    font-family: "Cinzel", "Georgia", "Noto Serif SC", serif !important;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    text-align: center;
+    padding: 12px 14px; 
+    margin: 0;
+    
+    border-bottom: 2px solid var(--epic-gold); /* 标志性的黄金分割线 */
+    
+    /* 顶部圆角微调 */
+    border-top-left-radius: 3px; 
+    border-top-right-radius: 3px;
+}
+
+/* 夜间模式下标题栏的微调（可以采用微弱的帝国深红渐变） */
+[data-md-color-scheme="slate"] .md-typeset .admonition.wiki > .admonition-title {
+    background: linear-gradient(135deg, #42101c 0%, #1a1d24 100%);
+    border-bottom: 2px solid #dfb76c;
+    color: #dfb76c !important;
+}
+
+/* 隐藏默认图标 */
+.md-typeset .admonition.wiki > .admonition-title::before {
+    display: none;
+}
+
+/* --- 内容区域 --- */
+.md-typeset .admonition.wiki > .admonition-content {
+    padding: 14px 12px;
+    font-size: 0.85em; /* 略微缩小，使其更像密密麻麻的法典批注 */
+    line-height: 1.5;
+    /* 底部圆角 */
+    border-bottom-left-radius: 3px;
+    border-bottom-right-radius: 3px;
+}
+
+/* --- 插图适配（如同古籍中的插图） --- */
+.md-typeset .admonition.wiki img {
+    display: block;
+    margin: 0 auto 0.8em auto;
+    max-width: 100%;
+    height: auto;
+    border-radius: 2px; /* 几乎接近直角 */
+    border: 1px solid rgba(195, 160, 89, 0.3); /* 图片加一层淡淡的黄金画框 */
+    box-shadow: 0 4px 10px rgba(0,0,0,0.15); 
+    /* 注入一丝复古滤镜 */
+    filter: sepia(0.1) contrast(1.02);
+}
+
+/* --- 属性表格：编年史铭牌风格 --- */
+.md-typeset .admonition.wiki table {
+    display: table;
+    width: 100%;
+    margin: 0;
+    border-collapse: collapse; 
+}
+
+/* 单元格样式 */
+.md-typeset .admonition.wiki td, 
+.md-typeset .admonition.wiki th {
+    padding: 8px 4px;
+    /* 蚀刻分割线，日间用暗金，夜间用深邃线条 */
+    border-bottom: 1px solid rgba(197, 160, 89, 0.2); 
+    color: var(--md-default-fg-color);
+    background-color: transparent !important;
+}
+
+/* 第一列 (属性名)：古老誓言的强调 */
+.md-typeset .admonition.wiki td:first-child {
+    font-weight: 600;
+    font-family: "Cinzel", "Noto Serif SC", serif;
+    color: var(--epic-ink-light); /* 日间模式使用沉稳的墨黑 */
+    width: 38%; 
+}
+/* 夜间模式第一列颜色微调 */
+[data-md-color-scheme="slate"] .md-typeset .admonition.wiki td:first-child {
+    color: #dfb76c; /* 夜间使用暗金色突出属性名 */
+}
+
+.md-typeset .admonition.wiki tr:last-child td {
+    border-bottom: none;
+}
+
+/* --- 列表微调 --- */
+.md-typeset .admonition.wiki ul,
+.md-typeset .admonition.wiki ol {
+    margin: 0.4em 0;
+    padding-left: 1.2em;
+    color: var(--md-default-fg-color--light);
+}
+
+/* --- 移动端适配 --- */
+@media screen and (max-width: 60em) {
+    .md-typeset .admonition.wiki {
+        float: none;
+        width: 100%;
+        margin-left: 0;
+        margin-top: 1.5em;
+        box-shadow: none;
+        border: 1px solid var(--epic-gold); 
+    }
+}

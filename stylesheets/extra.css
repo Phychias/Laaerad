@@ -1,0 +1,223 @@
+/* ==========================================================================
+   🏛️ Epic Chronicle Style for MkDocs
+   风格：厚重史诗、羊皮纸暗金、黄铜微光、古老编年史
+   ========================================================================== */
+
+:root {
+  /* --- 核心圆角设置 (史诗感需要更硬朗、稳重的几何感，缩小圆角) --- */
+  --md-admonition-radius: 4px;
+  --md-code-radius: 4px;
+  
+  /* --- Epic 史诗经典调色板 (古老、神秘、尊贵) --- */
+  --epic-gold:       #c5a059; /* 暮色暗金 */
+  --epic-bronze:     #a3704c; /* 古典黄铜 */
+  --epic-crimson:    #8b263e; /* 帝国深红 */
+  --epic-teal:       #3b6e70; /* 遗迹古青 */
+  --epic-ink-light:  #2b2d31; /* 古卷墨黑 */
+  --epic-parchment:  #f4efe2; /* 岁月羊皮纸 */
+}
+
+/* ==========================================================================
+   📜 圣洁编年史 (Light Mode) - 羊皮纸与古老墨水
+   ========================================================================== */
+[data-md-color-scheme="default"] {
+  /* --- 背景：带有岁月感的羊皮纸微黄调 --- */
+  --md-default-bg-color:         #fcf9f2; 
+  --md-default-bg-color--alt:    #f5efe0; /* 侧边栏/卡片略深，形成羊皮纸层叠感 */
+  
+  /* --- 正文：沉稳的古卷墨色 --- */
+  --md-default-fg-color:         #2d2922; 
+  --md-default-fg-color--light:  #6e6659;
+
+  /* --- 顶栏：神圣长廊 (半透明暗金微光) --- */
+  --md-primary-fg-color:         rgba(45, 41, 34, 0.92); /* 极深墨色背景 */
+  --md-primary-bg-color:         var(--epic-gold);        /* 顶栏文字/图标使用暗金 */
+  --md-primary-fg-color--dark:   #1a1814; 
+  
+  /* --- 链接与强调：古典深红 --- */
+  --md-typeset-a-color:          var(--epic-crimson);
+  --md-accent-fg-color:          var(--epic-gold);        /* 悬停变为暗金 */
+
+  /* --- 代码块：古旧石板色 --- */
+  --md-code-bg-color:            #eae3d2;
+  --md-code-fg-color:            #8b263e; 
+  
+  /* --- 分割线：青铜蚀刻线条 --- */
+  --md-typeset-hr-color:         #dcd1b4;
+}
+
+/* ==========================================================================
+   🌌 永恒群星 (Dark Mode) - 深邃神殿与群星暗金
+   ========================================================================== */
+[data-md-color-scheme="slate"] {
+  /* --- 背景：星空深邃蓝黑，而非纯黑 --- */
+  --md-default-bg-color:         #12151a; 
+  --md-default-bg-color--alt:    #1a1d24; 
+  
+  --md-default-fg-color:         #d5dbe5; 
+  --md-default-fg-color--light:  #8a95a5;
+
+  /* --- 顶栏：永夜神殿 --- */
+  --md-primary-fg-color:         rgba(18, 21, 26, 0.85); 
+  
+  /* --- 链接与强调：星落暗金 --- */
+  --md-typeset-a-color:          #dfb76c;
+  --md-accent-fg-color:          #ff9ebb;
+
+  /* --- 代码块 --- */
+  --md-code-bg-color:            #1a1d24;
+  --md-code-fg-color:            #dfb76c;
+}
+
+/* ==========================================================================
+   👑 史诗标题 (Epic Titles) - 诸神与誓言的色彩
+   ========================================================================== */
+.md-typeset h1, .md-typeset h2, .md-typeset h3, 
+.md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-family: "Cinzel", "Georgia", "Noto Serif SC", serif !important; /* 引入带有古典雕刻感的衬线体 */
+    font-weight: 700;
+    text-transform: uppercase; /* 英文自动大写增强史诗感 */
+    letter-spacing: 0.05em;
+    margin-top: 1.8em;
+}
+
+/* H1: 王者暗金 - 带有双重古典衬线装饰 */
+.md-typeset h1 { 
+    color: var(--epic-gold) !important;
+    text-align: center; /* H1 居中，如同章节史诗开篇 */
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    position: relative;
+}
+/* H1 底部的古典装饰线 */
+.md-typeset h1::after {
+    content: "❖";
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 14px;
+    color: var(--epic-gold);
+    background: transparent;
+    padding: 0 10px;
+}
+.md-typeset h1 {
+    border-bottom: 1px solid var(--epic-gold);
+}
+
+/* H2: 帝国深红 - 双边框与仪式感 */
+.md-typeset h2 { 
+    color: var(--epic-crimson) !important;
+    border-left: 6px double var(--epic-gold); /* 黄金双线衬托 */
+    padding-left: 14px;
+    background: linear-gradient(to right, rgba(197, 160, 89, 0.08), transparent); 
+    border-radius: 0;
+}
+[data-md-color-scheme="slate"] .md-typeset h2 { 
+    color: #dfb76c !important; 
+    border-color: #dfb76c; 
+    background: linear-gradient(to right, rgba(223, 183, 108, 0.08), transparent);
+}
+
+/* H3: 黄铜编年 */
+.md-typeset h3 { 
+    color: var(--epic-bronze) !important; 
+}
+[data-md-color-scheme="slate"] .md-typeset h3 { color: #d4a373 !important; }
+
+/* H4: 远古遗迹 */
+.md-typeset h4 { 
+    color: var(--epic-teal) !important; 
+}
+[data-md-color-scheme="slate"] .md-typeset h4 { color: #649d9f !important; }
+
+/* ==========================================================================
+   🛡️ 顶栏与神殿仪式感 (Header & Navigation)
+   ========================================================================= */
+.md-header {
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-bottom: 2px solid var(--epic-gold); /* 黄金分割线 */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15) !important;
+}
+
+/* 日间模式顶栏文字颜色修正 */
+[data-md-color-scheme="default"] .md-header {
+    color: var(--epic-gold) !important;
+}
+[data-md-color-scheme="default"] .md-header__topic,
+[data-md-color-scheme="default"] .md-header__title {
+    color: #fff !important; /* 让主标题在深色顶栏中保持高亮 */
+}
+[data-md-color-scheme="default"] .md-search__input {
+    background-color: rgba(255, 255, 255, 0.12) !important;
+    color: #fff;
+}
+
+/* ==========================================================================
+   📦 羊皮纸卷轴与石板 (Content Cards)
+   ========================================================================== */
+
+.md-sidebar {
+    background-color: transparent !important;
+}
+
+/* 代码块：如同刻在黑曜石或石板上 */
+.md-typeset pre > code {
+    border-radius: 4px;
+    border: 1px solid rgba(197, 160, 89, 0.2);
+    box-shadow: inset 0 2px 8px rgba(0,0,0,0.05);
+}
+
+/* 表格：史诗羊皮纸法典风格 */
+.md-typeset table:not([class]) {
+    border-radius: 4px;
+    overflow: hidden;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+    border: 1px solid var(--epic-gold);
+}
+.md-typeset table:not([class]) th {
+    background-color: #2d2922; /* 深色表头 */
+    color: var(--epic-gold);
+    font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
+}
+[data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
+    background-color: #1a1d24;
+    color: #dfb76c;
+    border-bottom: 1px solid #dfb76c;
+}
+
+/* ==========================================================================
+   🗺️ 羊皮纸世界地图 (World Map Container)
+   ========================================================================== */
+#map {
+    position: relative;
+    z-index: 0;
+    width: 100%;
+    height: 600px;
+    
+    /* 稳重的微小圆角 */
+    border-radius: 6px; 
+    
+    /* 沉重的历史阴影 */
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25), 0 15px 15px rgba(0, 0, 0, 0.2);
+    
+    /* 重型黄铜/实木相框边框 */
+    border: 8px solid #2d2922; 
+    outline: 2px solid var(--epic-gold); /* 双重框线 */
+    overflow: hidden;
+    
+    /* 如果可以，建议给地图容器内部滤镜，使其更符合羊皮纸风格 */
+    filter: sepia(0.2) contrast(1.05);
+}
+/* 夜间模式地图边框变深 */
+[data-md-color-scheme="slate"] #map {
+    border: 8px solid #1a1d24;
+    outline: 2px solid #dfb76c;
+    filter: invert(0.9) hue-rotate(180deg) sepia(0.3); /* 强行给地图夜间化（如适用） */
+}
+
+.leaflet-control { z-index: 10; }
+.leaflet-popup { z-index: 1000; }
