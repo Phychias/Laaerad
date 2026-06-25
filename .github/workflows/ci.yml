@@ -6,9 +6,9 @@ on:
       - main
 
 permissions:
-  contents: read           # 只需读取代码
-  pages: write             # 允许部署到 Pages
-  id-token: write          # 用于 OIDC 认证
+  contents: read
+  pages: write
+  id-token: write
 
 jobs:
   build:
@@ -28,14 +28,10 @@ jobs:
             mkdocs-mermaid2-plugin
       - name: Build site
         run: mkdocs build
-
-      # (可选) 如果还要使用 actions/deploy-pages，则保留 artifact 上传
       - name: Upload Pages artifact
         uses: actions/upload-pages-artifact@v3
         with:
           path: ./site
-
-      # 上传到腾讯云 COS（放在这里，site 目录存在）
       - name: Install coscmd
         run: sudo pip install coscmd
       - name: Deploy to Tencent Cloud COS
@@ -47,3 +43,14 @@ jobs:
         run: |
           coscmd config -a $SECRET_ID -s $SECRET_KEY -b $BUCKET -r $REGION
           coscmd upload -rs ./site/ / -y
+
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
