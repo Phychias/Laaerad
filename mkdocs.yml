@@ -61,7 +61,7 @@ markdown_extensions:
 
 plugins:
   - search
-  - mermaid2
+  - mermaid2:
     version: 11.0.0
   - awesome-pages
   - roamlinks
