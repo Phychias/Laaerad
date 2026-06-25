@@ -38,7 +38,7 @@ markdown_extensions:
   - toc:
       permalink: true
 
-  # pymdownx 基础文本扩展（合并去重）
+  # pymdownx 基础文本扩展
   - pymdownx.arithmatex:
       generic: true
   - pymdownx.details
@@ -51,19 +51,13 @@ markdown_extensions:
   - pymdownx.mark
   - pymdownx.tilde
 
-  # 核心修复：只保留这一个 superfences，并注入字号控制
+  # 干净的标准 Mermaid 配置，不再调用不存在的 Python 函数
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
-          # 1. 注意：这里必须换成 mermaid_format 才能让下面的 config 生效
-          format: !!python/name:pymdownx.superfences.mermaid_format
-          # 2. 在这里直接放大字号
-          config:
-            theme: default
-            themeVariables:
-              fontSize: '15px'          # 整体字号（默认一般是 11px，这里调大到 15px）
-              ganttFontSize: '14px'     # 专门针对甘特图任务文本的字号
+          format: !!python/name:pymdownx.superfences.fence_code_format
+
 
 plugins:
   - search
