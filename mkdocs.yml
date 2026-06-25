@@ -56,11 +56,13 @@ markdown_extensions:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
+          format: !!python/name:mermaid2.fence_mermaid_custom
 
 
 plugins:
   - search
+  - mermaid2
+    version: 11.0.0
   - awesome-pages
   - roamlinks
   - i18n:
