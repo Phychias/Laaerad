@@ -4,21 +4,31 @@
     "type": "split",
     "children": [
       {
-        "id": "43fb34461fa7b1d7",
+        "id": "65d21dba48b10b00",
         "type": "tabs",
         "children": [
           {
-            "id": "8c7ebbdea2358c2a",
+            "id": "4987b9eebda3c0d6",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "docs/zh/地理风貌/山河陆海/克鲁索法河.md",
-                "bFile": "docs/zh/地理风貌/山河陆海/克鲁索法河.md",
-                "aRef": ""
+                "file": "修改计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: 克鲁索法河  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "修改计划"
             }
           }
         ]
@@ -165,13 +175,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/历史长河/朝代更迭/黑蔑特王朝.md",
+                "file": "docs/zh/index.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "黑蔑特王朝 的大纲"
+              "title": "index 的大纲"
             }
           },
           {
@@ -199,7 +209,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 380.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,43 +227,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a518f311b272964",
+  "active": "4987b9eebda3c0d6",
   "lastOpenFiles": [
-    "图斯克历史新编.md",
-    "docs/zh/语言文化/语言/图斯克语/黑蔑特地区常用名.md",
+    "docs/assets/img/ComfyUI_00124_.png",
+    "docs/zh/历史长河/朝代更迭/伯帖斯抓护王朝.md",
+    "docs/zh/历史长河/大事件/俺东入侵.md",
+    "docs/zh/历史长河/index.md",
+    "docs/zh/历史长河/大事件/七家共治.md",
+    "docs/zh/家族血脉/拉瓦劳氏族/index.md",
+    "docs/zh/家族血脉/拉瓦劳氏族/拉瓦劳氏族.md",
+    "docs/zh/家族血脉/拉瓦劳氏族",
+    "docs/zh/历史长河/大事件/index.md",
+    "docs/zh/历史长河/大事件/黑蔑特东进.md",
+    "docs/zh/地理风貌/拉埃拉德.md",
+    "docs/zh/index.md",
     "docs/zh/语言文化/语言/图斯克语/图斯克语语法书.md",
+    "docs/stylesheets/extra.css~",
+    "docs/assets/js/map_viewer.html~",
+    "docs/assets/css/float.css~",
+    "id4arch_ed22519.pub",
+    "id4arch_ed22519",
+    "docs/zh/语言文化/语言/图斯克语/index.md",
+    "docs/zh/语言文化/语言/图斯克语/黑蔑特地区常用名.md",
+    "docs/zh/语言文化/语言/咕洛语.md",
+    "docs/zh/语言文化/语言/index.md",
+    "docs/zh/语言文化/语言/拉普里奥语.md",
+    "docs/zh/语言文化/语言/原始东北拉埃拉德语.md",
+    "docs/zh/语言文化/语言/拉埃拉德原始语.md",
     "docs/zh/语言文化/语言/图斯克语/图斯克语词汇集.md",
     "docs/zh/语言文化/语言/图斯克语/图斯克语完备性测试模板.md",
-    "docs/zh/语言文化/语言/图斯克语/index.md",
-    "docs/zh/语言文化/语言/拉普里奥语.md",
-    "docs/zh/语言文化/语言/拉埃拉德原始语.md",
+    "docs/zh/语言文化/语言/图斯克语/图斯克语配列演变.md",
+    "z00_灵感/家族.md",
+    "docs/zh/语言文化/语言/图斯克地区常用姓名考.md",
+    "docs/zh/语言文化/语言/图斯克地区常用姓名考.md.nssyncsc",
     "docs/zh/语言文化/语言/图斯克语",
-    "docs/zh/语言文化/语言/咕洛语.md",
-    "docs/zh/语言文化/语言/原始东北拉埃拉德语.md",
-    "docs/zh/语言文化/语言/index.md",
-    "docs/zh/语言文化/文化/瓦特苏卡瑟母游记.md",
-    "docs/zh/语言文化/文化/佩尔南河纪行.md",
-    "docs/zh/语言文化/宗教与传说/图斯克神话.md",
-    "docs/zh/语言文化/宗教与传说/咕洛传说.md",
-    "docs/zh/语言文化/语言",
-    "docs/zh/语言文化/文化",
-    "docs/zh/语言文化/宗教与传说",
-    "docs/zh/语言文化/index.md",
-    "docs/zh/语言文化",
-    "docs/zh/政治势力/图斯克/拉普里奥部落联盟.md",
-    "docs/zh/政治势力/图斯克/图斯克帝国.md",
-    "docs/zh/政治势力/图斯克/咕洛诸部.md",
-    "docs/zh/政治势力/图斯克",
-    "docs/zh/政治势力/index.md",
-    "docs/zh/政治势力",
-    "docs/zh/家族血脉/黑蔑特/马塔肖萨门二世.md",
-    "docs/zh/家族血脉/黑蔑特/马塔肖萨门一世.md",
-    "docs/zh/家族血脉/黑蔑特/阿贵吉奥.md",
-    "docs/zh/家族血脉/黑蔑特/波拉斯蓬.md",
-    "docs/zh/家族血脉/黑蔑特/塔莫格.md",
-    "docs/zh/家族血脉/黑蔑特/卓奥西二世.md",
-    "docs/zh/家族血脉/黑蔑特",
-    "docs/zh/家族血脉/铁苏库",
-    "docs/zh/家族血脉/莫斯瓦里克"
+    "docs/zh/50_语言文化/语言/图斯克语配列演变：类型学观察.md",
+    "docs/zh/50_语言文化/语言/图斯克语配列演变：类型学观察.md.nssyncsc",
+    "z00_灵感/图斯克语修改计划与创作建议.md",
+    "z00_灵感/图斯克语配列演变.pdf"
   ]
 }

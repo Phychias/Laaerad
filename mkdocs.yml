@@ -29,38 +29,39 @@ theme:
         name: Switch to light mode
 
 
-
 # Extensions
 markdown_extensions:
   - footnotes
   - attr_list
+  - def_list
+  - admonition
+  - toc:
+      permalink: true
+
+  # pymdownx 基础文本扩展
   - pymdownx.arithmatex:
       generic: true
-  - pymdownx.superfences
   - pymdownx.details
   - pymdownx.magiclink
   - pymdownx.tasklist:
       custom_checkbox: true
-  - def_list
   - pymdownx.critic
   - pymdownx.caret
   - pymdownx.keys
   - pymdownx.mark
   - pymdownx.tilde
+
+  # 干净的标准 Mermaid 配置，不再调用不存在的 Python 函数
   - pymdownx.superfences:
       custom_fences:
         - name: mermaid
           class: mermaid
-          format: !!python/name:pymdownx.superfences.fence_code_format
-  - admonition
-  - pymdownx.details
-  - pymdownx.superfences
+          format: !!python/name:mermaid2.fence_mermaid_custom
 
-  - toc:
-      permalink: true
 
 plugins:
   - search
+  - mermaid2
   - awesome-pages
   - roamlinks
   - i18n:

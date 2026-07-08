@@ -1,180 +1,196 @@
 /* ==========================================================================
-   💎 Blue Topaz Style Port for MkDocs
-   风格：轻盈、圆润、多彩标题、毛玻璃特效
+   🏛️ Epic Chronicle Style for MkDocs
+   风格：厚重史诗、羊皮纸暗金、黄铜微光、古老编年史
    ========================================================================== */
 
 :root {
-  /* --- 核心圆角设置 (Topaz 风格比较圆润) --- */
-  --md-admonition-radius: 12px;
-  --md-code-radius: 10px;
+  /* --- 核心圆角设置 (史诗感需要更硬朗、稳重的几何感，缩小圆角) --- */
+  --md-admonition-radius: 4px;
+  --md-code-radius: 4px;
   
-  /* --- Topaz 经典调色板 (供全局调用) --- */
-  --topaz-blue:    #2a76dd;
-  --topaz-pink:    #d04255;
-  --topaz-teal:    #00b8d4;
-  --topaz-orange:  #f57f17;
-  --topaz-bg-light:#f0f4f8; /* 极淡的云雾蓝 */
-  --topaz-bg-dark: #20242a; /* 深蓝灰 */
+  /* --- Epic 史诗经典调色板 (古老、神秘、尊贵) --- */
+  --epic-gold:       #c5a059; /* 暮色暗金 */
+  --epic-bronze:     #a3704c; /* 古典黄铜 */
+  --epic-crimson:    #8b263e; /* 帝国深红 */
+  --epic-teal:       #3b6e70; /* 遗迹古青 */
+  --epic-ink-light:  #2b2d31; /* 古卷墨黑 */
+  --epic-parchment:  #f4efe2; /* 岁月羊皮纸 */
 }
 
 /* ==========================================================================
-   ☀️ 日间模式 (Light Mode) - 云雾蓝白调
+   📜 圣洁编年史 (Light Mode) - 羊皮纸与古老墨水
    ========================================================================== */
 [data-md-color-scheme="default"] {
-  /* --- 背景设置 --- */
-  /* 背景：不再是纯白，而是极淡的蓝灰，护眼 */
-  --md-default-bg-color:        #f5f7fa; 
-  --md-default-bg-color--alt:   #ffffff; /* 卡片/侧边栏用纯白，形成层次 */
+  /* --- 背景：带有岁月感的羊皮纸微黄调 --- */
+  --md-default-bg-color:         #fcf9f2; 
+  --md-default-bg-color--alt:    #f5efe0; /* 侧边栏/卡片略深，形成羊皮纸层叠感 */
   
-  /* --- 正文文字 --- */
-  --md-default-fg-color:        #2c3e50; /* 正文深蓝灰 */
-  --md-default-fg-color--light: #607d8b;
+  /* --- 正文：沉稳的古卷墨色 --- */
+  --md-default-fg-color:         #2d2922; 
+  --md-default-fg-color--light:  #6e6659;
 
-  /* --- 关键修改：顶栏 (Primary) --- */
-  /* 1. 顶栏背景色 (浅色) */
-  --md-primary-fg-color:        rgba(199, 217, 255, 0.85); 
+  /* --- 顶栏：神圣长廊 (半透明暗金微光) --- */
+  --md-primary-fg-color:         rgba(45, 41, 34, 0.92); /* 极深墨色背景 */
+  --md-primary-bg-color:         var(--epic-gold);        /* 顶栏文字/图标使用暗金 */
+  --md-primary-fg-color--dark:   #1a1814; 
   
-  /* 2. 顶栏文字/图标颜色 (改为深色！) */
-  /* MkDocs Material 中，primary-bg 控制的是显示在 primary 色块上的内容颜色 */
-  --md-primary-bg-color:        #496784; 
+  /* --- 链接与强调：古典深红 --- */
+  --md-typeset-a-color:          var(--epic-crimson);
+  --md-accent-fg-color:          var(--epic-gold);        /* 悬停变为暗金 */
 
-  --md-primary-fg-color--dark:  #bfdaff; 
+  /* --- 代码块：古旧石板色 --- */
+  --md-code-bg-color:            #eae3d2;
+  --md-code-fg-color:            #8b263e; 
   
-  /* --- 链接与强调 --- */
-  /* 链接：明快的蓝色 */
-  --md-typeset-a-color:         #2a76dd;
-  --md-accent-fg-color:         #d04255; /* 悬停变为粉色 (Topaz 特色) */
-
-  /* --- 代码块 --- */
-  --md-code-bg-color:           #ffffff;
-  --md-code-fg-color:           #d04255; /* 行内代码用粉色强调 */
-  
-  /* --- 分割线 --- */
-  --md-typeset-hr-color:        #e3e8ee;
+  /* --- 分割线：青铜蚀刻线条 --- */
+  --md-typeset-hr-color:         #dcd1b4;
 }
 
 /* ==========================================================================
-   🌙 夜间模式 (Dark Mode) - 深邃蓝灰调
+   🌌 永恒群星 (Dark Mode) - 深邃神殿与群星暗金
    ========================================================================== */
 [data-md-color-scheme="slate"] {
-  --md-default-bg-color:        #20242a; /* 深色背景，带一点蓝味 */
-  --md-default-bg-color--alt:   #2c313a; /* 卡片背景 */
+  /* --- 背景：星空深邃蓝黑，而非纯黑 --- */
+  --md-default-bg-color:         #12151a; 
+  --md-default-bg-color--alt:    #1a1d24; 
   
-  --md-default-fg-color:        #dcxoed; 
-  --md-default-fg-color--light: #abb2bf;
+  --md-default-fg-color:         #d5dbe5; 
+  --md-default-fg-color--light:  #8a95a5;
 
-  /* 主色 */
-  --md-primary-fg-color:        rgba(32, 36, 42, 0.85); /* 顶栏半透明深色 */
+  /* --- 顶栏：永夜神殿 --- */
+  --md-primary-fg-color:         rgba(18, 21, 26, 0.85); 
   
-  /* 链接 */
-  --md-typeset-a-color:         #4aa2ff;
-  --md-accent-fg-color:         #ff758f;
+  /* --- 链接与强调：星落暗金 --- */
+  --md-typeset-a-color:          #dfb76c;
+  --md-accent-fg-color:          #ff9ebb;
 
-  /* 代码块 */
-  --md-code-bg-color:           #2c313a;
-  --md-code-fg-color:           #ff758f;
+  /* --- 代码块 --- */
+  --md-code-bg-color:            #1a1d24;
+  --md-code-fg-color:            #dfb76c;
 }
 
 /* ==========================================================================
-   🍧 标题彩虹色 (Blue Topaz 灵魂所在)
+   👑 史诗标题 (Epic Titles) - 诸神与誓言的色彩
    ========================================================================== */
-/* 强制所有 H 标签遵循以下配色，覆盖默认设置 */
 .md-typeset h1, .md-typeset h2, .md-typeset h3, 
 .md-typeset h4, .md-typeset h5, .md-typeset h6 {
+    font-family: "Cinzel", "Georgia", "Noto Serif SC", serif !important; /* 引入带有古典雕刻感的衬线体 */
     font-weight: 700;
-    margin-top: 1.5em;
+    text-transform: uppercase; /* 英文自动大写增强史诗感 */
+    letter-spacing: 0.05em;
+    margin-top: 1.8em;
 }
 
-/* H1: 经典 Topaz 蓝 */
+/* H1: 王者暗金 - 带有双重古典衬线装饰 */
 .md-typeset h1 { 
-    color: var(--topaz-blue) !important;
-    border-bottom: 2px solid rgba(42, 118, 221, 0.2);
-    padding-bottom: 0.3em;
+    color: var(--epic-gold) !important;
+    text-align: center; /* H1 居中，如同章节史诗开篇 */
+    padding-bottom: 0.5em;
+    margin-bottom: 1em;
+    position: relative;
 }
-[data-md-color-scheme="slate"] .md-typeset h1 { color: #4aa2ff !important; }
+/* H1 底部的古典装饰线 */
+.md-typeset h1::after {
+    content: "❖";
+    position: absolute;
+    bottom: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    font-size: 14px;
+    color: var(--epic-gold);
+    background: transparent;
+    padding: 0 10px;
+}
+.md-typeset h1 {
+    border-bottom: 1px solid var(--epic-gold);
+}
 
-/* H2: 玫粉色 (Pink) */
+/* H2: 帝国深红 - 双边框与仪式感 */
 .md-typeset h2 { 
-    color: var(--topaz-pink) !important;
-    border-left: 4px solid var(--topaz-pink); /* 左侧竖线装饰 */
-    padding-left: 10px;
-    background: linear-gradient(to right, rgba(208, 66, 85, 0.05), transparent); /* 淡淡的背景渐变 */
-    border-radius: 0 8px 8px 0;
+    color: var(--epic-crimson) !important;
+    border-left: 6px double var(--epic-gold); /* 黄金双线衬托 */
+    padding-left: 14px;
+    background: linear-gradient(to right, rgba(197, 160, 89, 0.08), transparent); 
+    border-radius: 0;
 }
-[data-md-color-scheme="slate"] .md-typeset h2 { color: #ff758f !important; border-color: #ff758f; }
+[data-md-color-scheme="slate"] .md-typeset h2 { 
+    color: #dfb76c !important; 
+    border-color: #dfb76c; 
+    background: linear-gradient(to right, rgba(223, 183, 108, 0.08), transparent);
+}
 
-/* H3: 橙色 (Orange/Gold) */
+/* H3: 黄铜编年 */
 .md-typeset h3 { 
-    color: var(--topaz-orange) !important; 
+    color: var(--epic-bronze) !important; 
 }
-[data-md-color-scheme="slate"] .md-typeset h3 { color: #ffb74d !important; }
+[data-md-color-scheme="slate"] .md-typeset h3 { color: #d4a373 !important; }
 
-/* H4: 青色/松石绿 (Teal) */
+/* H4: 远古遗迹 */
 .md-typeset h4 { 
-    color: var(--topaz-teal) !important; 
+    color: var(--epic-teal) !important; 
 }
+[data-md-color-scheme="slate"] .md-typeset h4 { color: #649d9f !important; }
 
 /* ==========================================================================
-   🌫️ 顶栏毛玻璃特效 (Frosted Glass Header)
-   ========================================================================== */
+   🛡️ 顶栏与神殿仪式感 (Header & Navigation)
+   ========================================================================= */
 .md-header {
-    /* 背景模糊 */
-    backdrop-filter: blur(12px);
-    -webkit-backdrop-filter: blur(12px);
-    
-    /* 底部加一条极细的线代替阴影 */
-    border-bottom: 1px solid rgba(0,0,0,0.05);
-    box-shadow: none !important;
+    backdrop-filter: blur(20px);
+    -webkit-backdrop-filter: blur(20px);
+    border-bottom: 2px solid var(--epic-gold); /* 黄金分割线 */
+    box-shadow: 0 4px 20px rgba(0, 0, 0, 0.15) !important;
 }
 
-/* 日间模式顶栏文字颜色修正 (因为背景是白的) */
+/* 日间模式顶栏文字颜色修正 */
 [data-md-color-scheme="default"] .md-header {
-    color: #2c3e50 !important;
+    color: var(--epic-gold) !important;
 }
-/* 搜索框背景微调 */
+[data-md-color-scheme="default"] .md-header__topic,
+[data-md-color-scheme="default"] .md-header__title {
+    color: #fff !important; /* 让主标题在深色顶栏中保持高亮 */
+}
 [data-md-color-scheme="default"] .md-search__input {
-    background-color: rgba(0,0,0,0.05) !important;
-    color: #333;
-}
-[data-md-color-scheme="default"] .md-header__button.md-logo {
-    /* 如果 Logo 是白色的，可能看不清，这里加个蓝色滤镜，或者你自己换深色Logo */
-    /* filter: invert(1); Use this if needed */
+    background-color: rgba(255, 255, 255, 0.12) !important;
+    color: #fff;
 }
 
 /* ==========================================================================
-   📦 内容区卡片化与圆角
+   📦 羊皮纸卷轴与石板 (Content Cards)
    ========================================================================== */
 
-/* 侧边栏背景透明，融入主背景 */
 .md-sidebar {
     background-color: transparent !important;
 }
 
-/* 代码块圆角与Mac风格 */
+/* 代码块：如同刻在黑曜石或石板上 */
 .md-typeset pre > code {
-    border-radius: 10px;
-    box-shadow: 0 4px 6px rgba(0,0,0,0.02);
+    border-radius: 4px;
+    border: 1px solid rgba(197, 160, 89, 0.2);
+    box-shadow: inset 0 2px 8px rgba(0,0,0,0.05);
 }
 
-/* 表格：表头圆角 */
+/* 表格：史诗羊皮纸法典风格 */
 .md-typeset table:not([class]) {
-    border-radius: 12px;
+    border-radius: 4px;
     overflow: hidden;
-    box-shadow: 0 2px 5px rgba(0,0,0,0.05);
-    border: none;
+    box-shadow: 0 4px 15px rgba(0,0,0,0.06);
+    border: 1px solid var(--epic-gold);
 }
 .md-typeset table:not([class]) th {
-    background-color: #ebf0f4; /* 浅灰蓝表头 */
-    color: #333;
+    background-color: #2d2922; /* 深色表头 */
+    color: var(--epic-gold);
     font-weight: bold;
+    text-transform: uppercase;
+    letter-spacing: 0.05em;
 }
 [data-md-color-scheme="slate"] .md-typeset table:not([class]) th {
-    background-color: #2c313a;
-    color: #eee;
+    background-color: #1a1d24;
+    color: #dfb76c;
+    border-bottom: 1px solid #dfb76c;
 }
 
 /* ==========================================================================
-   🗺️ 地图容器 (适配 Topaz 风格)
+   🗺️ 羊皮纸世界地图 (World Map Container)
    ========================================================================== */
 #map {
     position: relative;
@@ -182,19 +198,25 @@
     width: 100%;
     height: 600px;
     
-    /* 大圆角 */
-    border-radius: 16px; 
+    /* 稳重的微小圆角 */
+    border-radius: 6px; 
     
-    /* 柔和的漂浮阴影 */
-    box-shadow: 0 10px 25px -5px rgba(0, 0, 0, 0.1), 0 8px 10px -6px rgba(0, 0, 0, 0.1);
+    /* 沉重的历史阴影 */
+    box-shadow: 0 20px 40px rgba(0, 0, 0, 0.25), 0 15px 15px rgba(0, 0, 0, 0.2);
     
-    /* 细微边框 */
-    border: 4px solid #ffffff; /* 类似相框的白边 */
+    /* 重型黄铜/实木相框边框 */
+    border: 8px solid #2d2922; 
+    outline: 2px solid var(--epic-gold); /* 双重框线 */
     overflow: hidden;
+    
+    /* 如果可以，建议给地图容器内部滤镜，使其更符合羊皮纸风格 */
+    filter: sepia(0.2) contrast(1.05);
 }
 /* 夜间模式地图边框变深 */
 [data-md-color-scheme="slate"] #map {
-    border: 4px solid #2c313a;
+    border: 8px solid #1a1d24;
+    outline: 2px solid #dfb76c;
+    filter: invert(0.9) hue-rotate(180deg) sepia(0.3); /* 强行给地图夜间化（如适用） */
 }
 
 .leaflet-control { z-index: 10; }

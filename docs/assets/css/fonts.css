@@ -8,3 +8,22 @@
 body {
     font-family: 'IMingTi', serif !important;
 }
+
+/* 1. 放大甘特图左侧的任务名称字体 */
+.mermaid .gantt .taskText,
+.mermaid .taskTextOutsideRight,
+.mermaid .taskTextOutsideLeft {
+    font-size: 15px !important;
+    font-weight: bold !important;
+}
+
+/* 2. 放大甘特图顶部的标题字体 */
+.mermaid .gantt .titleText {
+    font-size: 20px !important;
+}
+
+/* 3. 放大甘特图底部/顶部的日期轴及刻度字体 */
+.mermaid .gantt .axis text,
+.mermaid .gantt .tick text {
+    font-size: 13px !important;
+}
