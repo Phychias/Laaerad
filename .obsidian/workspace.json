@@ -4,83 +4,24 @@
     "type": "split",
     "children": [
       {
-        "id": "65d21dba48b10b00",
+        "id": "43fb34461fa7b1d7",
         "type": "tabs",
         "children": [
           {
-            "id": "4987b9eebda3c0d6",
+            "id": "8c7ebbdea2358c2a",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "docs/zh/50_语言文化/语言/咕洛语.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "aFile": "docs/zh/地理风貌/山河陆海/克鲁索法河.md",
+                "bFile": "docs/zh/地理风貌/山河陆海/克鲁索法河.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "咕洛语"
-            }
-          },
-          {
-            "id": "ae62832973e4851a",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z00_灵感/家族.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "家族"
-            }
-          },
-          {
-            "id": "450e3696e7827f5e",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "z00_灵感/德卓黑一世 1.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "德卓黑一世 1"
+              "icon": "diff",
+              "title": "Diff: 克鲁索法河  (Working Tree)"
             }
           }
-        ],
-        "currentTab": 2
+        ]
       }
     ],
     "direction": "vertical"
@@ -224,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "docs/zh/50_语言文化/语言/图斯克语.md",
+                "file": "docs/zh/历史长河/朝代更迭/黑蔑特王朝.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "图斯克语 的大纲"
+              "title": "黑蔑特王朝 的大纲"
             }
           },
           {
@@ -258,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 505.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -276,35 +217,43 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39d4f883301d278a",
+  "active": "1a518f311b272964",
   "lastOpenFiles": [
-    "docs/zh/50_语言文化/文化/佩尔南河纪行.md",
-    "copilot-custom-prompts/整理.md",
-    "docs/zh/50_语言文化/语言/图斯克语.md",
-    "1.1 铁血摄政的代价.md",
-    "docs/zh/50_语言文化/语言/图斯克语完备性测试模板.md",
-    "图斯克语配列演变.pdf",
-    "图斯克语配列演变.typ",
-    "docs/zh/50_语言文化/语言/图斯克语配列演变：类型学观察.md",
-    "docs/zh/2026-05-31_图斯克语修订记录.md",
-    "docs/zh/图斯克语修改计划与创作建议.md",
-    "docs/zh/50_语言文化/语言/图斯克语词汇集.md",
-    "docs/zh/50_语言文化/宗教与传说/图斯克神话.md",
-    "docs/zh/50_语言文化/语言/咕洛语.md",
     "德卓黑.md",
-    "copilot-conversations/这个神话设定怎么样，请你批判地提问，如果我的目的是为写@20260416_002117.md",
-    "z00_灵感/家族.md",
-    "z00_灵感/原始语名字.md",
-    "copilot-conversations/试着对照知识库中的内容，检查七家共治这一事件的合理性@20260405_010521.md",
-    "z00_灵感/全知者设定.md",
-    "z00_灵感/图斯克神话 1.md",
-    "z00_灵感/德卓黑一世 1.md",
-    "docs/zh/10_地理概览/市镇/希娜支镇.md",
-    "docs/zh/10_地理概览/区域/俺东.md",
-    "docs/zh/20_历史长河/大事件/七家共治.md",
-    "docs/zh/50_语言文化/语言/index.md",
+    "图斯克语配列演变.pdf",
+    "docs/zh/图斯克语修改计划与创作建议.md",
+    "docs/zh/50_语言文化/语言/拉普里奥语.md",
+    "docs/zh/50_语言文化/语言/拉埃拉德原始语.md",
+    "docs/zh/50_语言文化/语言/图斯克语配列演变：类型学观察.md",
+    "docs/zh/50_语言文化/语言/图斯克语词汇集.md",
+    "docs/zh/50_语言文化/语言/图斯克语完备性测试模板.md",
+    "docs/zh/50_语言文化/语言/图斯克语.md",
+    "docs/zh/50_语言文化/语言/图斯克地区常用姓名考.md",
+    "docs/zh/50_语言文化/语言/咕洛语.md",
     "docs/zh/50_语言文化/语言/原始东北拉埃拉德语.md",
+    "docs/zh/50_语言文化/语言/index.md",
+    "docs/zh/50_语言文化/文化/瓦特苏卡瑟母游记.md",
+    "docs/zh/50_语言文化/文化/佩尔南河纪行.md",
+    "docs/zh/50_语言文化/宗教与传说/图斯克神话.md",
     "docs/zh/50_语言文化/宗教与传说/咕洛传说.md",
-    "docs/zh/20_历史长河/大事件/黑蔑特东进.md"
+    "docs/zh/50_语言文化/语言",
+    "docs/zh/50_语言文化/文化",
+    "docs/zh/50_语言文化/宗教与传说",
+    "docs/zh/50_语言文化/index.md",
+    "docs/zh/50_语言文化",
+    "docs/zh/40_家族血脉/铁苏库/德卓黑三世.md",
+    "docs/zh/40_家族血脉/铁苏库/德卓黑一世.md",
+    "docs/zh/40_家族血脉/铁苏库/index.md",
+    "docs/zh/40_家族血脉/黑蔑特/马塔肖萨门二世.md",
+    "docs/zh/40_家族血脉/黑蔑特/马塔肖萨门一世.md",
+    "docs/zh/40_家族血脉/黑蔑特/阿贵吉奥.md",
+    "docs/zh/40_家族血脉/黑蔑特/波拉斯蓬.md",
+    "docs/zh/40_家族血脉/黑蔑特/塔莫格.md",
+    "docs/zh/40_家族血脉/黑蔑特/卓奥西二世.md",
+    "docs/zh/40_家族血脉/铁苏库",
+    "docs/zh/40_家族血脉/黑蔑特",
+    "docs/zh/40_家族血脉/莫斯瓦里克",
+    "docs/zh/40_家族血脉/维斯尤丰",
+    "docs/zh/40_家族血脉/瑞联"
   ]
 }
