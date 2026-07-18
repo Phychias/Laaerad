@@ -11,10 +11,24 @@
             "id": "02b7ea571218aeed",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/01-nouns/ais.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
               "icon": "lucide-file",
-              "title": "新标签页"
+              "title": "ais"
             }
           }
         ]
@@ -213,7 +227,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "39d4f883301d278a",
+  "active": "02b7ea571218aeed",
   "lastOpenFiles": [
     "gitignore",
     "site/assets/img/trusk_map/border_trusk.png",
