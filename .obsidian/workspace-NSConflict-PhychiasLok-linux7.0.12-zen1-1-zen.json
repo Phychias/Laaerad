@@ -1,0 +1,269 @@
+{
+  "main": {
+    "id": "c334be1886c05e09",
+    "type": "split",
+    "children": [
+      {
+        "id": "65d21dba48b10b00",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4987b9eebda3c0d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "修改计划.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "修改计划"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "5162689e8615c353",
+    "type": "split",
+    "children": [
+      {
+        "id": "0014e7d26e605832",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "1a518f311b272964",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "09a1269db6e3e19b",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "fe41759256ca1323",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          },
+          {
+            "id": "d0fc3e1e95882238",
+            "type": "leaf",
+            "state": {
+              "type": "VIEW_TYPE_LONGFORM_EXPLORER",
+              "state": {},
+              "icon": "longform",
+              "title": "Longform"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "db366b1ef7392a50",
+    "type": "split",
+    "children": [
+      {
+        "id": "86148158ab6251bf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "537764ab8706f667",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/zh/50_语言文化/语言/咕洛语.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "咕洛语 的反向链接列表"
+            }
+          },
+          {
+            "id": "e6e6d0139877a261",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "出链"
+            }
+          },
+          {
+            "id": "b80378603fbeed22",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "b301dba46d701b7e",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "738cb2a5c2d8fd57",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/zh/index.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "index 的大纲"
+            }
+          },
+          {
+            "id": "39d4f883301d278a",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          },
+          {
+            "id": "f92a562b011a265c",
+            "type": "leaf",
+            "state": {
+              "type": "copilot-chat-view",
+              "state": {},
+              "icon": "message-square",
+              "title": "Copilot"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 380.5
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "random-note:开始漫游笔记": false,
+      "templater-obsidian:Templater": false,
+      "copilot:Open Copilot Chat": false,
+      "obsidian-leaflet-plugin:打开 Leaflet 地图": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "4987b9eebda3c0d6",
+  "lastOpenFiles": [
+    "docs/assets/img/ComfyUI_00124_.png",
+    "docs/zh/历史长河/朝代更迭/伯帖斯抓护王朝.md",
+    "docs/zh/历史长河/大事件/俺东入侵.md",
+    "docs/zh/历史长河/index.md",
+    "docs/zh/历史长河/大事件/七家共治.md",
+    "docs/zh/家族血脉/拉瓦劳氏族/index.md",
+    "docs/zh/家族血脉/拉瓦劳氏族/拉瓦劳氏族.md",
+    "docs/zh/家族血脉/拉瓦劳氏族",
+    "docs/zh/历史长河/大事件/index.md",
+    "docs/zh/历史长河/大事件/黑蔑特东进.md",
+    "docs/zh/地理风貌/拉埃拉德.md",
+    "docs/zh/index.md",
+    "docs/zh/语言文化/语言/图斯克语/图斯克语语法书.md",
+    "docs/stylesheets/extra.css~",
+    "docs/assets/js/map_viewer.html~",
+    "docs/assets/css/float.css~",
+    "id4arch_ed22519.pub",
+    "id4arch_ed22519",
+    "docs/zh/语言文化/语言/图斯克语/index.md",
+    "docs/zh/语言文化/语言/图斯克语/黑蔑特地区常用名.md",
+    "docs/zh/语言文化/语言/咕洛语.md",
+    "docs/zh/语言文化/语言/index.md",
+    "docs/zh/语言文化/语言/拉普里奥语.md",
+    "docs/zh/语言文化/语言/原始东北拉埃拉德语.md",
+    "docs/zh/语言文化/语言/拉埃拉德原始语.md",
+    "docs/zh/语言文化/语言/图斯克语/图斯克语词汇集.md",
+    "docs/zh/语言文化/语言/图斯克语/图斯克语完备性测试模板.md",
+    "docs/zh/语言文化/语言/图斯克语/图斯克语配列演变.md",
+    "z00_灵感/家族.md",
+    "docs/zh/语言文化/语言/图斯克地区常用姓名考.md",
+    "docs/zh/语言文化/语言/图斯克地区常用姓名考.md.nssyncsc",
+    "docs/zh/语言文化/语言/图斯克语",
+    "docs/zh/50_语言文化/语言/图斯克语配列演变：类型学观察.md",
+    "docs/zh/50_语言文化/语言/图斯克语配列演变：类型学观察.md.nssyncsc",
+    "z00_灵感/图斯克语修改计划与创作建议.md",
+    "z00_灵感/图斯克语配列演变.pdf"
+  ]
+}
