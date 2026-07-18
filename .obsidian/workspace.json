@@ -13,12 +13,12 @@
             "state": {
               "type": "split-diff-view",
               "state": {
-                "aFile": "docs/zh/地理风貌/山河陆海/克鲁索法河.md",
-                "bFile": "docs/zh/地理风貌/山河陆海/克鲁索法河.md",
+                "aFile": "site/assets/javascripts/bundle.e71a0d61.min.js",
+                "bFile": "site/assets/javascripts/bundle.e71a0d61.min.js",
                 "aRef": ""
               },
               "icon": "diff",
-              "title": "Diff: 克鲁索法河  (Working Tree)"
+              "title": "Diff: bundle.e71a0d61.min.js  (Working Tree)"
             }
           }
         ]
@@ -88,7 +88,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 336.5040512084961
   },
   "right": {
     "id": "db366b1ef7392a50",
@@ -199,7 +199,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 505.5
+    "width": 277.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -217,43 +217,44 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "1a518f311b272964",
+  "active": "39d4f883301d278a",
   "lastOpenFiles": [
-    "图斯克历史新编.md",
-    "docs/zh/语言文化/语言/图斯克语/黑蔑特地区常用名.md",
-    "docs/zh/语言文化/语言/图斯克语/图斯克语语法书.md",
-    "docs/zh/语言文化/语言/图斯克语/图斯克语词汇集.md",
-    "docs/zh/语言文化/语言/图斯克语/图斯克语完备性测试模板.md",
-    "docs/zh/语言文化/语言/图斯克语/index.md",
-    "docs/zh/语言文化/语言/拉普里奥语.md",
-    "docs/zh/语言文化/语言/拉埃拉德原始语.md",
-    "docs/zh/语言文化/语言/图斯克语",
-    "docs/zh/语言文化/语言/咕洛语.md",
-    "docs/zh/语言文化/语言/原始东北拉埃拉德语.md",
-    "docs/zh/语言文化/语言/index.md",
-    "docs/zh/语言文化/文化/瓦特苏卡瑟母游记.md",
-    "docs/zh/语言文化/文化/佩尔南河纪行.md",
-    "docs/zh/语言文化/宗教与传说/图斯克神话.md",
-    "docs/zh/语言文化/宗教与传说/咕洛传说.md",
-    "docs/zh/语言文化/语言",
-    "docs/zh/语言文化/文化",
-    "docs/zh/语言文化/宗教与传说",
+    "gitignore",
+    "site/assets/img/trusk_map/border_trusk.png",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/01-nouns/baaja.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/01-nouns/baa.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/01-nouns/ais.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/01-nouns/ken.md",
     "docs/zh/语言文化/index.md",
-    "docs/zh/语言文化",
-    "docs/zh/政治势力/图斯克/拉普里奥部落联盟.md",
-    "docs/zh/政治势力/图斯克/图斯克帝国.md",
-    "docs/zh/政治势力/图斯克/咕洛诸部.md",
-    "docs/zh/政治势力/图斯克",
-    "docs/zh/政治势力/index.md",
-    "docs/zh/政治势力",
-    "docs/zh/家族血脉/黑蔑特/马塔肖萨门二世.md",
-    "docs/zh/家族血脉/黑蔑特/马塔肖萨门一世.md",
-    "docs/zh/家族血脉/黑蔑特/阿贵吉奥.md",
-    "docs/zh/家族血脉/黑蔑特/波拉斯蓬.md",
-    "docs/zh/家族血脉/黑蔑特/塔莫格.md",
-    "docs/zh/家族血脉/黑蔑特/卓奥西二世.md",
-    "docs/zh/家族血脉/黑蔑特",
-    "docs/zh/家族血脉/铁苏库",
-    "docs/zh/家族血脉/莫斯瓦里克"
+    "docs/zh/语言文化/语言/图斯克语/trusk/README.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/04-texts/01-intro.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/04-texts",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/dziapk.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/ung.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/ngiugu.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/oi.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/ile.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/lais.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/dziu.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/dorai.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/najiu.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/gira.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/por.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/adzym.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/ko.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/wes.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/nor.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/het.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/lai.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives/glat.md",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/03-adjectives",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/05-other",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/04-pronouns",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/01-nouns",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary/02-verbs",
+    "docs/zh/语言文化/语言/图斯克语/trusk/03-vocabulary",
+    "docs/zh/语言文化/语言/图斯克语/trusk/02-grammar",
+    "docs/zh/语言文化/语言/图斯克语/trusk/01-phonology",
+    "docs/zh/语言文化/语言/图斯克语/trusk"
   ]
 }
