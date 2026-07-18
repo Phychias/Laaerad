@@ -4,21 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "43fb34461fa7b1d7",
+        "id": "a8df42f6dfe7e7cc",
         "type": "tabs",
         "children": [
           {
-            "id": "8c7ebbdea2358c2a",
+            "id": "02b7ea571218aeed",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
-              "state": {
-                "aFile": "site/assets/javascripts/bundle.e71a0d61.min.js",
-                "bFile": "site/assets/javascripts/bundle.e71a0d61.min.js",
-                "aRef": ""
-              },
-              "icon": "diff",
-              "title": "Diff: bundle.e71a0d61.min.js  (Working Tree)"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "新标签页"
             }
           }
         ]
